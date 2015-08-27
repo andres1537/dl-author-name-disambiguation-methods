@@ -5,7 +5,7 @@
 	<artifactId>dl-author-name-disambiguation-methods</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>Author Name Disambiguation Methods</name>
+	<name>dl-author-name-disambiguation-methods</name>
 	<description>This project contains the methods used in the work "On the Combination of Domain-Specific Heuristics for Author Name Disambiguation – The Nearest Cluster Method".</description>
 	<inceptionYear>2015</inceptionYear>
 
@@ -32,7 +32,7 @@
     </properties>
     
     <build>
-		<finalName>authorNameDisambiguationMethods</finalName>
+		<finalName>dl-author-name-disambiguation-methods</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
