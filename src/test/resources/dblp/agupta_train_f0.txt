@@ -1,0 +1,288 @@
+440;20;arvind gupta;n nishimura;character complex subgraph isomorph graph bound path width;stac symposium theoret aspect comput scienc;0
+437;20;arvind gupta;d kaller,t shermer;regular factor complement partial k tree;wad workshop algorithm data structur;0
+94;5;a gupta;d stahl,a whinston;applic parallel comput resourc price schedul flexibl manufactur;oper research method model applic j e aronson s ziont ed quorum book;0
+485;22;a gupta;;elementari proof johnson lindenstrauss lemma;random structur algorithm icsi tr;0
+388;20;a gupta;j delgrande;two result negat free logic;appli mathemat letter;0
+293;18;amarnath gupta;r jain;visual inform retriev;commun the acm;0
+327;18;amarnath gupta;b ludascher,r moore;ontolog servic curriculum develop nsdl;jcdl acm ieee joint digit librari;0
+152;10;a gupta;l soule;evalu chandi misra bryant algorithm digit logic simul;acm tran model comput simul;0
+234;10;anoop gupta;m tambe;suitabl messag pass comput implement product;aaai nation artifici intellig;0
+503;22;anupam gupta;a kumar,m thorup;tree mpl rout;spaa acm symposium parallel algorithm architectur;0
+75;5;a gupta;r bapna,p goes;analysi design busi consum onlin auction;manag scienc;0
+313;18;amarnath gupta;a katkere,j schlenzig,r jain;interact video www beyond vcr like interfac;comput network isdn system;0
+194;10;anoop gupta;g jancke,g venolia,j grudin,j cadiz;link public space technic social issu;chi human factor comput system;0
+308;18;amarnath gupta;r jain,s santini;search inform visual media;commun acm;0
+57;3;alok gupta;t boult,t donnell;new model recoveri cylindr structur from medic imag;cvrmed;0
+529;23;ajay k gupta;a photiou;load balanc prioriti queue distribut memori machin;parl parallel architectur languag europ;0
+387;20;a gupta;j delgrande;represent constant time tempor reason;aaai nation artifici intellig;0
+236;10;anoop gupta;d teodosiu,j chapin,m rosenblum,s devine,t lahiri;implement effici fault contain multiprocessor confin fault share memori multiprocessor environ;commun acm;0
+362;19;ashish gupta;d katiyar,i mumick;count solut view mainten problem;workshop deduct databas jicslp joint intern and symposium logic program;0
+74;5;a gupta;a whinston,b jukic,d stahl,m parameswaran;streamlin digit economi how avert tragedi common;ieee internet comput;0
+107;5;alok gupta;r chellappa,g gupta,a a;manag comput resourc activ intranet;intern journal network manag;0
+226;10;anoop gupta;d bargeron,e sanocki,j grudin;annot stream video web design usag studi;comput network;0
+83;5;a gupta;r gopal;trade higher softwar piraci higher profit case phantom piraci;proceed hicss intern system scienc big island nomin the best paper award;0
+68;4;anil k gupta;l barbosa,n georganas;switch modul atm switch their interconnect network;comput network isdn system;0
+93;5;a gupta;d stahl,a whinston;econom approach network comput prioriti class;journal organiz comput electron;0
+261;18;a gupta;p alarcon,a montano,j carazo;model shape topolog low resolut densiti map biolog macromolecul;biophys journal;0
+431;20;arvind gupta;d kaller,s mahajan,t shermer;vertex partit problem partial k tree;scandinavian workshop algorithm theori;0
+237;10;anoop gupta;a tucker,j torrellas;benefit cach affin schedul share memori multiprocessor summari;sigmetr measur model comput system;0
+66;4;anil k gupta;n georganas;analysi packet switch input output buffer speed constraint;infocom confer comput commun;0
+278;18;a gupta;m martone,m wong,x qian,g sosinsky,s lamont,b ludascher,m ellisman;cell center databas electron tomograph;journal structur biologi;0
+369;19;ashish gupta;j blakeley;partial inform updat materi view;inf syst;0
+426;20;arvind gupta;j delgrande;complex minimum partial truth assign implic negat free formula;annal mathemat artifici intellig;0
+428;20;arvind gupta;n nishimura;character complex subgraph isomorph graph bound path width;th symposium theoret aspect comput scienc;0
+383;19;ashish gupta;;entrepreneurship inform research abstract invit tutori;pod symposium principl databas system;0
+528;23;ajay gupta;w maass;effici design boltzmann machin;nip neural inform process system;0
+449;21;a gupta;f gustavson,m joshi,s toledo;design implement evalu symmetr band linear solver distribut memori parallel comput;acm tran math softw;0
+243;11;abhishek gupta;a abbadi,d agrawal;approxim rang select queri peer peer;cidr innov data system research;0
+298;18;amarnath gupta;b ludascher,m martone;regist scientif inform sourc semant mediat;st intern conceptu model er intern conceptu model entiti relationship approach tamper;0
+393;20;a gupta;r impagliazzo;comput planar intertwin;siam journal discret mathemat;0
+530;23;ajay k gupta;a boals,j hashmi,n sherwani;compact hypercub properti recognit;icci intern comput inform;0
+402;20;a gupta;r krishnamurti;parallel algorithm vehicl rout problem;parallel process letter;0
+331;18;amarnath gupta;b ludascher,i altintas;time leav tree from syntact conceptu queri xml;edbt extend databas technolog workshop;0
+442;20;arvind gupta;n nishimura;find smallest supertre;isaac intern symposium algorithm comput;0
+20;2;a gupta;s ghosh,t herman,s pemmaraju;fault contain self stabil protocol;th annual acm symposium principl distribut comput;0
+532;23;ajay k gupta;a boals,n sherwani;optim embed incomplet hypercub;ipp intern parallel process symposium;0
+37;2;a gupta;a basu;intelleg mobil agent framework resourc discoveri transcod;intellig comput vlsi veri larg scale integr alli publish;0
+96;5;a gupta;r bapna;onlin mercantil process closer look at b c onlin auction handbook electron commerc busi societi p b lowri r j watson j o cherrington ed st luci press boca raton fl;;0
+411;20;a gupta;d kaller,t shermer;linear time algorithm partial k tree complement;algorithmica;0
+102;5;a gupta;b jukic,m parameswaran,d stahl,a whinston;streamlin digit economi how avert tragedi common;ieee internet comput;0
+460;21;anshul gupta;a karaivanov,f gustavson,j wasniewski,p yalamov;experi recurs perturb algorithm symmetr indefinit linear;euro par;0
+15;1;amit gupta;d ferrari;resourc partit real time commun;ieee acm tran netw;0
+516;22;anupam gupta;;steiner point tree metric don t realli help;soda symposium discret algorithm;0
+562;24;aarti gupta;p ashar,z yang;dynam detect remov inact claus sat applic imag comput;dac design autom;0
+201;10;anoop gupta;d lenoski,d nakahira,j laudon,j hennessy,l stevens,t joe;dash prototyp implement perform;isca intern symposium comput architectur;0
+263;18;a gupta;s moezzi,a taylor,s chatterjee,r jain,m goldbaum,s burgess;content retriev ophtalmolog imag;proc intern imag process lusann;0
+136;10;a gupta;c forgy;static run time characterist op product;j parallel distrib comput;0
+99;5;a gupta;d stahl,a whinston;prioriti price approach manag multi servic class network real time;journal electron publish;0
+494;22;anupam gupta;a andoni,m deza,p indyk,s raskhodnikova;lower bound embed edit distanc norm space;soda symposium discret algorithm;0
+215;10;anoop gupta;e rothberg,j singh;model commun parallel algorithm fruit interact between theori;spaa acm symposium parallel algorithm architectur;0
+67;4;anil k gupta;n georganas;prioriti perform atm packet switch;infocom confer comput commun;0
+49;2;arobinda gupta;a basu,s banerjee;onlin transcod web page mobil devic;hci human comput interact;0
+212;10;anoop gupta;a newell,c forgy,r wedig;initi assess architectur product;aaai nation artifici intellig;0
+34;2;a gupta;h paul,r badrinath;simul perform estim checkpoint recoveri protocol;poster present hpc asia bangalor;0
+39;2;a gupta;u deshpande,a basu;coordin problem solv through resourc share distribut environ;ieee transact system man cybernat;0
+545;24;aarti gupta;;formal hardwar verif method survei;formal method system design;0
+468;21;anshul gupta;v kumar;scalabl parallel algorithm matrix multipl;icpp intern parallel process;0
+219;10;anoop gupta;e rothberg;parallel iccg hierarch memori multiprocessor address triangular solv bottleneck;parallel comput;0
+345;18;amarnath gupta;s santini,t wang;interpol volum model;vldb veri larg data base;0
+270;18;a gupta;h hampapur,m gorkani,r jain;summar video;intern imag process ieee santa barbara;0
+250;13;aloke gupta;w fuchs;garbag collect distribut object orient;ieee tran knowl data eng;0
+22;2;a gupta;s ghosh,m karaata,s pemmaraju;self stabil dynam program algorithm tree;workshop self stabil system la vega;0
+38;2;a gupta;r borie;balanc decomposit partial k tree;congressu numerantium;0
+303;18;amarnath gupta;a hampapur,b horowitz,c fuller,c shu,j bach,m gorkani,r jain;virag video engin;storag retriev imag video databas spie intern societi optic engin;0
+131;9;anurag gupta;k chakraborty,p mazumder;silicon compil fault toler rom;dft defect fault toler vlsi system;0
+239;10;anoop gupta;a tucker;exploit variabl grain parallel at runtim;ppopp principl practic parallel program ppeal symposium principl practic parallel program;0
+84;5;a gupta;l linden,d stahl,a whinston;benefit cost adopt usag price subnetwork;inform technolog manag;0
+432;20;arvind gupta;d kaller,t shermer;complement partial k tree;intern colloquium automata languag program;0
+561;24;aarti gupta;a fisher;tradeoff canon sequenti function represent;iccd intern comput design;0
+403;20;a gupta;r krishnamurti;parallel algorithm vehicl rout problem;hipc;0
+349;18;amarnath gupta;m trivedi,s bhonsle;databas architectur autonom transport agent scene network incid manag aton;icpr intern pattern recognit;0
+277;18;a gupta;b ludascher,m martone;mediat model inform integr;int conf vldb veri larg data base cairo;0
+310;18;amarnath gupta;r jain,t weymouth;semant queri pictur vimsi model;vldb veri larg data base;0
+302;18;amarnath gupta;b ludascher,m martone,x qian,j tran,i zaslavsky;manag altern model model mediat;british nation databas bncod british nation databas;0
+566;25;a gupta;a agarwal,l mui,p wang;adapt modular neural network applic unconstrain charact recognit;ijprai intern journal pattern recognit artifici intellig;0
+156;10;anoop gupta;b verghese,j hennessy,k gharachorloo,m heinrich,v soundararajan;flexibl us memori replic migrat cach coher dsm multiprocessor;isca intern symposium comput architectur;0
+357;19;ashish gupta;d quass,v harinarayan;aggreg queri process wareh environ;vldb veri larg data base;0
+473;21;anshul gupta;f gustavson;fast graph partit it applic spars matrix order;para appli parallel comput;0
+206;10;anoop gupta;a balachandran,e sanocki,g jancke,j grudin,j cadiz;distanc learn through distribut collabor video view;cscw comput support cooper work;0
+87;5;a gupta;b su,z walter;econom analysi consum purchas intent electron tradit retail channel competit strateg implic;forthcom decis support system;0
+406;20;a gupta;s mahajan;amplif comput major small major gate;comput complex;0
+11;1;amit gupta;d ferrari,m moran,q nguyen,r yavatkar,r bettati,w heffner,w howe;connect establish multi parti real time commun;nossdav network oper system support digit audio video;0
+486;22;a gupta;a srinivasan;cover steiner problem;fst tc theoret comput scienc;0
+323;18;amarnath gupta;b ludascher,c baru,p velikhov,r marciano,v chu,y papakonstantinou;xml inform mediat digit librari;acm dl digit librari;0
+421;20;arvind gupta;j delgrande,t allen;point approach qualit tempor reason;pricai pacif rim intern artifici intellig;0
+456;21;a gupta;m joshi,v kumar;wsmp high perform serial parallel spars linear solver;ibm research report rc;0
+150;10;a gupta;j singh,m levoy;parallel visual algorithm perform architectur implic;ieee comput;0
+9;1;a gupta;m moran,r bettati,r oppliger;secur architectur tenet scheme;idm interact distribut multimedia system telecommun servic;0
+104;5;alok gupta;a whinston,d stahl;econom network manag;commun acm;0
+309;18;amarnath gupta;r jain,t weymouth;semant queri imag databas;vdb visual databas system;0
+484;22;a gupta;;embed tree low dimension euclidean space;stoc acm symposium theori comput discret comput geometri;0
+178;10;anoop gupta;z hakura;design analysi cach architectur textur map;isca intern symposium comput architectur;0
+544;24;a gupta;p ashar,s malik;complet distinguish fsm equival check;acm tran design autom electr syst;0
+564;25;a gupta;m butler,m feng,p huck;self configur self administ name dynam address assign;acm tran internet techn;0
+134;10;a gupta;s woo,m ohara,e torrie,j singh;splash program;isca intern symposium comput architectur;0
+70;5;a gupta;p konana,a whinston;integr user prefer real time workload electron commerc;inform system research;0
+438;20;arvind gupta;d kaller,t shermer;chi t color problem;stac symposium theoret aspect comput scienc;0
+195;10;anoop gupta;g jancke,j grudin;present local remot audienc design us telep;chi human factor comput system;0
+271;18;a gupta;b ludascher;mani face process interact graph manag perspect;omic journal integr biologi;0
+36;2;a gupta;s shekhar,s banerjee;onlin transcod new page handheld devic;intern comput scienc;0
+184;10;anoop gupta;j hennessy,k gharachorloo,t mowry,w weber;compar evalu latenc reduc toler techniqu;isca intern symposium comput architectur;0
+42;2;arobinda gupta;s banerjee,a basu;onlin transcod web page mobil devic;hci human comput interact udin;0
+386;20;a gupta;j delgrande;386;inf process lett;0
+171;10;anoop gupta;a colburn,i tashev,j cadiz,l he,r cutler,s silverberg,y rui,z zhang,z liu;distribut meet meet captur broadcast;acm multimedia;0
+439;20;arvind gupta;s mahajan;amplif comput major small major gate;comput complex;0
+213;10;anoop gupta;a newell,c forgy,r wedig;parallel algorithm architectur rule;isca intern symposium comput architectur;0
+71;5;a gupta;r bapna,p goes;onlin mercantil process digit product qualiti servic uncertain demand;proceed wit workshop inform technolog system sydnei;0
+312;18;amarnath gupta;r jain,s santini;user interfac emerg sement imag databas;ds discoveri scienc;0
+246;12;anurag p gupta;a brennan,d siewiorek,p edmond;assur autom design depend;dac design autom;0
+398;20;a gupta;;fast parallel algorithm recognit parenthesi languag;technic report tr depart comput scienc univers toronto;0
+220;10;anoop gupta;e rothberg;techniqu improv perform spars matrix factor multiprocessor workstat;supercomput;0
+211;10;anoop gupta;a newell,c forgy;high speed implement rule;acm tran comput syst;0
+262;18;a gupta;m goldbaum,v kouznetsova,i zaslavsky,d nazafi;gener medic imag onlin descript grammar;poster american associ ophthalmologist;0
+251;14;anurag gupta;i akyildiz,r fujimoto;perform analysi time warp homogen processor exponenti task time;sigmetr measur model comput system;0
+25;2;a gupta;c mazumdar;partial share parallel rete network faster execut product;fronit knowledg base comput vijai p bhatkar kiran m rege ed narosa publish hous;0
+227;10;anoop gupta;e sanocki,g kimberly,h chesley,j grudin,s white;evolv us educ at distanc;hicss intern system scienc;0
+301;18;amarnath gupta;t weymouth,r jain;semant queri pictur vimsi model;proc intern veri larg data base barcelona edit lohman g m sernada camp r san mateo comput anim morgan kaufmann;0
+176;10;anoop gupta;j grudin,l he;design present demand view;cscw comput support cooper work;0
+229;10;anoop gupta;j singh,j hennessy;implic hierarch n bodi method multiprocessor architectur;acm tran comput syst;0
+397;20;a gupta;n nishimura;find smallest common supertre;sixth annual intern symposium algorithm comput;0
+371;19;ashish gupta;s tiwari;constraint manag distribut design databas;ieee data eng bull;0
+58;3;alok gupta;b bhanu,d michael,t boult;introduct special issu innov applic comput vision;mach vi appl;0
+294;18;amarnath gupta;t weymouth,r jain;extend object orient model larg imag base;proc advanc spatial databas symposium ssd symposium larg spatial databas zurich edit gunther o schek h j springer verlag;0
+128;8;ashish kumar gupta;a halevy,d suciu;view select stream process;webdb;0
+44;2;arobinda gupta;s ghosh;exercis fault contain self stabil leader elect;inform process letter;0
+338;18;amarnath gupta;m martone,s zhang,x qian;practic approach microscopi imag manag midm neurosci;ssdbm statist scientif databas manag;0
+105;5;alok gupta;r bapna,p goes;insight analysi onlin auction;commun the acm;0
+499;22;anupam gupta;a kumar,m pal,t roughgarden;approxim via cost share simpl approxim algorithm multicommod rent bui problem;foc ieee symposium foundat comput scienc;0
+235;10;anoop gupta;d teodosiu,j chapin,m rosenblum,s devine,t lahiri;hive fault contain share memori multiprocessor;sosp symposium oper system principl;0
+117;6;anubhav gupta;r suryanarayan,t blalock;slew rate enhanc techniqu oper amplifi tunabl activ gm capacit multipl circuit;acm great lake symposium vlsi veri larg scale integr;0
+316;18;amarnath gupta;b ludascher,i altintas;compil abstract scientif workflow web servic workflow;ssdbm statist scientif databas manag;0
+205;10;anoop gupta;t mowry,w weber;reduc memori traffic requir scalabl directori cach coher scheme;icpp intern parallel process;0
+143;10;a gupta;d lenoski,d nakahira,j laudon,j hennessy,l stevens,t joe;dash prototyp logic overhead perform;ieee tran parallel distrib syst;0
+127;8;ashish kumar gupta;d suciu;stream process xpath queri predic;sigmod intern manag data;0
+429;20;arvind gupta;;construct proof that tree ar well quasi order minor;nerod m taitslin editor second symposium logic foundat comput scienc page springer verlag;0
+133;9;anurag gupta;l whitman,r agarwal;suppli chain agent decis aid scada;winter simul;0
+320;18;amarnath gupta;b ludascher,m martone;model mediat domain map;icd intern data engin;0
+378;19;ashish gupta;a swami,h young;algorithm handl skew parallel task schedul;j parallel distrib comput;0
+517;22;anupam gupta;a andoni,m deza,p indyk,s raskhodnikova;lower bound embed edit distanc norm space;soda symposium discret algorithm;0
+204;10;anoop gupta;m martonosi;tradeoff messag pass share memori implement standard cell router;icpp intern parallel process;0
+91;5;a gupta;d stahl,a whinston;manag comput resourc intranet electron commerc perspect;decis support system;0
+523;23;ajay gupta;e doncker;multivari integr hypercub mesh network;parallel comput;0
+553;24;aarti gupta;c wang,m ganai,p ashar,z yang;abstract bdd complement sat bmc diver;cav comput aid verif;0
+385;20;a gupta;j delgrande;385;inform process letter;0
+514;22;anupam gupta;f zane;count invers list;soda symposium discret algorithm;0
+118;6;anubhav gupta;p williams,a biere,e clarke;combin decis diagram sat procedur effici symbol model check;cav comput aid verif;0
+162;10;anoop gupta;w weber;analysi cach invalid pattern multiprocessor;asplo architectur support program languag oper system;0
+315;18;amarnath gupta;b ludascher,m martone;birn m semant mediat solv real world neurosci problem;sigmod intern manag data;0
+498;22;anupam gupta;;improv result direct multicut;soda symposium discret algorithm;0
+376;19;ashish gupta;a rajaraman,v harinarayan;virtual databas technolog;icd intern data engin;0
+311;18;amarnath gupta;r jain,s bhonsle,s santini;semiord databas complex activ recognit multi sensori environ;icd intern data engin;0
+30;2;a gupta;h paul,r badrinath;hierarch coordin checkpoint algorithm;pdc parallel distribut comput system iast intern parallel distribut comput system;0
+200;10;anoop gupta;d lenoski,j laudon,j hennessy,k gharachorloo;directori cach coher protocol dash multiprocessor;isca intern symposium comput architectur;0
+112;6;a gupta;z yang,p ashar;dynam detect remov inact claus sat applic imag;comput dac design autom;0
+27;2;a gupta;m kortright,r borie;fast parallel algorithm balanc decomposit seri parallel graph;congressu numerantium;0
+109;5;alok gupta;p goes,r bapna;simul onlin yanke auction optim seller revenu;hicss intern system scienc;0
+332;18;amarnath gupta;b ludascher,g burns,k stephan,r kotter;toward feder neuroscientif knowledg manag brain atlas;neurocomput;0
+479;22;a gupta;f zane;count invers stream;soda symposium discret algorithm;0
+281;18;a gupta;s santini,r jain;queri multipl perspect video;proceed spie intern societi optic engin storag retriev imag video databas vii san jose;0
+203;10;anoop gupta;m martonosi,t anderson;memspi analyz memori bottleneck program;sigmetr measur model comput system;0
+570;25;amar gupta;b prasad,m reddy,p reddy;methodolog integr heterogen databas;ieee tran knowl data eng;0
+552;24;aarti gupta;a raghunathan,p ashar,s bhattacharya;verif schedul presenc loop uninterpret symbol simul;iccd intern comput design;0
+326;18;amarnath gupta;b ludascher,m martone;extens model mediatior domain map;icd intern data engin demo session;0
+462;21;anshul gupta;g karypis,v kumar;parallel formul interior point algorithm;supercomput;0
+500;22;anupam gupta;a chakrabarti,c chekuri,a kumar;approxim algorithm unsplitt flow problem;approx;0
+538;23;ajay k gupta;d nelson,h wang;effici embed ternari tree hypercub;j parallel distrib comput;0
+122;7;avaneendra gupta;j hayes;clip optim layout gener two dimension cmo cell;dac design autom;0
+367;19;ashish gupta;j widom;local verif global integr constraint distribut databas;sigmod intern manag data;0
+283;18;a gupta;s santini;extens featur manag engin imag retriev;proc spie intern societi optic engin storag retriev media databas;0
+560;24;aarti gupta;a fisher;parametr circuit represent induct boolean function;cav comput aid verif;0
+481;22;a gupta;c chekuri,a kumar,j naor,d raz;design edg failur resili network;ipco integ program combinatori optim;0
+149;10;a gupta;j singh,j hennessy,t joe;empir comparison kendal squar research ksr stanford dash multiprocessor;supercomput;0
+472;21;anshul gupta;f gustavson,g karypis,m joshi,v kumar;design implement scalabl parallel direct solver spars symmetr posit definit preliminari result;ppsc siam parallel process scientif comput;0
+110;5;alok gupta;r gopal;minitrack introduct;hicss intern system scienc;0
+154;10;anoop gupta;;stanford dash multiprocessor hardwar softwar approach;parl parallel architectur languag europ;0
+196;10;anoop gupta;m lam,t mowry;design evalu compil algorithm prefetch;asplo architectur support program languag oper system;0
+288;18;a gupta;i zaslavsky,r marciano;combin queri transform plan spatial mediat;spatial data handl;0
+185;10;anoop gupta;j hennessy,r chandra;local load balanc cool;ppopp principl practic parallel program;0
+297;18;amarnath gupta;b ludascher,r moore;ontolog servic curriculum develop nsdl;acm ieee cs joint digit librari jcdl acm ieee joint digit librari;0
+454;21;a gupta;a sameh,v kumar;perform scalabl precondit conjug gradient method cm;ppsc siam parallel process scientif comput;0
+232;10;anoop gupta;d bargeron,e sanocki,f li,j grudin;asynchron collabor around multimedia it applic demand train;hicss intern system scienc;0
+202;10;anoop gupta;m martonosi,t anderson;effect trace sampl perform debug tool;sigmetr measur model comput system;0
+507;22;anupam gupta;a kumar,r rastogi;explor trade off between label size stack depth mpl rout;infocom confer comput commun;0
+419;20;a gupta;j delgrande;complex negat free logic;aaai nation artifici intellig workshop complex ai artifici intellig;0
+5;0;ajay k gupta;b kvande,i levinstein,k maly,m olson,r mukkamala,r chambers,r whitney,s nanjangud;privileg manag enforc distribut resourc share;wetic workshop enabl technolog infrastructur collabor enterpris;0
+51;2;arobinda gupta;s pemmaraju,s ghosh;fault contain network protocol;sac select area cryptographi;0
+384;19;ashish gupta;i mumick;magic set transform nonrecurs;pod symposium principl databas system;0
+52;2;arobinda gupta;s pemmaraju,s ghosh,t herman;fault contain self stabil algorithm;podc symposium principl distribut comput;0
+305;18;amarnath gupta;r jain;visual inform retriev;commun acm;0
+214;10;anoop gupta;a newell,b milnes,c forgy,d kalp,m tambe;soar psm e investig match parallel learn product;ppopp principl practic parallel program ppeal symposium principl practic parallel program;0
+120;7;a gupta;j hayes;clip integ program optim layout synthesi d cmo cell;acm tran design autom electr syst;0
+407;20;a gupta;n nishimura;complex subgraph isomorph dualiti result graph bound path tree width;tc theoret comput scienc;0
+451;21;a gupta;g karypis,v kumar;highli scalabl parallel algorithm spars matrix factor;ieee transact parallel distribut system;0
+79;5;a gupta;g adomavicius;toward comprehens bidder support onlin combinatori auction;proceed wit workshop inform technolog system;0
+325;18;amarnath gupta;b ludascher,m martone,x qian;navig virtual inform sourc know me;edbt extend databas technolog;0
+314;18;amarnath gupta;p kelly,r jain;visual comput meet model defin object multicamera video databas;storag retriev imag video databas spie intern societi optic engin;0
+115;6;anubhav gupta;a biere,e clarke,p williams;combin decis diagram sat procedur effici symbol model check;cav comput aid verif;0
+513;22;anupam gupta;a kumar,r rastogi;travel pez dispens rout issu mpl;foc ieee symposium foundat comput scienc;0
+515;22;anupam gupta;;improv result direct multicut;soda symposium discret algorithm;0
+450;21;a gupta;g karypis,v kumar;highli scalabl parallel algorithm spars matrix factor;ieee tran parallel distrib syst;0
+40;2;a gupta;u deshpande,a basu;coordin mechan hospit resourc schedul multi agent framework;rd intern workshop distribut comput calcutta;0
+368;19;ashish gupta;i mumick,j rao,k ross;adapt materi view after redefinit techniqu perform studi;inf syst;0
+179;10;anoop gupta;l he,q liu,y rui;build intellig camera manag;acm multimedia;0
+286;18;a gupta;t wang,s santini;interpol volum model databas;int conf conceptu model er intern conceptu model entiti relationship approach;0
+413;20;a gupta;d kaller,t shermer;regular factor k tree;workshop algorithm data structur;0
+217;10;anoop gupta;e rothberg;experi implement parallel atm share memori multiprocessor;ijcai intern joint artifici intellig;0
+541;23;ajay k gupta;e doncker;coars grain precondit conjug gradient solver larg spars;ppsc siam parallel process scientif comput;0
+295;18;amarnath gupta;s santini,r jain;search inform visual media;commun the acm;0
+233;10;anoop gupta;p stenstrom,t joe;compar perform evalu cach coher numa coma architectur;isca intern symposium comput architectur;0
+255;16;a gupta;a tiwari,h yang,j frullo,r sekar,s zhou,t shanbhag;specif anomali detect new approach detect network intrus;acm comput commun secur;0
+492;22;a gupta;a sinclair,c chekuri,i newman,y rabinovich;embed k outerplanar graph l;soda symposium discret algorithm;0
+116;6;anubhav gupta;e clarke,j kukula,o shrichman;sat abstract refin ilp machin learn techniqu;cav comput aid verif;0
+430;20;arvind gupta;n nishimura;find largest common embedd subtre;th annual symposium theoret aspect comput scienc;0
+506;22;anupam gupta;a kumar,t roughgarden;constant factor approxim algorithm multicommod;foc ieee symposium foundat comput scienc;0
+258;17;ajay gupta;m bhide,m mohania,s pandey;dynam access control framework event;icd intern data engin;0
+480;22;a gupta;i newman,y rabinovich,a sinclair;cut tree l embed;foc ieee symposium foundat comput scienc;0
+137;10;a gupta;k gharachorloo,d lenoski,j laudon,p gibbons,j hennessy;memori consist event order scalabl sharedmemori multiprocessor retrospect reprint;year isc;0
+210;10;anoop gupta;p nayak,p rosenbloom;comparison rete treat product matcher soar;aaai nation artifici intellig;0
+356;19;ashish gupta;j ullman,j widom,y sagiv;effici complet test databas integr constraint check;ppcp principl practic constraint program;0
+535;23;ajay k gupta;s hambrusch;load balanc tree embed;parallel comput;0
+147;10;a gupta;e rothberg,j singh;work set cach size node granular issu larg scale multiprocessor;isca intern symposium comput architectur;0
+76;5;a gupta;r bapna,p goes,g aruga;predict calibr onlin multi unit ascend auction;proceed wit workshop inform technolog system barcelona nomin the best paper award;0
+536;23;ajay k gupta;s hambrusch;embed complet binari tree butterfli network;ieee tran comput;0
+328;18;amarnath gupta;c baru,b ludascher,r marciano,y apakonstantinou,p velikhov,v chu;xml inform mediat mix;proc the acm sigmod intern manag data;0
+157;10;anoop gupta;b verghese,m rosenblum;perform isol share isol share memori multiprocessor;asplo architectur support program languag oper system;0
+268;18;a gupta;s bhonsle,s santini,r jain;event manag architectur activ recognit multistream video databas;proceed the imag understand workshop comput anim;0
+69;5;a gupta;d morrice;transient sensit analysi comput simul;proceed european simul multiconfer barcelona nomin the best paper award;0
+169;10;anoop gupta;j chapin,m rosenblum,s herrod;memori perform unix cc numa multiprocessor;sigmetr measur model comput system;0
+436;20;arvind gupta;d kaller,t shermer;complement partial k tree;icalp automata languag program;0
+466;21;anshul gupta;v kumar;optim scalabl parallel spars choleski factor;ppsc siam parallel process scientif comput;0
+291;18;amarnath gupta;g burns,k stephan,b ludascher;toward feder neuroscientif knowledg manag brain atlas;comput neurosci meet cn poster paper brugg;0
+380;19;ashish gupta;l haas,y papakonstantinou;capabl queri rewrit mediat;pdi parallel distribut inform system;0
+241;10;anoop gupta;a tucker,s urushibara;impact oper schedul polici synchron method perform parallel applic;sigmetr measur model comput system;0
+13;1;amit gupta;m moran,q nguyen,w howe;resourc share multi parti real time commun;infocom confer comput commun;0
+396;20;a gupta;t allen,j delgrande;qualit tempor reason;pacif rim intern artifici intellig;0
+457;21;a gupta;;recent advanc direct method solv unsymmetr spars linear equat;ibm research report rc;0
+249;13;aloke gupta;w hwu;execut profil window orient applic;softw pract exper;0
+568;25;amar gupta;m reddy,m siegel;toward activ schema integr architectur heterogen databas;ride research issu data engin im interoper multidatabas system;0
+448;21;a gupta;f gustavson,m joshi,s toledo;design implement evalu band linear solver distribut memori parallel comput;para appli parallel comput;0
+182;10;anoop gupta;j heinlein,k gharachorloo,s dresser;integr messag pass share memori stanford flash multiprocessor;asplo architectur support program languag oper system;0
+284;18;a gupta;s santini;principl schema design multimedia databas;ieee tran multimedia system;0
+306;18;amarnath gupta;r jain,s santini;emerg semant through interact imag databas;ieee tran knowl data eng;0
+138;10;a gupta;c forgy,a newell,r wedig;parallel algorithm architectur rulebas;isca intern symposium comput architectur;0
+158;10;anoop gupta;b verghese,m rosenblum,s devine;oper support improv local cc numa comput server;asplo architectur support program languag oper system;0
+155;10;anoop gupta;a brush,d bargeron,j grudin;notif share annot digit document;chi human factor comput system;0
+417;20;a gupta;a proskurowski,n nishimura,p ragde;embed k connect graph pathwidth k;swat scandinavian workshop algorithm theori;0
+425;20;arvind gupta;j delgrande;represent effici tempor reason;aaai nation artifici intellig iaai twelfth innov applic artifici intellig;0
+509;22;anupam gupta;a kumar,b yener,j kleinberg,r rastogi;provis virtual privat network network design problem multicommod flow;stoc acm symposium theori comput;0
+33;2;a gupta;h paul,r badrinath;perform comparison checkpoint recoveri protocol;concurr comput practic experi;0
+522;23;ajay gupta;e doncker,p ealy;two method load balanc distribut adapt integr;hpcn european intern high perform comput network europ;0
+355;19;ashish gupta;;jungle integr all shape size;icd intern data engin;0
+46;2;arobinda gupta;a basu,u deshpande;adapt fault toler hospit resourc schedul;coopi doa intern symposium distribut object applic odbas intern ontolog databas applic semant;0
+125;8;ashish kumar gupta;s chaudhuri,v narasayya;compress sql workload;sigmod intern manag data;0
+330;18;amarnath gupta;b ludascher,e ross,i zaslavsky,j tran,m martone,x qian;manag altern model model mediat;bncod british nation databas;0
+573;25;amar gupta;a dhond,s vadhavkar;mine techniqu optim inventori electron commerc;kdd knowledg discoveri data mine;0
+35;2;a gupta;s ranjan,a basu,a meka,a chaturvedi;adapt mobil agent model case studi;workshop distribut comput calcutta;0
+343;18;amarnath gupta;s santini,r jain;emerg semant through interact imag databas;ieee tran knowledg data engin;0
+89;5;a gupta;d stahl,a whinston;decentr approach estim activ cost near optim resourc alloc flexibl manufactur;intern journal flexibl manufactur system;0
+191;10;anoop gupta;j hennessy,k gharachorloo;two techniqu enhanc perform memori consist model;icpp intern parallel process;0
+151;10;a gupta;j singh,j hennessy;scale parallel program multiprocessor methodolog exampl;ieee comput;0
+370;19;ashish gupta;l haas,y papakonstantinou;capabl queri rewrit mediat;distribut parallel databas;0
+56;3;alok gupta;c liang,m jolly;optim polylin track arteri motion compens coronari angiographi;iccv intern comput vision;0
+290;18;amamath gupta;b chanda;hue preserv enhanc scheme class colour imag;pattern recognit letter;0
+98;5;a gupta;d stahl,a whinston;prioriti price integr servic network internet econom l w mcknight j p bailei ed mit press cambridg ma;;0
+168;10;anoop gupta;r chandra,s devine,b verghese,m rosenblum;schedul page migrat multiprocessor comput server;asplo architectur support program languag oper system;0
+276;18;a gupta;b ludascher,m martone;model mediat scientif manag;z lacroix t critchlow ed bioinformat manag scientif data morgan kaufmann publish;0
+190;10;anoop gupta;j hennessy,k gharachorloo,m hill,s adve;program differ memori consist model;j parallel distrib comput;0
+497;22;anupam gupta;;improv bandwidth approxim tree chordal graph;soda symposium discret algorithm journal algorithm;0
+73;5;a gupta;p konana,d stahl,a whinston;research issu real time dbm context electron commerc;proceed acm workshop databas activ real time associ th intern inform knowledg manag;0
+360;19;ashish gupta;j ullman,j widom,y sagiv;valid constraint partial inform research overview;daisd deduct approach inform system databas;0
+135;10;a gupta;r cutler,y rui,j cadiz,i tashev,l he,a colburn,z zhang,z liu,s silverberg;distribut meet;acm multimedia;0
+77;5;a gupta;r bapna,p goes,g karuga;optim design onlin auction channel analyt empir comput insight;decis scienc prepubl version;0
+272;18;a gupta;s santini;toward featur algebra visual databas case studi histogram algebra;vdb visual databas system int conf visual databas tokyo;0
+146;10;a gupta;a newell,c forgy,d kalp,m tambe;parallel op encor multimax;icpp intern parallel process;0
+296;18;amarnath gupta;r marciano,i zaslavsky,c baru;integr gi imageri through xml inform mediat;proc nsf intern workshop integr spatial databas digit imag gi workshop advanc geograph inform system lectur note comput scienc springer verlag;0
+304;18;amarnath gupta;a hampapur,b horowitz,c fuller,c shu,j bach,r jain,r humphrey;virag imag search engin open framework imag manag;storag retriev imag video databas spie intern societi optic engin;0
+501;22;anupam gupta;a kumar,t roughgarden;simpler better approxim algorithm network design;stoc acm symposium theori comput;0
+31;2;a gupta;h paul,r badrinath;heterogen checkpoint recoveri protocol;pdpta parallel distribut process techniqu applic intern parallel distributd process techniqu applic la vega;0
+533;23;ajay k gupta;c fan,j liu;latin cube parallel arrai access;ipp intern parallel process symposium;0

@@ -1,0 +1,710 @@
+296;21;j lee;jin myung won,keehong seo,seok k hwang;evolutionari comput base identif monoton takagi sugeno kang fuzzi system;fuzz ieee;0
+1167;6;jong hyeok lee;hui feng li,namwon heo,kyonghi moon,geunbae lee;lexic transfer ambigu resolut us automat extract concept co occurr inform;comput process orient languag int l j clc olc publish;0
+250;1;j lee;b m w cheng,j c k wu,kenneth m f choi;increas constraint propag redund model experi report;constraint;0
+911;4;j lee;;biographi;ieee annal histori comput;0
+447;27;j lee;s c kim,j y lee,s b lee;link control scheme us self reflect signal global beam satellit network;ieee commun letter;0
+943;57;j lee;b w dickinson;scene adapt motion interpol structur base tempor mask human visual percept;proc spie intern societi optic engin conf visual commun imag process;0
+1026;5;j lee;d agarwal,j m gonzlez,g jin,b tierney;infrastructur passiv network monitor applic data stream;passiv activ measur san diego comput anim lbnl;0
+559;2;j lee;dennis gannon,jenq kuen lee;object orient parallel pc++ idea experi;joint symposium parallel process kobe;0
+1024;5;j lee;b tierney;tcp tune guid distribut applic wide area network;usenix login journal p lbnl;0
+1144;68;j lee;;precis lock algorithm nest transact system;cikm intern confer inform knowledg manag;0
+1029;5;j lee;b allcock,i foster,v nefedova,a chervenak,e deelman,c kesselman,a sim,a shoshani,b drach,d williams;high perform remot access climat simul data challeng problem data grid technolog;proceed ieee supercomput confer;0
+1153;6;jong hyeok lee;oh woog kwon,insu kang,geunbae lee;conceptu cross languag text retriev base document translat us japanes korean mt system;comput process orient languag;0
+320;23;jon lee;alan hoffman,joy williams;new upper bound maximum entropi sampl;c atkinson p hackl w g m ller editor moda advanc model orient design analysi contribut statist springer;0
+697;3;j lee;j y kuo;fuzzi decis make trade analysi criteria;inform scienc nsc sci scalabl coher interfac ei;0
+983;58;j lee;chong min kyung,hoon choi,in cheol park,ju hwan yi;exploit intellectu properti asip design embed dsp softwar;dac design autom confer;0
+749;41;j lee;chang hyun kim,min soeng kim;evolutionari optim fuzzi model asymmetr rbf membership function us simplifi fit farrugia;ifsa;0
+111;14;j lee;qing li,wei xiong;vim video inform manag system;multimedia tool applic;0
+1016;5;j lee;brian tierney,gary hoo,guojun jin,hanan herzog,ling tony chen,william e johnston;distribut parallel data storag system scalabl approach high speed imag server;acm multimedia;0
+500;27;jai yong lee;;method deriv control flow graph specif written estel;iso jtc wg seoul korea;0
+1013;5;j lee;g jin,g yang,b crowley,d agarwal;network character servic nc;proceed th ieee symposium high perform distribut comput hpdc high perform distribut comput symposium lbnl;0
+408;25;j lee;georges g grinstein,haim levkowitz,lisa masterman,robert f erbacher,ron pickett,stuart smith;exploratori visual research univers massachusett lowel;comput amp graphic;0
+9;10;j lee;josep torrellas,yan solihin;automat map code intellig memori architectur;hpca intern symposium high perform comput architectur;0
+380;24;j lee;seok lyong lee;effect similar search method larg video data stream;intern confer comput scienc icc;0
+1261;80;j lee;hae chull lim,pan seop shin,sung wan kim,youn hee kim;data model algebra document centric xml document;icoin intern confer inform network;0
+1137;67;j lee;salim hariri,sung yong park;multithread messag pass system high perform distribut comput applic;icdc intern confer distribut comput system;0
+353;23;jon lee;joy williams;gener maximum entropi sampl;univers depart mathemat technic report;0
+259;1;j lee;hai fang,peter j stuckey,y kilani;reduc search space local search constraint satisfact;aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig;0
+681;39;j lee;robert mccartney;predict user action us interfac agent individu user model;prima intern multi agent;0
+996;58;j lee;in cheol park;time compil code simul embed softwar perform analysi soc design;dac design autom confer;0
+1040;5;j lee;w johnston,b tierney,j feuguay,t butzer;distribut parallel storag architectur potenti applic within eosdi;nasa mass storag symposium;0
+285;1;j lee;k m f choi,j h m lee,p j stuckey;lagrangian reconstruct class local search method;th ieee intern confer tool artifici intellig page ieee press taipei roc;0
+1308;85;j lee;hyoung joong kim;parallel algorithm solv tridiagon toeplitz linear system;parallel comput;0
+167;17;j lee;jhing fa wang,lian ying liu,ming hwa sheu;expand chip dese grai scale morpholog oper;isca ieee intern symposium circuit system;0
+445;27;j lee;y i kim,j h chung,c s lim,j y lee,s b lee;hybrid perform manag scheme oam function support qo manag atm network;proceed ieee intern confer commun icc intern confer commun montreal;0
+894;4;j lee;gerald segal,rosalie steier;posit altern report acm panel hack;commun acm;0
+238;1;j lee;j h m lee,m h van emden;interv comput deduct chip;journal logic program north;0
+438;27;hyun jun lee;myoung chul jung,jaiyong lee;optim page cach map effici locat manag;icita bathurst;0
+251;1;j lee;c c k wong,j c k leung;construct wysiwyg latex typeset system us object orient design;softwar qualiti product;0
+1358;8;j lee;c dellarocas,t w malone,k crowston,b pentland;us process handbook design organiz process;proc aaai nation confer artifici intellig symposium comput organ design comput anim;0
+864;48;jae nam lee;young gul kim;outsourc strategi affili firm korean conglomer group;korean manag review korean;0
+949;57;j lee;bradley w dickinson;multiresolut video index subband code video databas;storag retriev imag video databas spie intern societi optic engin;0
+909;4;j lee;;obituari nichola constantin metropoli;ieee annal histori comput;0
+1257;7;jae ha lee;sang min park,kyung yong chwa;visibl base pursuit evas polygon region searcher;technic report kaist cs tr;0
+1032;5;j lee;a antony,j blom,c de laat,w sjouw;microscop examin tcp flow transatlant link;technic report univers special issu fgc fifth gener comput system;0
+1125;67;joohan lee;k oh;motion analysi us competit learn neural network fuzzi reason;journal fuzzi logic intellig system pp;0
+651;33;j lee;myung joon kim;high perform extern stencil comput us user control;icpad intern confer parallel distribut system;0
+652;33;j lee;p bruce berra,sanjay ranka,sung yong park;memori effici matrix multipl user control parallel;icpad intern confer parallel distribut system;0
+925;53;j lee;sukhan lee;new data fusion method applic state estim nonlinear dynam system;icra intern confer robot autom;0
+1198;72;j lee;jin ho hahm,jung sook bae,myung ki shin;rtmw applic bring multicast audio video web;comput network;0
+35;11;j lee;edmund h durfee,piotr j gmytrasiewicz;overeag reciproc ration mix strategi equilibria;aaai nation confer artifici intellig;0
+160;16;j lee;marianne winslett,szu wen kuo,ying chen,yong e cho;parallel scientif applic heterogen cluster resourc util approach;intern confer supercomput;0
+508;28;j lee;d dean,r orwig,d vogel;technolog support group process model;journal manag inform system winter;0
+711;3;j lee;john yen,josette pastor;tame integr environ task base knowledg specif acquisit;ictai intern confer tool artifici intellig;0
+230;1;j lee;chiu wo choi,peter j stuckey;propag redund redund model;cp principl practic constraint program;0
+1189;71;j lee;ludmila cherkasova;fastreplica effici larg file distribut within content deliveri network;usenix advanc comput system associ symposium internet technolog system;0
+1276;81;j lee;younki chae,jin ho kwak;characterist polynomi graph bundl;j korean math soc c;0
+683;3;j lee;kuo hsun hsu,lein f lai,yong yi fanjiang;task base conceptu graph basi autom softwar develop;int j intel syst;0
+1065;61;j lee;s kim,k kim;pipelin implement cordic rotat processor;itc intern test confer cscc seoul;0
+1051;5;j lee;b lowekamp,b tierney,les cottrell,r hughes jones,t kielmann,m swany;enabl network measur portabl hierarchi characterist;th intern grid comput grid lbnl;0
+1393;99;j lee;david stuart robertson,soon ae yang;kic knowledg intens case base reason system statutori build regul case histori;icail intern confer artifici intellig law;0
+1118;65;j lee;p ferdinand,s adachi,k morita,s mashiko;revers comput asynchron cellular automata;unconvent model comput lectur note comput scienc springer lnc;0
+594;2;j lee;rong guey chang,cheng wei chen,tyng ruey chuang,jenq kuen lee;toward automat support parallel spars comput java continu compil;concurr practic experi;0
+549;2;j lee;yi ping you,ching ren lee,jenq kuen lee;compil analysi support leakag power reduct microprocessor;lcpc languag compil parallel comput also lnc;0
+1303;83;j lee;byung ju yi,il hong suh,sang rok oh;optim design five bar finger redund actuat;icra intern confer robot autom;0
+646;32;j lee;charles c weems,shin dug kim;applic adapt intellig cach memori system;acm tran embed comput syst;0
+575;2;j lee;y l shieh,jenq kuen lee,j h tsai,c a lin;implement vortex filament method parallel machin distribut adapt data structur;intern journal numer method fluid;0
+785;43;j lee;y kim,m j noh,t d han,s d kim;map neural network onto memori processor integr architectur;neural network sci scalabl coher interfac;0
+687;3;j lee;j y kuo,n l xue;note current approach extend fuzzi logic object orient model;intern journal intellig system sci scalabl coher interfac ei;0
+810;47;joo ho lee;noriaki ando,hideki hashimoto;design polici intellig space;ieee system man cybernet confer;0
+915;50;j lee;cheol jung yoo,ok bae chang;analysi object interact enterpris javabean lifecycl us formal specif techniqu;sigplan special interest group program languag notic;0
+1010;5;j lee;alex sim,ann l chervenak,arie shoshani,bill allcock,bob drach,carl kesselman,dean williams,don middleton,ewa deelman,ian t foster,veronika nefedova;high perform remot access climat simul data challeng problem data grid technolog;parallel comput;0
+302;22;j lee;;artifici intellig applic electron commerc;pricai pacif rim intern confer artifici intellig;0
+1068;61;j lee;kees jan van der kolk,ed f a deprettere;float point vector algorithm base fast rotat;sip;0
+1052;5;j lee;b tierney,b crowley,m holding,j hylton,f drake;network awar distribut storag cach data intens environ;proceed ieee high perform distribut comput confer hpdc high perform distribut comput symposium lbnl;0
+341;23;jon lee;kurt m anstreicher,thomas f rutherford;crash maximum weight complementari basi;mathemat program seri;0
+1170;6;jong hyeok lee;dong un an,gil chang kim;corpu base modal gener korean predic;literari linguist comput;0
+484;27;j lee;y h choi,k h lee,s y chang,c park,j y lee,s b lee;hierarch perform manag us oam mib atm network;proceed ieee globecom;0
+131;15;j lee;hyogun lee,manhee kim;proport share schedul multimedia applic;icmc intern confer multimedia comput system;0
+1141;67;joohan lee;;fuzzi expert system autonom vehicl;technic report kosef sogang univers;0
+235;1;j lee;j h m lee,h f leung;execut scheme interact problem solv concurr constraint logic program languag page;depart comput scienc engin chines univers hong kong public comput languag;0
+629;32;jong sung lee;jung hoon lee,shin dug kim;tlb system support multipl page size regardless oper system;proc korea inform scienc societi;0
+816;47;joo ho lee;noriaki ando,hideki hashimoto;need mobil robot move intellig space mobil robot;ieee asm intern confer advanc intellig mechatron;0
+29;10;jaejin lee;yan solihin,josep torrellas;adapt map code intellig memori architectur;proceed intellig memori system;0
+814;47;joo ho lee;kazuyuki morioka,hideki hashimoto;mobil robot control intellig space support human;jsme journal robot mechatron appear soon;0
+433;27;jai yong lee;;approach automat conform test specif written estel;iso jtc wg seoul korea;0
+1381;93;j lee;il yeol song,kyu young whang,wan sup cho,wook shin han;corrigendum tunabl class hierarchi index object orient databas us multidimension index structur;inform amp softwar technolog;0
+955;57;j lee;b w dickinson;joint optim frame type select bit alloc mpeg video encod;proc first ieee int conf imag process;0
+495;27;j lee;k h lee,y h choi,j y lee,s b lee;qo restor us disjoint path group atm network;proceed sixth ifip intern feder inform process ieee intern symposium integr network manag;0
+774;43;j lee;g h park,o y kwon,t d han,s d kim;non referenc prefetch npr cach instruct prefetch;iee proceed comput digit techniqu paper;0
+599;30;j lee;chung ho lee,hae young bae,liang chen;content adapt transmiss strategi spatial inform www mobil applic;human societi internet;0
+777;43;j lee;m c wang,j b armstrong,s d kim,w g nation,h j siegel;multipl quadrat form case studi design data parallel algorithm;journal parallel distribut comput paper;0
+1164;6;j lee;gary geunbae lee,jeongwon cha;syllabl pattern base unknown morphem segment estim hybrid part speech tag korean;comput linguist;0
+423;27;jai yong lee;mi sun do,sang bae lee;qo guarante code alloc scheme multi code cdma network;proceed intern technic confer circuit system comput commun niigata;0
+373;24;j lee;seok lyong lee;blind equal us rbf ho;th intern confer intellig data engin autom learn;0
+475;27;j lee;c shim,k h park,j h lee,j y lee,s b lee;new ring protocol atm man;proceed intern council comput communicaton iccc seoul korea;0
+1282;81;j lee;jin ho kwak,juyoung kim,rongquan feng;isomorph class concret graph cover;siam societi industri appli mathemat j discret math;0
+569;2;j lee;y l shie,jenq kuen lee,c a lin,c h tsai;load balanc strategi parallel vortex method distribut adapt data structur;proceed parallel cfd;0
+1220;76;j lee;kyung hee kwon,young beom park;minim commun biton sort softwar;icpad intern confer parallel distribut system;0
+706;3;j lee;n l xue,j y kuo;structur requir specif goal;inform softwar technolog sci scalabl coher interfac ei;0
+812;47;joo ho lee;takahiro yamaguchi,hideki hashimoto;human comprehens intellig space;st ifac confer mechatron system;0
+1008;5;j lee;d gunter,b tierney,c e tull,v virmani;demand grid applic tune debug netlogg activ servic;th intern grid comput grid lbnl;0
+15;10;jaejin lee;;compil techniqu explicitli parallel program;ph d thesi technic report uiucdc r depart comput scienc univers;0
+1089;61;j lee;k kim;vlsi architectur geometr map problem high definit imag processor;proceed nasa vlsi larg scale integr symposium;0
+374;24;j lee;seok lyong lee;design analysi web base coursewar word processor;journal kaie;0
+667;36;j lee;doo hwan bae;enhanc role model allevi role bind anom;softw pract exper;0
+220;19;j lee;joong kyung ryu,kyung yong jung;new collabor filter method us repres attribut neighborhood bayesian estim valu;ic ai artifici intellig;0
+778;43;jung hoon lee;jin hyuck choi,se woong jeong,shin dug kim,c weems;low power tlb structur embed system;ieee comput societi technic committe comput architectur;0
+673;38;j lee;;comparison varianc correl sampl;comput applic bioscienc;0
+292;20;j lee;sung yong shin;gener construct time domain filter orient data;ieee transact visual comput graphic;0
+71;12;j lee;t k ho,jack y b lee;novel redund data updat algorithm fault toler server less video demand system;proc high perform larg scale comput hp lsc confer nottingham uk;0
+1227;79;j lee;ki wook kim,sung mo kang;vericdf new verif methodolog charg devic failur;dac design autom confer;0
+764;43;jang soo lee;w k hong,s d kim;perform analysi select compress memori system;microprocessor microsystem esci;0
+146;15;j lee;u ramachandran,j w lee;cach base synchron share memori multiprocessor;journal parallel distribut system;0
+479;27;h t lee jai yong lee;j w son,y y oh,s b lee;perform input queu atm switch even odd switch plane;electron letter iee;0
+1379;92;j lee;hyeokman kim,jae heon yang,samuel moon ho song,sanghoon sull,woonkyung michael kim;visual rhythm shot verif;multimedia tool applic;0
+1096;61;j lee;t lang;redund cordic constant scale svd;th intern symposium comput arithmet grenobl;0
+747;41;j lee;chang hyun kim,choon young lee,kap ho seo,sang keon oh;system gait rehabilit mobil manipul approach;icra intern confer robot autom;0
+39;11;j lee;edmund h durfee,marcus j huber,michael kurnow;taip tactic assist interact plan execut;agent;0
+313;22;j lee;jae k lee;manag inform system user s perspect;dasan publish korean;0
+269;1;j lee;j h m lee,p k c pun;object logic integr scheme multiparadigm design program;eighteenth intern confer exhibit technolog object orient languag system prentic hall;0
+252;1;j lee;b m w cheng,j c k wu;nurs roster system us constraint program redund model;ieee transact inform technolog biomedicin;0
+1110;64;j lee;doo kwon baik;semnet semant network integr databas;icsc intern comput scienc confer;0
+352;23;jon lee;;hoffman s circl untangl;siam societi industri appli mathemat review;0
+1120;65;j lee;ferdinand peper,kenichi morita,shinro mashiko,susumu adachi;revers comput asynchron cellular automata;umc unconvent model comput;0
+492;27;jai yong lee;;fa lan protocol implement develop integr fa network;rist technic research report;0
+350;23;new jon lee;;first cours combinatori optim;univers press paperback isbn hardback isbn cover first cours combinatori optim;0
+658;35;j lee;adit d singh,hee yong youn;adapt vote faulti vff node scheme distribut self diagnosi;ftc symposium fault toler comput;0
+1169;6;j lee;kyoung hi moon,sin jae kang,you jin chung;word sens disambigu us neural network concept co occurr inform;nlpr natur languag process pacif rim symposium;0
+1158;6;j lee;oh woog kwon;text categor base k nearest neighbor approach web site classif;inf process manag;0
+148;15;j lee;umakishore ramachandran;synchron multiprocessor cach;isca intern symposium comput architectur;0
+626;32;jung hoon lee;gi ho park,sung bas park,shin dug kim;select filter bank tlb system;acm ieee intern symposium low power electron design islp seoul korea;0
+1218;76;j lee;kenneth e batcher;minim commun recircul biton sort network;icpp intern confer parallel process;0
+565;2;j lee;dz ching ju,gwan hwan hwang;integr automat data align arrai oper synthesi optim data parallel program;lcpc languag compil parallel comput;0
+183;18;j lee;r inder,j kilgour;automat gener diagrammat web site map;;0
+172;17;j lee;chiou ying lee,erl huei lu;bit parallel systol multipli gf m field defin equal space polynomi;ieee tran comput;0
+551;2;j lee;gwan hwan hwang,d ju,jenq kuen lee;arrai oper synthesi optim hpf program distribut memori machin;journal parallel distribut comput academ press;0
+1208;75;jinho lee;s tenginakai,r machiraju;salient iso surfac detect model independ statist signatur;visual vi ieee symposium inform visual infovi proceed page s;0
+535;2;j lee;cheng wei chen,rong guey chang,tyng ruey chuang;toward automat support parallel spars comput java continu compil;concurr practic experi;0
+526;2;j lee;peng sheng chen,ming yu hung,yuan shin hwang,roy dz ching ju,jenq kuen lee;compil support specul multithread architectur probabilist point analysi;acm principl practic parallel program acm ppopp san diego;0
+1210;75;j lee;;design implement content base imag retriev system us interact genet algorithm;proceed th kiss confer;0
+1070;61;j lee;i koo,j ahn,k kim;analysi erlang capac multimedia ds cdma system;ieic tran;0
+275;1;j lee;ho fung leung,xudong luo;weight prioritis compensatori aggreg;fuzz ieee;0
+459;27;jai yong lee;jae sung park,sang bae lee;internet traffic measur anaysi high speed network environ workload flow characterist;jcn;0
+214;18;j lee;d wang;pictori concept concept support graphic system;;0
+13;10;jaejin lee;david a padua,samuel p midkiff;basic compil algorithm parallel program;proceed th acm sigplan special interest group program languag symposium principl practic parallel program ppopp;0
+1270;81;j lee;jin ho kwak,jang ho chun;enumer regular graph cover finit abelian cover transform group;siam societi industri appli mathemat j discret math c c b k m;0
+987;58;jong yeol lee;in cheol park;loop address code optim digit signal processor;ieic transact fundament p;0
+1019;5;j lee;brian tierney,william e johnston;data intens distribut comput medic applic exampl;hpcn european intern confer high perform comput network europ;0
+192;18;j lee;j mckendree,f dineen,j t mayes;vicari learner help student listen learn;;0
+841;48;jae nam lee;ki chan nam;inform system outsourc method forthcom case book;;0
+4;10;jaejin lee;yan solihin,josep torrellas;prefetch intellig memori architectur us helper thread;proceed multithread execut architectur compil mteac;0
+470;27;j lee;chan min park,ik soon hwang,sang bae lee,tae hyong kim;automat test case gener real protocol framework methodolog;fort formal techniqu network distribut system;0
+1020;5;j lee;w johnston,b tierney,c tull;direct issu high data rate wide area network environ;proceed comput high energi physic confer chep lbnl viewgraph;0
+134;15;j lee;inbum jung,jongwoong hyun,joongsoo ma;two phase barrier synchron primit improv processor util;intern journal parallel program;0
+489;27;j lee;k h lee,y h choi,d s park,t w kang,s h jeon,j y lee,s b lee;cost evalu disjoint protect scheme dynam bandwidth control;proceed th intern confer inform network icoin intern confer inform network cheju korea c c;0
+151;15;joonwon lee;yunseok rhee;scalabl cach coher architectur larg scale mesh connect multiprocessor;journal system architectur;0
+699;3;j lee;j i pan;rule base approach produc z specif jackson system develop;intern journal intellig system nsc sci scalabl coher interfac ei;0
+661;35;j lee;hee yong youn;effici dictionari machin us hexagon processor arrai;ieee tran parallel distrib syst;0
+1067;61;j lee;kees jan van der kolk,ed f a deprettere;float point vector algorithm base fast rotat;sip;0
+1312;86;j lee;jo atilde,o p hespanha,katia obraczka,stephan bohacek;hybrid system model framework fast accur simul data commun network;sigmetr measur model comput system;0
+586;2;j lee;p c wey,j s chen,c w chen,jenq kuen lee;support optim java rmi bluetooth environ;concurr comput practic experi wilei special issu java iscop;0
+1284;81;j lee;jin ho kwak;isomorph class graph bundl;canad j math c c q;0
+1347;8;j lee;younghwa lee,zoonky lee;integr softwar lifecycl process standard secur engin;comput amp secur;0
+81;12;j lee;w c liu,jack y b lee;constrain conson broadcast gener period broadcast scheme larg scale video stream;proc ieee intern confer multimedia expo icm u s;0
+848;48;j lee;minh q huynh,ron chi wai kwok,shih ming pi;evolut outsourc research next issu;hicss intern confer system scienc;0
+228;1;j lee;kenneth m f choi,peter j stuckey;lagrangian reconstruct genet;artif intel;0
+883;49;j lee;hyun kim,sang bong park,sung bae han;network centric featur base model;pacif confer comput graphic applic;0
+1121;66;j lee;insoo ha;sensor fusion calibr motion captur us acceleromet;icra intern confer robot autom;0
+133;15;joonwon lee;jeonghwan choi,hyogun lee;prefetch file system www server;int l symp internet technolog;0
+121;15;joonwon lee;umakishore ramachandran;lock directori weak memori recip scalabl share memori multiprocessor;scalabl share memori multiprocessor serial;0
+548;2;j lee;gwan hwan hwang,jenq kuen lee,dz ching ju;arrai oper synthesi optim hpf program ieee copyright materi;proceed intern confer parallel process ieee comput societi press;0
+224;19;j lee;su jeong ko;user prefer mine collabor filter content base filter recommend system;ec acm confer electron web;0
+229;1;j lee;j h m lee,h f leung;increment queri concurr clp languag ifd constraint pandora;acm symposium appli comput acm press;0
+580;2;j lee;ing kuen tsaur,san yih hwang;languag environ support parallel arrai object distribut environ;ppsc siam confer parallel process scientif comput;0
+1373;90;j lee;bolan jiang,jinhui hu,suya you,ulrich neumann;augment virtual environ av dynam fusion imageri d model;vr virtual realiti;0
+44;11;j lee;edmund h durfee;distribut artifici intellig melt pot;ieee transact system man cybernet special issu distribut artifici intellig smc;0
+1093;61;j lee;s lee,c oh,a ahmad,k kim;novel hybrid cdma tdma protocol reserv request slot wireless atm network;ieic tran b;0
+1323;8;j lee;;goal base process analysi;proc acm confer organiz comput comput anim;0
+529;2;j lee;peng sheng chen,roy dz ching ju,yuan shin hwang;probabilist point analysi;lcpc languag compil parallel comput;0
+502;28;j lee;conan c albrecht,jay f nunamaker;experi collabor applic support distribut model;hicss intern confer system scienc;0
+553;2;j lee;c d lin,w k shih,y w chang;real time gang schedul workload model parallel comput;icpad intern confer parallel distribut system;0
+357;23;jon lee;joy williams;linear integ program bound maximum entropi sampl;mathemat program seri b;0
+1095;61;j lee;k kim;numer error constant factor redund cordic base behaviro simul;iast;0
+426;27;jai yong lee;iksoon hwang,taehyong kim,sungback hong;test select non determinist fsm;comput commun;0
+600;30;j lee;chung ho lee,hae young bae;dpr dynam partial replic protocol base group commun web enabl databas cluster;apweb;0
+993;58;j lee;seong il park,in cheol park;fast three step half pel motion estim algorithm us enlarg half pel search window;ieee tran circuit system video technolog;0
+638;32;jung hoon lee;jang soo lee,shin dug kim;dual cach system base local detect mechan;journal korea inform scienc societi;0
+1294;82;j lee;kihong kim,sang k cha;differenti log commut associ log scheme highli parallel main memori databas;icd intern confer data engin;0
+221;19;j lee;kyung yong jung;predict user prefer recommend system us associ user cluster bayesian estim valu;australian joint confer artifici intellig;0
+284;1;j lee;j h m lee;fault simul prolog softwar re engin experi;th exhibit symposium industri applic prolog inap press kawasaki;0
+1382;94;j lee;michael s waterman,vlado danc iacute,k;estim restrict site observ optic map us revers jump markov chain mont carlo;recomb;0
+1160;6;j lee;geunbae lee,hui feng li;identifi syntact role anteced korean rel claus us corpu thesauru inform;cole confer comput linguist acl meet associ comput linguist;0
+613;31;j lee;janak h patel,vivek chickermane;design testabl us architectur descript;itc intern test confer;0
+692;3;j lee;lein f lai,wei t huang;task base specif conceptu graph;ieee expert;0
+1116;65;j lee;katsunobu imai,kenichi morita;simul dimension cellular automata uniqu parallel parsabl grammar;theor comput sci;0
+1000;58;j lee;j h yang,b w kim,s j nam,y s kwon,d h lee,y h lee,s h hwang,i c park,c m kyung;metacor applic specif dsp develop system;ieee transact larg scale integr system;0
+1004;59;j lee;hyung lee kwang;comparison fuzzi valu continu domain;fuzzi set system;0
+356;23;jon lee;;maximum entropi sampl;h el shaarawi w w piegorsch editor encyclopedia environmetr wilei;0
+197;18;j lee;;word pictur goodman revisit;;0
+745;41;j lee;won kim;visual track us snake object s discret motion;icra intern confer robot autom;0
+596;2;j lee;cheng wei chen,chung kai chen;build ontolog optim composit parallel javabean program;ispan;0
+723;3;j lee;n l xue,k h hsu,s j h yang;model imprecis requir fuzzi object;inform scienc nsc sci scalabl coher interfac ei;0
+1104;62;j lee;ki shik park,myung ki shin,yong jin kim,yonggeun hong;earli deploy strategi public wireless lan servic us ipv technolog;pdpta parallel distribut process techniqu applic;0
+920;52;j lee;il yeol song,kyu young whang,young koo lee;region split strategi physic databas design multidimension file organ;vldb larg data base;0
+1082;61;j lee;k kim;comput architectur dft base energi measur;proc ieee imtc shizuoka;0
+912;4;j lee;;biographi;ieee annal histori comput;0
+141;15;joonwon lee;dongwook kim;partit chip cach reduc memori access latenc share memori multiprocessor;th int l symp high perform comput;0
+1015;5;j lee;g jin,b tierney;netest tool measur maximum burst size;avail bandwidth achiev throughput proceed intern confer inform technolog new lbnl;0
+27;10;j lee;david a padua,jay hoeflinger,john grout,lawrence rauchwerger,peng tu,ramon doallo,rudolf eigenmann,thomas lawrence,william blume,william m pottenger,yunheung paek;parallel program polari;ieee comput;0
+1258;7;j lee;chan su shin,kyung yong chwa;direct hamiltonian pack d dimension mesh applic extend abstract;isaac intern symposium algorithm comput;0
+1200;73;j lee;adam liwo,cezary czaplewski,daniel r ripoll,harold a scheraga,jaroslaw pillardy,malgorzata groth,rajmund kazmierkiewicz,ryszard j wawak,stanislaw oldziej,sylwia rodziewicz motowidlo;unr unit residu forc field energi base predict protein structur orgin signific multibodi term;recomb;0
+892;49;j lee;jae yeol lee;shape represent interoper virtual prototyp distribut design environ;intern journal advanc manufactur technolog sci scalabl coher interfac expand;0
+910;4;j lee;;biographi;ieee annal histori comput;0
+558;2;j lee;dennis gannon,jenq kuen lee;object orient parallel pc++ idea experi;bit;0
+639;32;jung hoon lee;jang soo lee,gi ho park,kil whan lee,shin dug kim;dual tlb structur support two page size;iee electron letter paper;0
+200;18;j lee;m ramscar,h pain;know user know matter;;0
+826;47;joo ho lee;noriaki ando,teruhisa yakushi,katsunori nakajima,tohru kagoshima,hideki hashimoto;appli intellig space warehous first step intellig space project;ieee asm intern confer advanc intellig mechatron;0
+289;20;j lee;sung yong shin,tae hoon kim;robust motion watermark base multiresolut analysi;comput graph forum;0
+1204;74;j lee;jae weon choi,k son,m c lee,man hyung lee,seung hyun han;studi featur base visual servo control eight ax dual arm robot util redund featur;icra intern confer robot autom;0
+609;31;j lee;janak h patel,vivek chickermane;compar studi design testabl method us high level gate level descript;iccad intern confer comput aid design;0
+263;1;j lee;y c law;algebra properti csp model oper;cp principl practic constraint program;0
+989;58;jong yeol lee;in cheol park;perform enhanc embed softwar us regist promot;ieic;0
+776;43;j lee;t b berg,s d kim,h j siegel;limit impos mix mode perform optim phax due tempor juxtaposit;journal parallel distribut comput;0
+660;35;j lee;adit d singh,hee yong youn;adapt unanim vote uv scheme distribut self diagnosi;ieee tran comput;0
+504;28;j lee;kregg aytes,mark pendergast;support group creation formal inform graphic busi process model;interact comput;0
+311;22;j lee;jae k lee;manag inform system;bupyoung korean;0
+780;43;j lee;c m chung,p s shin,s d kim;effect configur method java internet comput environ;parallel process letter juli paper;0
+817;47;byoung ju lee;gwi tae park,hyun gu lee;new architectur mobil robot home network environ us jini;icra intern confer robot autom;0
+1244;7;j lee;kyung yong chwa;onlin schedul parallel commun individu deadlin;isaac intern symposium algorithm comput;0
+342;23;jon lee;kurt m anstreicher,marcia fampa,joy williams;maximum entropi remot sampl;discret appli mathemat;0
+66;12;j lee;raymond w t leung;design analysi fault toler mechan server less video demand system;icpad intern confer parallel distribut system;0
+837;47;joo ho lee;guido appenzeller,hideki hashimoto;cooper intellig mobil robot physic agent intellig space extend sensor mobil robot;intern conf field servic robot;0
+80;12;j lee;h l lai,l k chen,jack y b lee;vbr video deliveri us monoton decreas rate schedul;proc ieee intern symposium circuit system sydnei;0
+1009;5;j lee;d gunter,b tierney,b crowley,m holding;netlogg toolkit distribut system perform analysi;proceed ieee mascot confer mascot lbnl;0
+804;46;j lee;j senn;relationship inform technolog spend corpor revenu;proceed th annual intern confer system scienc ieee;0
+775;43;j lee;p s shin,w k hong,h c kim,s d kim;configur method multipl cluster comput grid;lectur note comput scienc esci paper;0
+1035;5;j lee;a chervenak,e deelman,i foster,a iamnitchi,c kesselman,w hoschek,p kunszt,m ripeanu,h stockinger,k stockinger,b tierney;giggl framework construct scalabl replica locat servic;proceed ieee supercomput confer;0
+1156;6;j lee;ji eun roh,sin jae kang;xexplain tool gener descript text databas;icdc intern confer distribut comput system workshop;0
+899;4;j lee;colin burke,deborah anderson;review us bomb full version avail onlin;ieee annal histori comput;0
+1237;7;jae ha lee;kyung yong chwa;onlin schedul parallel commun individu deadlin;proc th intern symposium algorithm comput isaac intern symposium algorithm comput madra lectur note comput scienc page;0
+331;23;jon lee;;character dimens class concord polytop;mathemat oper research;0
+1352;8;j lee;t bui;agent base framework build dss;public decis support system;0
+324;23;jon lee;chun wa ko,kevin wayne;comparison spectral hadamard bound d optim;c atkinson l pronzato h p wynn editor moda advanc model orient data analysi experiment design contribut statist springer;0
+536;2;j lee;jenq kuen lee,ing kuen tsaur,san yih huang;laguag environ support parallel object distribut memori environ;proceed th siam societi industri appli mathemat confer parallel process scientif comput;0
+843;48;j lee;shan l pan;us crm unifi view custom;commun acm;0
+55;12;j lee;jack y b lee;parallel video server tutori;ieee multimedia;0
+242;1;j lee;j h m lee,m h van emden;prune search tree cylindr closur;ieee pacif rim confer commun comput signal process ieee comput societi press;0
+1344;8;j lee;c dellarocas,t w malone,k crowston,b pentland;us process handbook design organiz process;proc aaai nation confer artifici intellig symposium comput organ design comput anim;0
+1242;7;jae ha lee;otfried cheong,woo cheol kwon,sung yong shin,kyung yong chwa;approxim curvatur constrain shortest path sequenc point;proc european symposium algorithm esa european symposium algorithm saarbruecken lectur note comput scienc page;0
+326;23;jon lee;chun wa ko,maurice queyranne;exact algorithm maximum entropi sampl;oper research;0
+927;54;j lee;bruno crispo,charalampos manifavas,francesco bergadano,roger m needham,ross j anderson;new famili authent protocol;oper system review;0
+46;11;j lee;daeeun kim;instanc base method extract rule neural network;icann int confer artifici neural network;0
+877;49;j lee;jae yeol lee,hyun kim,kwangsoo kim;web enabl approach featur base model distribut collabor design environ;concurr engin research applic sci scalabl coher interfac;0
+856;48;jae nam lee;young gul kim;inform system outsourc strategi affili firm korean conglomer group;journal strateg inform system;0
+254;1;j lee;m h m cheng,m h van emden,j h m lee;tabl user interfac logic program;intern confer fifth gener comput system tokyo;0
+369;23;jon lee;brenda l dietrich,yew sing lee;order select singl machin high set cost;annal oper research;0
+334;23;jon lee;;canon equat set class concord polytop;discret appli mathemat;0
+727;3;j lee;j yen;enhanc softwar life cycl knowledg base system us task base specif methodolog;intern journal softwar engin knowledg engin;0
+1123;66;j lee;tien c hsia,young seob hwang;recurs dimens grow method comput robot manipul polytop;icra intern confer robot autom;0
+970;58;j lee;h choi,j s kim,c w yoon,i c park,c m kyung;synthesi applic specif instruct embed dsp softwar;ieee transact comput;0
+246;1;j lee;chi kan cheng,peter j stuckey;box constraint collect adhoc constraint;cp principl practic constraint program;0
+150;15;joonwon lee;yoonsuk rhee;prefetch scheme imag comput;ieee int l conf imag process switzerl rosann;0
+708;3;j lee;j yen,d hamilton;expert system design method support verif;g h schildt j retti editor depend artifici intellig system daisi north page;0
+647;32;jung hoon lee;shin dug kim;high perform low power bank promot tlb structur;journal korea inform scienc societi;0
+722;3;j lee;l f lai;verifi task base specif conceptu graph;inform softwar technolog nsc sci scalabl coher interfac ei;0
+1274;81;j lee;dan archdeacon,jin ho kwak,moo young sohn;bipartit cover graph;discret math c c;0
+1;100;j lee;tosiyasu l kunii;visual translat nativ languag sign languag;vl visual languag;0
+591;2;j lee;rong guey chang,tyng ruey chuang;parallel spars support arrai intrins function fortran;journal supercomput;0
+885;49;j lee;jaesung kim,kwangsoo kim,jae yeol lee,hyung bae jung;solv d geometr constraint close loop assembl;intern journal advanc manufactur technolog sci scalabl coher interfac expand;0
+112;14;j lee;ting chuen pong,zoltan kato;motion compens color video classif us markov random field;accv asian confer comput vision;0
+359;23;jon lee;franois margot;parsimoni color formul;ibm research report rc;0
+181;18;j lee;d he,g ritchie;refer displai multimod interfac;;0
+872;49;j lee;jae yeol lee,kwangsoo kim;featur base approach extract machin featur;comput aid design sci scalabl coher interfac;0
+295;21;j lee;moon g joo;function approxim hierarch fuzzi system constraint fuzzi role;fuzz ieee;0
+1060;60;j lee;hyungill kim,sungyoung lee;network channel buffer schedul algorithm interact vod server;ftdc futur trend distribut comput system;0
+855;48;jae nam lee;kwok ron chi wai;fuzzi gss framework organiz knowledg acquisit;intern journal inform manag forthcom;0
+870;49;j lee;jae yeol lee,kwangsoo kim;d geometr constraint solv us dof base graph reduct;comput aid design sci scalabl coher interfac;0
+1046;5;j lee;b tierney,w johnston,g hoo,m thompson;end end perform analysi high speed distribut storag system wide area atm network;nasa goddard confer mass storag system technolog lbnl viewgraph;0
+323;23;jon lee;dan wilson;polyhedr method piecewis linear function lambda method;discret appli mathemat;0
+180;18;j lee;d he,g ritchie;disambigu visual displai repres domain multimod interfac;;0
+790;44;jiann der lee;chin hsing chen,yuan chiuan you;determin locat orient label cylind us point pair estim algorithm;ijprai intern journal pattern recognit artifici intellig;0
+344;23;jon lee;kurt m anstreicher,marcia fampa,joy williams;us continu nonlinear relax solv constrain maximum entropi sampl problem;mathemat program seri;0
+537;2;j lee;gwan hwan hwang,jenq kuen lee,dz ching ju;arrai oper synthesi scheme optim fortran program;acm sigplan special interest group program languag notic acm ppopp issu;0
+1185;71;j lee;gustavo de veciana;ip multicast resourc topolog discoveri us fan decrement mechan;comput network;0
+486;27;jai yong lee;yong hoon choi,kil hung lee,sang bae lee;oam mib end end perform manag solut atm;ieee journal select area commun;0
+1281;81;j lee;kyung kim hye,young sohn moo;note graph larg girth small minu domin number;discret appli mathemat;0
+847;48;jae nam lee;kwok ron chi wai,huynh minh q,pi shih ming;role gss collabor learn studi qualiti feedback;intern confer inform system brisban review;0
+1321;89;j lee;paul b kantor;test maximum entropi principl inform retriev;jasi journal american societi inform scienc;0
+483;27;j lee;y h choi,k h lee,j y lee,s b lee;hierarch perform manag atm network us oam mib;proceed intern council comput communicaton iccc cann;0
+434;27;jai yong lee;d y lee;automat test gener techniqu specif written estel;ieee tran comput;0
+858;48;jae nam lee;byun nam choi;inform system outsourc strategi ministri construct transport;korea manag inform system confer korean;0
+1296;82;j lee;jang ho park,ki hong kim,min seok song,sang kyun cha,sangho lee;high perform spatial storag base main memori databas architectur;dexa databas expert system applic;0
+617;32;jung hoon lee;jang soo lee,shin dug kim;new cach architectur base tempor spatial local;journal system architectur jsa paper;0
+1037;5;j lee;brian crowley,brian tierney,dan gunter,mary thompson;monitor sensor manag system grid environ;cluster comput;0
+1114;65;j lee;hiroki asou,katsunobu imai,kenichi morita;uniqu parsabl unif grammar parser implement prolog;grammar;0
+1163;6;j lee;geunbae lee;skope connectionist symbol architectur spoken korean process;learn natur languag process;0
+588;2;jenq kuen lee;p c wey,j s chen,cheng wei chen;support optim java rmi bluetooth environ;acm java confer;0
+1221;77;j lee;bum jae you,byung ju yi,sang rok oh,tae bum park,whee kuk kim;optim design actuat size redundantli actuat omni direct mobil robot;icra intern confer robot autom;0
+265;1;j lee;y c law;model induct new sourc csp model redund;aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig;0
+1268;81;j lee;jin ho kwak;enumer connect graph cover;j graph theori c c c;0
+988;58;jong yeol lee;in cheol park;loop address code optim dsp instruct set architectur;acm transact design autom electron system p;0
+281;1;j lee;c k chiu,j h m lee;interv linear constraint solv us pre condit interv gauss seidel method;twelfth intern confer logic program mit press kanagawa;0
+1298;82;j lee;j h park,b d park,s k cha;xma extens main memori storag system;proceed th acm int l confer inform knowledg manag page ohp slide present confer;0
+1307;85;j lee;hakyoung chung,kyu cheol park;point stabil mobil robot via state space exact feedback linear;icra intern confer robot autom;0
+868;49;j lee;jaesung kim,kwangsoo kim,keunhwan choi,jae yeol lee;solv d geometr constraint assembl model;intern journal advanc manufactur technolog sci scalabl coher interfac expand;0
+645;32;j lee;charles c weems,seh woong jeong,shin dug kim;intellig cach system hardwar prefetch high perform;ieee tran comput;0
+276;1;j lee;ho fung leung;execut scheme interact problem solv concurr constraint logic program languag;comput lang;0
+1245;7;j lee;kyung yong chwa,otfried cheong,sung yong shin,woo cheol kwon;approxim curvatur constrain shortest path sequenc point;esa european symposium algorithm;0
+498;27;j lee;jai yong lee;master slave measur techniqu oper ethernet network;ieee network magazin;0
+325;23;jon lee;yew sing lee;spectral method concord polyhedr face;linear algebra applic;0
+607;30;j lee;dong sun park,hae young bae,jae hong kim,young geol lee,young hwan oh,zu kuan wei;effici spatial transmiss web base gi;web inform data manag;0
+644;32;j lee;gi ho park,shin dug kim;appliact specif data cach system;comput applic;0
+1213;75;j lee;b moghaddam,h pfister,r machiraju;silhouett base d face shape recoveri;graphic interfac halifax;0
+516;28;j lee;h sarjoughian,s vahie;group enabl dev model construct methodolog distribut organ;proceed aerosens spie intern societi optic engin public;0
+165;16;j lee;m winslett,x ma,s yu;enhanc data migrat perform via parallel data compress;proceed intern parallel distribut process symposium ipdp intern parallel distribut process symposium fort lauderdal;0
+568;2;j lee;dennis gannon,daya atapattu,mann ho lee,bruce shei,atul saini,jenq kuen lee;sigma system tool parallel program design;proceed third intern confer supercomput ic intern confer supercomput st petersberg;0
+627;32;jung hoon lee;jang soo lee,shin dug kim;select tempor aggress spatial cach system base time interv;ieee intern confer comput design iccd intern confer comput design best paper award;0
+752;42;j lee;donald t tang;algorithm increment time analysi;dac design autom confer;0
+820;47;joo ho lee;guido appenzeller,hideki hashimoto,fumio harashima;intellig space mobil robot;korea joint futur commun intellig control;0
+754;43;j lee;shin dug kim,won kee hong;select compress memori system line data decompress;euromicro;0
+190;18;j lee;j mckendree,f dineen,j t mayes;vicari learner discuss learn resourc learn task;;0
+256;1;j lee;c k chiu,c m chou,ho fung leung,y w leung;constraint base interact train reschedul tool;constraint;0
+14;10;jaejin lee;yan solihin,josep torrellas;automat map code intellig memori architectur;proceed th intern symposium high perform comput architectur hpca intern symposium high perform comput architectur;0
+61;12;j lee;y b lee,p c wong;design server arrai system multimedia world wide web servic;resourc manag comput system network eighth ieee symposium parallel distribut process new orlean;0
+979;58;j lee;s y kim,h kim,i c park;path metric memori manag minimis interconnect viterbi decod;electron letter;0
+73;12;j lee;h l lai,jack y b lee,l k chen;monoton decreas rate schedul variabl bit rate video stream;ieee transact circuit system video technolog;0
+859;48;jae nam lee;;inform system outsourc;computerworld korean;0
+819;47;joo ho lee;hideki hashimoto;intellig space;ieee rsj intern confer intellig robot system;0
+422;27;jai yong lee;mi sun do,young jun park;captur delai power random spread spectrum cdma slot aloha system;proceed th intern confer inform network icoin intern confer inform network hsinchu c c;0
+328;23;jon lee;janny leung,sven de vries;separ type odd cycl inequ binari encod edg color formul;ibm research report rc journal combinatori optim;0
+887;49;jae yeol lee;hyun kim,joo haeng lee,nam chul do,hyung sun kim;network centric cad;proc cal ec acm confer electron korea intern conf seoul korea;0
+1212;75;j lee;;virtual environ share techniqu support multius www;journal kiss;0
+991;58;j lee;s j nam,i c park,c m kyung;improv dictionari base code compress vliw architectur;ieic transact fundament electron commun comput scienc;0
+280;1;j lee;c k chiu,j h m lee;extend hclp partial order hierarchi composit constraint;journal experiment theoret artifici intellig page franci ltd;0
+1014;5;j lee;brian tierney,guojun jin,mary r thompson,william e johnston;distribut larg data object manag architectur;storag retriev imag video databas spie intern societi optic engin;0
+226;19;j lee;su jeong ko;featur select us associ word mine classif;dexa databas expert system applic;0
+903;4;j lee;;consider futur program languag standard activ;commun acm;0
+166;16;j lee;x ma,m winslett,s yu;faster collect output activ buffer;proceed intern parallel distribut process symposium ipdp intern parallel distribut process symposium fort lauderdal;0
+794;45;j lee;kelly ann yamashiro,xun ge;pre class plan scaffold student onlin collabor learn activ;educ technolog amp societi;0
+1165;6;jong hyeok lee;hui feng li,geunbae lee;conceptu graph gener syntact depend structur mt environ;comput process orient languag;0
+1269;81;j lee;jin ho kwak;enumer graph embed;discret math c c;0
+1378;92;j lee;hyeokman kim,samuel moon ho song;effici graphic shot verifi incorpor visual rhythm;icmc intern confer multimedia comput system;0
+74;12;j lee;t k ho,jack y b lee;row permut data reorgan algorithm server less video demand system;proc intern symposium cluster comput grid;0
+1305;84;j lee;han ho lee,jong weon kim;multi bit imag watermark techniqu geometr attack;secur manag;0
+257;1;j lee;c k chiu,c m chou,j h m lee,h f leung,y w leung;constraint base interact train reschedul tool page;depart comput scienc engin chines univers hong kong public constraint;0
+89;12;j lee;h p sze,s c liew,jack y b lee;packet loss recoveri scheme continu media stream internet;ieee commun letter;0
+904;4;j lee;;respons feder trade commiss s propos rule standard certif;commun acm;0
+128;15;j lee;heon young yeom,ilhwan kim;analysi buffer replac polici www proxi;sac select area cryptographi;0
+1310;86;j lee;chansook lim,jo atilde,o p hespanha,katia obraczka,stephan bohacek;tcp pr tcp persist packet reorderin;icdc intern confer distribut comput system;0
+469;27;j lee;jai yong lee;conform testig framework appli test purpos protocol test system;chapman hall;0
+401;25;j lee;d a southard,j p lee,g g grinstein,r mitchell;case studi virtual realiti environ;poster present first intern symposium virtual realiti san jose comput anim;0
+803;46;j lee;james a senn;impact spend staff develop perform firm;hicss intern confer system scienc;0
+1405;9;j lee;;combin multipl evid differ relev feedback network;dasfaa databas system advanc applic;0
+130;15;j lee;k yoon;design system support secur commun web proxi cgi program base pki;icpad intern confer parallel distribut system;0
+831;47;joo ho lee;guido appenzeller,hideki hashimoto;build topolog map look peopl exampl cooper intellig space robot;ieee rsj intern confer intellig robot system;0
+1394;9;j lee;joon ho lee,jeong soo ahn;us n gram korean text retriev;acm sigir research develop inform retriev confer research develop inform retriev zurich;0
+555;2;j lee;bruce shei,daya atapattu,dennis gannon,fran ccedil,ois bodin,neelakantan sundaresan,sekhar r sarukkai,srinivas narayana;sigma tool kit build parallel compil perform analysi system;program environ parallel comput;0
+1072;61;jeong a lee;kiseon kim;comput architectur dft base hf band energi detect;intern journal electron;0
+753;42;j lee;;layout compact algorithm multipl grid constraint;iccd intern confer comput design;0
+1369;8;j lee;;design rational captur us;proceed aaai nation confer artifici intellig san jose comput anim;0
+110;14;j lee;wei xiong;automat domin camera motion annot video retriev;storag retriev imag video databas spie intern societi optic engin;0
+1195;71;jangwon lee;gustavo de veciana;ip multicast resourc topolog discoveri us fan decrement mechan;comput network;0
+463;27;j lee;t h kim,i s hwang,c m park,j y lee,s b lee;automat test case gener real protocol framework methodolog;proceed ifip intern feder inform process tc wg joint intern confer formal descript techniqu distribut system commun protocol fort formal techniqu network distribut system protocol specif test verif pstv protocol specif test verif;0
+216;18;j lee;d wang,h zeevat;reason diagrammat represent;;0
+670;37;j lee;hye j kim,kyo chul kang;real world object model method creat simul environ real time system;oopsla confer object orient program system languag applic;0
+760;43;j lee;j h lee,j s lee,s d kim;new cach architectur base tempor spatial local;journal system architectur esci;0
+740;40;j lee;sang hyuk son,savita shamsunder;real time transact process pessimist optimist hybrid approach;ride research issu data engin tqp;0
+122;15;joonwon lee;yunseok rhee;scalabl cach coher scheme exploit wormhol rout network;fifth intern symposium high perform comput architectur;0
+813;47;joo ho lee;hideki hashimoto;mobil robot control distribut sensor;ifac robot technolog;0
+1151;6;j lee;byung kwan kwak,geunbae lee,jee hyub kim,seungwoo lee;corpu base learn method compound noun index rule korean;inform retriev;0
+69;12;j lee;p h chan,jack y b lee;effici disk arrai base server design multicast video stream system;proc ieee th intern confer applic specif system architectur processor asap hagu;0
+1085;61;j lee;k kim;cordic base discret fourier transform desgin;ieee proceed great lake vlsi larg scale integr symposium;0
+155;16;j lee;marianne winslett,szu wen kuo,ying chen,yong cho;effici input output scientif simul;iopad parallel distribut system;0
+1079;61;j lee;j dorenbosch;simul model solenoid detector collabor data acquisit system;int conf iast;0
+908;4;j lee;;biographi;ieee annal histori comput;0
+1101;61;j lee;s shin,k kim;modifi joint cdma prma protocol access channel voic data servic;ieic tran;0
+371;24;j lee;seok lyong lee;block histogram compress method select estim high dimens;journal kip;0
+435;27;jai yong lee;keum mo lee,myung chul jung,sang woo kang;network configur manag framework us wbem;itc intern test confer cscc tokushima pp;0
+321;23;jon lee;janny leung;boolean quadric forest polytop;ibm research report rc infor journal;0
+317;23;jon lee;jill hardin,janny leung;boolean quadric pack uncapacit facil locat polytop;annal oper research;0
+1287;81;j lee;moo young sohn;characterist polynomi complement graph bundl applic;linear multilinear algebra c;0
+1418;9;j lee;joon ho lee;properti extend boolean model inform retriev;acm sigir research develop inform retriev confer research develop inform retriev glasnevin;0
+1302;83;j lee;byung ju yi,il hong suh,kwang sik eom;design new dof parallel haptic devic;icra intern confer robot autom;0
+601;30;j lee;chung ho lee,hae young bae,yong il jang;improv line scale scheme scalabl highli avail databas;pdpta parallel distribut process techniqu applic;0
+20;10;j lee;david a padua,samuel p midkiff;concurr static singl assign form constant propag explicitli parallel program;lcpc languag compil parallel comput;0
+1265;81;j lee;jin ho kwak;characterist polynomi graph bundl;linear multilinear algebra c;0
+354;23;jon lee;;differ polytop;journal combinatori optim;0
+998;58;j lee;myoung cheol shin,in cheol park;processor base turbo interleav multipl third gener wireless standar;ieee commun letter p;0
+193;18;j lee;j mckendree,f dineen,r cox,t mayes,k stenning;modal represent educ technolog;;0
+809;47;joo ho lee;noriaki ando,hideki hashimoto;design polici local mobil robot gener environ;ieee rsj intern confer intellig robot system;0
+397;24;j lee;chin wan chung,deok hwan kim,seok ju chun,seok lyong lee;similar search multidimension data sequenc;icd intern confer data engin;0
+396;24;j lee;chin wan chung,deok hwan kim;multi dimension select estim us compress histogram inform;sigmod intern confer manag data confer;0
+137;15;j lee;dongwook kim;virtual physic chip cach share memori multiprocessor;euro par;0
+1216;75;j lee;;design implement vrml author tool snapshot;proceed th kiss confer;0
+332;23;jon lee;laci ladanyi,robin lougee heimer;implement exact algorithm cut stock problem us compon coin;ibm research report rc;0
+616;32;jung hoon lee;gi ho park,shin dug kim;adapt multi modul cach hardwar prefetch mechan multimedia applic;th euromicro parallel distribut process pdp gonoa;0
+1359;8;j lee;michael gr uuml,ninger;ontolog applic design introduct;commun acm;0
+635;32;jung hoon lee;jang soo lee,seh woong jeong,shin dug kim;bank promot tlb high perform low power;ieee intern confer comput design iccd intern confer comput design;0
+960;57;j lee;;least squar approach predict code d imag;proc ieee int conf imag process lausann;0
+763;43;jung hoon lee;shin dug kim,charles weems;applic adapt intellig cach memori system;acm transact embed comput system paper;0
+453;27;j lee;y y oh,y i kim,b j ha,j y lee,s b lee;dynam bandwidth manag vbr mpeg traffic us atm oam cell;proceed th intern confer inform network icoin intern confer inform network tokyo;0
+201;18;j lee;m ramscar;design inform super highwai roadwork ahead;;0
+630;32;jung hoon lee;jung hee min,shin dug kim;select access dual tlb low power embed system;condit journal system architectur;0
+268;1;j lee;ho fung leung,nicholas r jennings,nigel shadbolt,xudong luo;fuzzi constraint base model bilater multi issu negoti semi competit environ;artif intel;0
+430;27;kwang jo lee;myung chul jung,jaiyong lee;enhanc micro mobil scheme;icita bathurst;0
+83;12;j lee;john c s lui;automat recoveri disk failur continu media server;ieee tran parallel distrib syst;0
+598;30;j lee;hae young bae,soon young park;easili access gml base geograph inform system multipl data server web;ista;0
+1256;7;j lee;chong dae park,kyung yong chwa;carri umbrella onlin reloc problem graph;isaac intern symposium algorithm comput;0
+132;15;j lee;hyeon ju yoon,hyunsoo yoon,jung wan cho,minhee cho,sang kwon lee,seong bae eun;design implement multi thread tmn agent system;icpp intern confer parallel process workshop;0
+376;24;j lee;seok lyong lee;data collect techniqu central traffic manag system local exchang;intern telecommun symposium taipei;0
+1134;67;joohan lee;s taylor,t achalakul,k lhee,s robila;resili remot sens fuse remot sens inform resili;nation symposium sensor data fusion;0
+1345;8;j lee;;increment approach design rational manag;proceed aaai nation confer artifici intellig design rational captur us;0
+1372;90;j lee;ulrich neumann;motion estim incomplet inform us omni direct vision;icip intern confer imag process;0
+457;27;j lee;j s park,s c kim,j h lee,j y lee,s b lee;flexibl commun architectur support multimedia servic high speed network;proceed th intern confer inform network icoin intern confer inform network tokyo;0
+407;25;j lee;r f erbacher,g g grinstein,j p lee,h levkowitz,l masterman,r pickett,s smith;exploratori visual research univers massachusett lowel;comput graphic n page;0
+898;4;j lee;colin burke,deborah anderson;us bomb ncr joseph desch wave first reunion us naval comput machin laboratori;ieee annal histori comput;0
+298;21;j lee;jin myung won,sang y park;paramet condit monoton takagi sugeno kang fuzzi system;fuzzi set system;0
+768;43;j lee;h s maeng,t d han,s d kim;resourc manag method cooper web comput comput grid;lectur note comput scienc esci;0
+1166;6;jong hyeok lee;hui feng li,geunbae lee;identifi syntact role anteced korean rel claus us corpu thesauru inform;cole confer comput linguist acl meet associ comput linguist montreal;0
+337;23;jon lee;;crop cube;journal combinatori optim;0
+1022;5;j lee;b tierney,w johnston,m thompson;data intens distribut comput architectur grid applic;futur gener comput system elsevi journal;0
+1139;67;joohan lee;s j chapin,s taylor;comput resili;journal qualiti reliabl engin intern pp;0
+99;13;j lee;edith schonberg,mark podlaseck,robert hoch;visual analysi clickstream data onlin store understand web merchandis;data mine knowledg discoveri;0
+394;24;j lee;chin wan chung,seok ju chun,seok lyong lee;dynam updat cube rang sum queri;vldb larg data base;0
+96;13;j lee;ho soo lee,priscilla wang;design implement visual onlin product catalog interfac;icei intern confer inform system;0
+769;43;hwang jik lee;kyung lang park,oh young kwon,sung yong park,hyoung woo park,shin dug kim;design implement dynam commun mpi librari grid;intern journal comput applic appear;0
+821;47;joo ho lee;hideki hashimoto;intellig space concept content;advanc robot journal;0
+1253;7;jae ha lee;kyung yong chwa;tight analysi self approach strategi onlin kernel search problem;inform process letter;0
+907;4;j lee;;biographi;ieee annal histori comput;0
+876;49;j lee;jae yeol lee,hyun kim,sung bae han;web enabl featur base model distribut design environ;proc asm design engin technic conf la vega dfm;0
+232;1;j lee;j h m lee,t w lee;wam base abstract machin interv constraint logic program;sixth ieee intern confer tool artifici intellig ieee comput societi press new orlean;0
+742;40;j lee;sang hyuk son;optimist concurr control protocol real time databas system;dasfaa databas system advanc applic;0
+170;17;j lee;jhing fa wang,tah yuan kuo;enhanc multipl fault detect singl fault test set;comput aid design;0
+842;48;jae nam lee;shan pan;commerc environ asia pacif region;intern confer inform system brisban review;0
+997;58;j lee;s j nam,i c park,c m kyung;fast precis interrupt handl without associ search multipl order issu processor;ieic transact inform system d p;0
+488;27;jae yong lee;seung hoon choi,bum joon kim,dong min kim;slot alloc analysi qo satellit atm mak protocol;apcc asic pacif confer commun seoul;0
+1086;61;j lee;k kim;direct kinemat solut architectur industri robot manipul bit serial versu parallel;proceed nasa vlsi larg scale integr symposium;0
+761;43;j lee;j s lee,w k hong,s d kim;chip cach compress techniqu reduc decompress overhead design complex;journal system architectur esci paper;0
+1292;82;juchang lee;sang k cha,kihong kim,sangho lee,jang ho park;main memori databas locat manag telecommun;proceed databas telecommun;0
+1326;8;j lee;;goal base process analysi method systemat process redesign;cooc;0
+572;2;j lee;y l shie,jenq kuen lee,c a lin,c h tsai;parallel vortex method three dimension evolv jet distribut memori machin;proceed parallel cfd kyoto;0
+845;48;jae nam lee huynh minh q;kwok ron chi wai pi shih ming;empir studi custom valu electron commerc;pacif asia confer inform system hong kong;0
+797;46;j lee;a townsend;cours structur student prefer consum base approach design introductori mi coursework;proceed intern academi inform manag north carolina;0
+139;15;joonwon lee;inhwan kim,heon y yeom;analysi buffer replac polici www proxi;th int l conf inform network tokyo;0
+805;46;j lee;james a senn;relationship spend corpor revenu;hicss intern confer system scienc;0
+726;3;j lee;l f lai,w t huang;task base specif conceptu graph;ieee expert;0
+16;10;jaejin lee;samuel p midkiff,david a padua;compil multipl memori model;th compil parallel comput cpc;0
+1368;8;j lee;c stricker;function base process analysi;knowledg process manag formerli busi chang reengin;0
+1397;9;yoon joon lee;myoung ho kim,won yong kin;evalu boolean oper extend boolean retriev framework;sigir research develop inform retriev;0
+1012;5;j lee;b tierney,w johnston;cach base data intens distribut comput architectur grid applic;cern school comput;0
+1293;82;s j lee;s k cha,j h park,b d park,j s lee;extens architectur main memori real time storag system;proceed rd int l real time comput system applic;0
+1113;65;j lee;s adachi,f peper;comput asynchron updat cellular automata;journal statist physic;0
+184;18;j lee;jonathan kilgour,robert inder;automat gener diagrammat web site map;sac select area cryptographi;0
+1202;73;j lee;harold a scheraga,shelly rackovsky;new optim method conform energi calcul polypeptid conform space anneal;journal comput chemistri;0
+487;27;j lee;y h choi,k h lee,j y lee,s b lee;method gather end end manag inform;proceed ieee network oper manag symposium nom new orlean;0
+346;23;j lee;murray campbell,vijay s iyengar;evalu multipl attribut item us queri;acm confer electron;0
+719;3;j lee;kuo hsun hsu,nien lin xue,yong yi fangjang;structur requir specif goal interact;ictai intern confer tool artifici intellig;0
+995;58;s j lee i c park;c m kyung;path base branch predict us signatur analysi;microprocessor microsystem;0
+905;4;j lee;;great myth histori comput;hcc;0
+1148;69;j lee;m murat alaybeyi,ronald a rohrer;numer integr algorithm asymptot waveform evalu aw;iccad intern confer comput aid design;0
+1380;93;j lee;il yeol song,kyu young whang,wan sup cho,wook shin han;tunabl class hierarchi index object orient databas us multidimension index structur;inform amp softwar technolog;0
+351;23;jon lee;walter d morris;geometr comparison combinatori polytop;discret appli mathemat;0
+485;27;j lee;y h choi,w s song,c park,h s kang,y s shim,j y lee,s b lee;oam base atm network manag inform architectur snmp agent;proceed intern symposium network oper manag isnom;0
+632;32;jang soo lee;gi ho park,kil whan lee,jung hoon lee,tack don han,shin dug kim,moon key lee,yong chun kim,seh woong jung,hyung lae roh,kwang yup lee;cooper cach system low power cach structur embed processor;cool chip intern symposium low power high speed chip tokyo;0
+416;26;j lee;kwanwoo lee,kyo chul kang,sajoong kim;featur orient engin pbx softwar adapt reuseabl;softw pract exper;0
+1048;5;j lee;b tierney,j hollingsworth;instrument monitor;chapter grid blueprint new comput infrastructur edit elsevi;0
+1371;8;j lee;;design rational system understand issu;ieee expert;0
+643;32;jung hoon lee;jung wook park,cheong ghil kim,shin dug kim;energi effici cach memori architectur embed system;acm symposium appli comput sac select area cryptographi nicosia;0
+6;10;j lee;josep torrellas,yan solihin;correl prefetch user level memori thread;ieee tran parallel distrib syst;0
+690;3;j lee;lein f lai,wei t huang;task base approach verifi conceptu model;compsac intern comput softwar applic confer;0
+108;14;j lee;ruihua ma,wei xiong;novel techniqu automat kei frame comput;storag retriev imag video databas spie intern societi optic engin;0
+1028;5;j lee;brian tierney,dan gunter,martin stoufer;monitor data archiv grid environ;supercomput;0
+1075;61;j lee;;cordic base fast approxim rotat slide window;applic discret fourier transform iccu;0
+417;26;j lee;kyo chul kang,patrick donohoe;featur orient project line engin;ieee softwar;0
+611;31;j lee;janak h patel;artest architectur level test gener data path fault control fault;itc intern test confer;0
+1039;5;j lee;brian crowley,brian tierney,fred l drake,jeremy hylton,mason holding;network awar distribut storag cach data intens environ;hpdc high perform distribut comput symposium;0
+1175;6;jong hyeok lee;namwon heo,hui feng li,kyonghi moon,geunbae lee;resolv noun sens ambigu korean base concept co occurr inform;commun colip int l j chines orient languag inform process societi;0
+52;12;j lee;p c wong;redund arrai inexpens server rai demand multimedia servic;icc intern confer commun;0
+800;46;j lee;d truex;explor impact formal train isd method cognit structur novic inform system develop;inform system journal;0
+1271;81;j lee;jin ho kwak;regular pq fold cover graph;kyungpook math j c c m m;0
+678;39;jaeho lee;;adapt dialog interfac agent us meta rule;flair ai research societi confer confer;0
+414;26;j lee;eunman koh,kwanwoo lee,kyo chul kang,patrick donohoe;us market product plan kei driver product line asset develop;splc softwar product line;0
+700;3;j lee;k f r liu,w l chiang;fuzzi petri net base expert system applic damag assess bridg;ieee transact system man cybernet;0
+1391;98;j lee;abdur chowdhury,david a grossman,m catherine mccabe,ophir frieder;design evalu multi dimension approach inform retriev;sigir research develop inform retriev;0
+614;32;jung hoon lee;gi ho park,shin dug kim;high perform nand type flash memori packag smart buffer cach system;intern confer comput commun control technolog ccct;0
+582;2;j lee;rong guey chang,tyng ruey chuang,jenq kuen lee;compil optim parallel spars program arrai intrins fortran ieee copyright materi;intern confer parallel process;0
+375;24;j lee;seok lyong lee;distribut similar search algorithm distribut heterogen multimedia databas;inform process letter issu pp;0
+829;47;joo ho lee;takashi akiyama,hideki hashimoto;evalu ccd camera arrang posit system intellig space;intern symposium artifici life robot;0
+467;27;jaiyong lee;soon don kwon,jung shin park;new rout cach scheme demand;icita bathurst;0
+686;3;j lee;jong yih kuo,nien lin xue;note current approach extend fuzzi logic object orient model;int j intel syst;0
+1231;7;jae ha lee;jae hoon kim,kyung yong chwa;improv gossip short messag dimension mesh;korea joint algorithm comput waac tokyo;0
+273;1;j lee;ho fung leung;increment queri concurr clp languag ifd constraint pandora;sac select area cryptographi;0
+1050;5;j lee;b tierney,d gunter;netlogg toolkit distribut system perform tune debug;lbnl tech report lbnl;0
+104;13;j lee;;absolut inform visual system decis support sourc;intern journal imag graphic;0
+634;32;jung hoon lee;jin hyuck choi,gi ho park,shin dug kim;advanc filter tlb low power consumpt;th symposium comput architectur high perform comput vit ria;0
+984;58;j lee;sung won lee,in cheol park;quadratur direct digit frequenc synthesi us fine grain angl rotat techniqu;ieee electron letter;0
+748;41;j lee;jin ho shin;fault detect robust fault recoveri control robot manipul actuat failur;icra intern confer robot autom;0
+318;23;jon lee;t l hayden,jim wells,p tarazaga;block matric multispher structur distanc matric;linear algebra applic;0
+260;1;j lee;kin chuen hui,philippe codognet,stefano bistarelli;solv finit domain constraint hierarchi local consist tree search;cp principl practic constraint program;0
+1214;75;j lee;;studi virtual environ share techniqu support multius www;m s thesi;0
+663;36;j lee;doo hwan bae,sang yoon min;aspect orient design aod techniqu develop distribut object orient system internet;icsc intern comput scienc confer;0
+875;49;j lee;kyu yeul lee,o hwan kwon,jae yeol lee,tae wan kim;hybrid approach geometr constraint solv graph analysi reduct advanc engin softwar sci expand;;0
+439;27;j lee;j h lee,j y lee,s b lee;architectur multichannel dqdb network;electron letter iee;0
+1201;73;j lee;adam liwo,cezary czaplewski,daniel r ripoll,harold a scheraga,jaroslaw pillardy,william j wedemeyer,yelena a arnautova;evolut physic base methodolog explor conform energi landscap protein;journal comput chemistri;0
+734;3;j lee;f r liu,w l chiang;high level fuzzi petri net basi manag symbol numer inform;intern journal artifici intellig tool;0
+1080;61;j lee;g epstein,p mandayam;observ n valu disjointli separ function;proceed fourteenth intern symposium multipl valu logic winnipeg;0
+573;2;jenq kuen lee;shelby yang,s srinivas,dennis gannon;compil object orient languag parallel machin;proceed intern confer parallel distribut system;0
+496;27;jai yong lee;;multimedia traffic characterist internet;kti pp;0
+1383;94;j lee;michael s waterman,vlado danc iacute,k;estim restrict site observ optic map us revers jump markov chain mont carlo;journal comput biologi;0
+379;24;j lee;seok lyong lee;effici process method olap rang sum queri ina dynam warehous environ;journal kiss;0
+671;37;j lee;gerard jounghyun kim,kwan w lee,kyo chul kang;asad sim increment multi level simul analysi tool real time softwar specif;softw pract exper;0
+641;32;jung hoon lee;jang soo lee,shin dug kim;dynam tlb manag structur support differ page size;asia pacif confer asic ap asic cheju korea;0
+1172;6;jong hyeok lee;dae seon choi,hyun a lee,oh woog kwon,geunbae lee;noun phrase index us shallow depend pars korean document;iccpol hong kong;0
+648;33;j lee;byung eui min,sanjay ranka,sunghoon ko;high perform extern comput us user control;ipp intern parallel process symposium spdp symposium parallel distribut process;0
+1370;8;j lee;;pif work group process interchang format framework;knowledg engin review univ press;0
+307;22;j lee;jae k lee;develop expert system unik;bupyoung korean;0
+1043;5;j lee;r kalmady,b tierney;comparison gsiftp rfio wan;proceed comput high energi physic chep;0
+1045;5;j lee;b tierney,w johnston;data intens distribut comput medic applic exampl;proceed high perform comput network confer hpcn european intern confer high perform comput network lbnl viewgraph;0
+1407;9;j lee;;combin evid differ relev feedback method inform retriev;inf process manag;0
+981;58;j lee;y s kwon,i c park,c m kyung;new singl clock flip flop half swing clock;ieic transact funment electron commun comput scienc;0
+705;3;j lee;stephen j h yang,william c chu;specifi verifi tempor behavior high assur system us reachabl tree logic;intern journal softwar engin knowledg engin;0
+194;18;j lee;n hari narayanan,patrick g t healey,yasuhiro katagiri;introduct interact graphic commun;int j hum comput stud;0
+625;32;jung hoon lee;gi ho park,shin dug kim,charles weems;select block buffer tlb system embed processor;condit ieee transact comput toc;0
+188;18;j lee;j mckendree,k stenning,t mayes,r cox;observ dialogu mai benefit learn;;0
+277;1;j lee;ho fung leung,xudong luo;new axiomat framework priorit fuzzi constraint satisfact problem;pricai pacif rim intern confer artifici intellig;0
+818;47;joo ho lee;noriaki ando,hideki hashimoto;intellig interact human oper mobil robot;ieee intern robot human commun;0
+512;28;j lee;d dean,d vogel;tool method group data model kei enabl enterpris model;acm sig group bulletin special issu model;0
+746;41;j lee;cheol taek kim,sang keon oh;balanc select pressur migrat scheme parallel genet algorithm plan multipl path;icra intern confer robot autom;0
+1094;61;j lee;k kim;novel processor design signal process new redund cordic;proc icsp beij j lee fly convers scheme cordic processor proc ksea seoul;0
+1181;70;j lee;bernard p zeigler,hessam s sarjoughian,james j nutaro,sunwoo park,young k cho;dev model simul new layer middlewar;activ middlewar servic;0
+335;23;j lee;dan wilson;polyhedr method piecewis linear function lambda method;discret appli mathemat;0
+1355;8;j lee;;sibyl qualit decis manag system;winston p s shellard ed artifici intellig mit expand frontier ch mit press;0
+579;2;j lee;rong guey chang,tyng ruey chuang;compil optim parallel spars program arrai intrins fortran;icpp intern confer parallel process;0
+1414;9;yoon joon lee;myoung ho kim,w y kim;enhanc fuzzi set model posit compensatori oper;dasfaa databas system advanc applic;0
+1364;8;j lee;;aaai design rational captur us;ai artifici intellig magazin articl editori review;0
+1178;6;jong hyeok lee;jung in kim,geunbae lee;gener korean predic base modal featur order lexic tabl japanes korean machin translat;j natur languag process written japanes;0
+425;27;j lee;i hwang,t kim,m jang,s lee,h oh,m kim;method deriv singl efsm commun multi efsm data part test;proceed ifip intern feder inform process tc th intern test commun system iwtc cheju korea;0
+592;2;j lee;rong guey chang,tyng ruey chuang;sampl analyt techniqu data distribut parallel spars comput;ppsc siam confer parallel process scientif comput;0
+916;50;j lee;cheol jung yoo,ok bae chang;compon contract base interfac specif techniqu us z;intern journal softwar engin knowledg engin;0
+56;12;j lee;jack y b lee;optim channel alloc unifi video demand system;ieee transact circuit system video technolog;0
+125;15;joonwon lee;hyogun lee;integr buffer manag scheme larg file;intern journal comput applic;0
+109;14;j lee;rui hua ma,wei xiong;automat video data structur shot partit kei frame comput;mach vi appl;0
+59;12;j lee;p c wong;effect function nois gp effici;evo workshop;0
+1316;88;j lee;atul prakash,hyong sop shim;data manag issu trade off cscw system;ieee tran knowl data eng;0
+34;11;j lee;edmund h durfee,jeffrey s rosenschein;distribut problem solv multi agent system comparison exampl;proceed thirteenth intern distribut artifici intellig page;0
+21;10;jaejin lee;david a padua;hide relax memori consist compil;extend version ieee transact comput special issu parallel architectur compil techniqu;0
+140;15;joonwon lee;manhee kim,hyogun lee;proport share schedul multimedia applic;int l conf multimedia comput system;0
+1267;81;j lee;jin ho kwak;genu polynomi dipol;kyungpook math j c c;0
+107;14;j lee;man ching ip,wei xiong;net comparison fast effect method classifi imag sequenc;storag retriev imag video databas spie intern societi optic engin;0
+893;4;j lee;xudong he;methodolog construct predic transit net specif;softw pract exper;0
+1395;9;j lee;h r park,h y cho;n gram base index korean text retriev;inf process manag;0
+1191;71;jangwon lee;nam h jo,jin h seo;observ nonlinear system unknown input;proceed asian control confer;0
+666;36;j lee;doo hwan bae,ikju han;toward cope role bind anomali;reflect;0
+1182;70;j lee;bernard p zeigler;space base commun data manag scalabl distribut simul;j parallel distrib comput;0
+1149;69;j lee;ronald a rohrer;awesymbol compil analysi linear iz circuit us asymptot waveform evalu;dac design autom confer;0
+1106;62;j lee;myung ki shin,yonggeun hong,yongjin kim;talk ipv transit toolbox;intern confer internet comput;0
+759;43;j lee;n k lee,s b yang,t d han,s d kim;model perform analysi dual head disk structur;journal system architectur esci;0
+156;16;j lee;marianne winslett,shengke yu,xiaosong ma;faster collect output activ buffer;ipdp intern parallel distribut process symposium;0
+91;12;j lee;kong chun wai,jack y b lee;slice patch algorithm support vbr video stream multicast base video demand system;journal inform scienc engin;0
+715;3;j lee;w l chiang,f r liu;bridg damag assess fuzzi petri net base expert system;journal comput civil engin asc sci scalabl coher interfac ei;0
+1341;8;j lee;;extend pott brun model record design rational;proceed th intern confer softwar engin;0
+836;47;joo ho lee;hashimoto hideki,noriaki ando;chapter perform mobil robot control web;beyond webcam introduct onlin robot section book ken goldberg roland siegwart editor mit press isbn;0
+520;29;j lee;byoung tak zhang,jangmin o;stock trade system us reinforc learn cooper agent;icml intern confer machin learn;0
+258;1;j lee;maarten h van emden,mantis h m cheng;tabl user interfac logic program;fgc fifth gener comput system;0
+249;1;j lee;h w won,ho fung leung;perform comprehens effici constraint librari base local search;australian joint confer artifici intellig;0
+637;32;jung hoon lee;gi ho park,shin dug kim;dual cach architectur low cost high perform;etri journal;0
+38;11;j lee;edmund h durfee;structur circuit semant reactiv plan execut system;aaai nation confer artifici intellig;0
+523;29;j lee;byoung tak zhang,jeong ho chang,yuseop kim;topic extract text document us multipl caus network;pricai pacif rim intern confer artifici intellig;0
+404;25;j lee;;data explor interact exbas system;databas issu data visual;0
+958;57;j lee;;quadtre base transform code multispectr imag compress;proc still imag compress t electron imag san jose;0
+971;58;j lee;j s yim,c j park,i c park,c m kyung;design verif complex microprocessor;journal circuit system comput p;0
+316;22;j lee;r trippi,jae k lee;state art portfolio select us knowledg base system;probu publish;0
+514;28;j lee;m pendergast,d dean,b nevstujev,n katic;current advanc group support busi process reengin;proceed th annual hicss intern confer system scienc;0
+234;1;j lee;ho fung leung,xudong luo;spectrum compens aggreg oper;fuzz ieee;0
+392;24;j lee;seok ju chun,seok lyong lee;approxim aggreg queri guarante error bound;rsfdgrc;0
+867;48;jae nam lee;;import partnership outsourc;sisa comput korean;0
+682;39;j lee;robert mccartney;predict resourc us case base plan recognit;aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig;0
+1174;6;j lee;ji eun roh,sin jae kang;build descript text gener system korean databas;jci joint confer inform scienc;0
+1146;68;j lee;;b tree concurr control algorithm nest transact system;dasfaa databas system advanc applic;0
+824;47;joo ho lee;guido appenzeller,hideki hashimoto;physic agent sensor network think space;ieee intern confer robot autom;0
+511;28;j lee;h sarjoughian,f simcox,s vahie,b zeigler;group base approach distribut model construct;proceed st annual hicss intern confer system scienc;0
+942;57;j lee;b w dickinson;subband video code tempor adapt motion interpol;proc ieee int conf acoust speech signal process adelaid;0
+385;24;j lee;seok lyong lee;model k nearest neighbor queri process cost multidimension data space;inform process letter issu;0
+1402;9;j lee;joon ho lee;combin multipl evid differ relev feedback method;intern symposium databas system advanc applic;0
+1177;6;jong hyeok lee;sin jae kang,geunbae lee;two phase automat extract semant knowledg larg corpu;comput process orient languag;0
+1328;8;j lee;;import increment rational manag;proc requir engin san diego comput anim;0
+546;2;j lee;shelby x yang,jenq kuen lee,srinivas p narayana,dennis gannon;program astrophys applic object orient parallel languag;proceed scalabl high perform comput confer;0
+478;27;jai yong lee;j w son,y y oh,h t lee,s b lee;input poll arbitr mechan gigabit packet switch;electron letter iee;0
+1224;78;j lee;jabeom gu,jaehoon nah,ohyoung song,sehyun park,sung won sohn;mobil pki pki base authent framework next gener mobil commun;acisp australasian confer inform secur privaci;0
+1126;67;joohan lee;;motion analysi us competet neural network fuzzi reason;sogang univers master s thesi;0
+918;51;j lee;ching y suen,il seok oh;class modular charact recognit;icdar intern confer document analysi;0
+1361;8;j lee;;drl task specif argument represent languag;proceed aaai nation confer artifici intellig symposium argument belief;0
+399;25;j lee;j p lee;view visual databas;proceed databas issu data visual wiers g g grinstein ed springer verlag lectur note comput scienc;0
+19;10;jaejin lee;samuel p midkiff,david a padua;constant propag algorithm explicitli parallel program;intern journal parallel program;0
+75;12;j lee;l s lam,jack y b lee,s c liew,w wang;transpar rate adapt algorithm stream video internet;proc th intern confer advanc inform network applic aina advanc inform network applic fukuoka;0
+531;2;j lee;cheng wei chen,chung kai chen;runtim composit optim parallel javabean program cluster environ;pdpta parallel distribut process techniqu applic;0
+173;17;j lee;j f wang,t y kuo;new approach deriv robust set stuck open fault cmo combin logic circuit;dac design autom confer;0
+1324;8;j lee;;goal base process analysi;proc acm confer organiz comput comput anim;0
+103;13;j lee;prabhudev konana,sudha ram;updat timestamp interv dynam adjust serial order optimist concurr control time interv occti protocol;inf process lett;0
+203;18;j lee;m ramscar,h pain;repli gall product model year stalem;;0
+163;16;j lee;m winslett,x ma,s yu;activ buffer plu compress migrat integr solut parallel simul data transport need;proceed intern confer supercomput ic intern confer supercomput new;0
+1389;97;j lee;g lee;petri net base model specif analysi cryptograph protocol;journal system softwar;0
+239;1;j lee;ho fung leung,hon wing won;toward effici stochast constraint solver;cp principl practic constraint program;0
+288;20;j lee;sung yong shin;hierarch approach interact motion edit human like figur;siggraph special interest group comput graph;0
+685;3;j lee;john yih kuo;new approach requir trade analysi complex system;ieee tran knowl data eng;0
+1239;7;jae ha lee;sang min park,kyung yong chwa;polygon search conjectur;technic report kaist cs tr;0
+901;4;j lee;;formal definit basic languag;comput j;0
+217;18;j lee;m t maybury;multimedia multimod interact structur;;0
+400;25;j lee;j p lee,g g grinstein;architectur retain analyz visual explor databas;proceed ieee visual page;0
+92;12;j lee;vincent c h lee,jack y b lee;improv uvod system effici batch;proc intern confer softwar telecommun comput network softcom crotia;0
+963;57;j lee;b w dickinson;motion compens subband code scene adapt;proc conf imag video compress electron imag san jose;0
+533;2;j lee;chung kai chen,cheng wei chen,jenq kuen lee;specif architectur support compon adapt distribut environ;ipdp intern parallel distribut process symposium;0
+1179;6;j lee;byeongchang kim,geunbae lee;morphem base graphem phonem convers us phonet pattern morphophonem connect inform;acm tran asian lang inf process;0
+119;15;joonwon lee;sang kwon lee,minhee cho,hyeon ju yoon,seong bae eun,hyunsoo yoon,jungwan cho;design implement multi thread tmn agent system;intern parallel comput aizu;0
+513;28;j lee;boris nevstrujev,douglas l dean,mark pendergast,nian katic;current advanc group support busi process reengin;hicss intern confer system scienc;0
+1186;71;j lee;gustavo de veciana;resourc topolog discoveri ip multicast us fan decrement mechan;infocom confer comput commun;0
+1240;7;j lee;kyung yong chwa,sang min park;character room searchabl two guard;isaac intern symposium algorithm comput;0
+762;43;jung hoon lee;seh woong jeong,shin dug kim,charles weems;intellig cach system hardwar prefetch high perform;ieee transact comput sci scalabl coher interfac paper;0
+584;2;j lee;jenq kuen lee,dan ho,yue chee chuang;data distribut analysi optim pointer base distribut program ieee copyright materi origin paper award icpp;intern confer parallel process ieee comput societi;0
+900;4;j lee;;vdl definit system level;isca intern symposium comput architectur;0
+63;12;j lee;y b lee,p c wong;server arrai approach video demand servic local area network;proc ieee infocom confer comput commun;0
+118;15;joonwon lee;sangbum lee,inbum jung;buddi coher adapt granular handl scheme page base dsm;ieic transact inform system appear;0
+244;1;j lee;j h m lee,h f leung,p j stuckey,v w l tam,h w won;us stochast method guid search clp preliminari report;asian comput scienc confer page springer verlag lnc;0
+84;12;j lee;jack y b lee,w t leung;design analysi fault toler mechan server less video demand system;proc intern confer parallel distribut system;0
+36;11;j lee;suk i yoo,yong s choi;hierarchi multi agent organ text databas discoveri;prima intern multi agent;0
+1076;61;j lee;b ayyar;pipelin architectur direct kinemat comput us cordic;intern simul technolog confer;0
+1157;6;jong hyeok lee;oh woog kwon,sung hwa jung,geunbae lee;evalu categori featur text structur inform text categor us memori base reason;iccpol tokushima;0
+610;31;j lee;janak h patel;hierarch test gener intens global function constraint;dac design autom confer;0
+688;3;j lee;l f lai,s j h yang;fuzzi logic basi reus task base specif;intern journal intellig system nsc sci scalabl coher interfac ei;0
+830;47;joo ho lee;takashi akiyama,hideki hashimoto;evalu human local us color model intellig space;intern confer control autom system;0
+1354;8;j lee;;rational manag system concurr engin;proceed enabl technolog concurr engin concurr engin center univ west;0
+509;28;j lee;ann m hickey,dongsong zhang,eric l santanen,lina zhou;cold spa tool collabor process model develop;hicss intern confer system scienc;0
+985;58;j lee;s w lee,i c park;low power variabl length decod consid success codeword;electron letter;0
+694;3;j lee;w t huang,j yen;acquir task base knowledg specif;encyclopedia comput scienc technolog;0
+411;25;j lee;j p lee,g g grinstein;describ visual interact databas close loop user data;proceed spie intern societi optic engin visual data explor analysi san jose comput anim page;0
+1161;6;j lee;geunbae lee;depend parser korean base connectionist symbol techniqu;epia portugues confer artifici intellig;0
+631;32;jung hoon lee;jung hi min,seh woong jeong,shin dug kim;select access tlb high perform low power consumpt;ieee asia pacif confer asic ap asic taipei;0
+303;22;j lee;hyung rim choi,in koo lee,sung mahn ahn;automat rule gener transform expert s diagram lift;intern journal man machin studi;0
+248;1;j lee;b m w cheng,j h m lee,j c k wu;constraint base nurs roster system us redund model approach;eighth ieee intern confer tool artifici intellig page ieee comput societi press toulous;0
+782;43;j lee;shin dug kim,won kee hong;design evalu select compress memori system;iccd intern confer comput design;0
+1225;78;j lee;jabeom gu,ohyoung song,sehyun park;pki base authent framework next gener mobil internet;human societi internet;0
+1251;7;jae ha lee;sang min park,kyung yong chwa;simpl algorithm search polygon flashlight;;0
+90;12;j lee;jack y b lee;uvod unifi architectur video demand servic;ieee commun letter;0
+1124;67;joohan lee;;experi mpi rt;technic report univers;0
+835;47;joo ho lee;hideki hashimoto;intellig space robot new develop robot;korea joint advanc teleautom intellig mechatron;0
+454;27;jaiyong lee;hyosoon park,sunghoon yoon,taehyoun kim,jungshin park,misun do;cdma cellular network;cic seoul korea pp;0
+964;57;j lee;;motion interpol us optim space tempor segment base tempor mask human visual system imag multidimension signal process;cann franc sep;0
+967;58;j lee;b i park,m c shin,i c park,c m kyung;radix multipli regular layout structur;electron letter p;0
+935;57;j lee;d c,iii,-,oct;optim quadtre variabl block size motion estim;ieee int conf imag process;0
+863;48;jae nam lee;;strateg outsourc process seminar;korea employe feder;0
+464;27;jai yong lee;tae hyoung kim,ik soon hwang,min seok jang;test case gener commun protocol adapt state explor;comput commun;0
+825;47;joo ho lee;hideki hashimoto;physic agent intellig space;journal industri scienc research univers tokyo;0
+982;58;j lee;s j kyung,k s seong,i c park,c m kyung;hierarch circuit cluster algorithm stabl perform;ieic transact fundament electron commun comput scienc;0
+919;51;j lee;ching y suen,il seok oh;analysi class separ combin class depend featur handwrit recognit;ieee transact pattern analysi machin intellig;0
+937;57;j lee;;optim quadtre karhunen loev transform multispectr imag code;ieee tran imag process;0
+1362;8;j lee;younghwa lee,zoonky lee;effect self ident social ident technolog accept;ici intern confer inform system;0
+360;23;jon lee;;orient matroid represent gf gf;european journal combinator;0
+1233;7;jae ha lee;chong dae park,kyung yong chwa;carri umbrella onlin reloc game graph;proc th intern symposium algorithm comput isaac intern symposium algorithm comput madra lectur note comput scienc page;0
+1329;8;j lee;;import increment rational manag;proc requir engin san diego comput anim;0
+716;3;j lee;w l chiang;fuzzi logic applic complex system;editor world scientif publish pte ltd;0
+564;2;j lee;dennis gannon,jenq kuen lee,bruce shei,sekhar sarukkai,s narayan,n sundaresan,daya atapatta,francois bodin;sigma tool kit build parallel compil perform analysi system;proceed program environ parallel comput confer edinburgh;0
+1011;5;j lee;d gunter,b tierney;netlogg toolkit distribut system tune debug;proceed th ifip intern feder inform process ieee intern symposium integr network manag spring lbnl;0
+1033;5;j lee;w bethel,b tierney,d gunter,s lau;us high speed wan network data cach enabl remot distribut visual;proceed ieee supercomput confer lbnl;0
+1384;95;j lee;charng kann chen;design sharp fir filter prescrib group delai;isca ieee intern symposium circuit system;0
+1346;8;j lee;;design rational captur us;ai artifici intellig magazin;0
+461;27;j lee;hyun chang kim,ji eun kang,dong min kim,jai yong lee;studi optim timestamp aodv protocol adhoc network;iscit chiang mai pp;0
+476;27;j lee;c shim,w h cho,s h lee,i t ryoo,j y lee,s b lee;ring protocol atm lan man y ring protocol;proceed ieee globecom;0
+884;49;j lee;hyun kim,jae yeol lee,sung bae han;process centric distribut collabor design base web;proc asm design engin technic conf la vega cie;0
+413;26;j lee;kwanwoo lee,kyo chul kang;concept guidelin featur model product line softwar engin;icsr intern confer softwar reus;0
+1130;67;joohan lee;s park,s hariri;multithread messag pass system high perform distribut comput applic;ieee th intern confer distribut comput system icdc intern confer distribut comput system;0
+519;28;j lee;bernard p zeigler,f simcox,hessam s sarjoughian,s vahie;group base approach distribut model construct;hicss intern confer system scienc;0
+1318;88;j lee;atul prakash,gwobaw wu,trent jaeger;support multi user multi applet workspac cbe;cscw confer comput support cooper work;0
+946;57;j lee;;automat prefilt control video encod statist;eletron letter;0
+1105;62;j lee;hyoung jun kim,myung ki shin;implement nat pt siit enhanc alg perform analysi;intern confer internet comput;0
+1404;9;j lee;;combin multipl evid differ properti weight scheme;sigir research develop inform retriev;0
+310;22;j lee;jae k lee;rd electron commerc;bupyoung korean;0
+271;1;j lee;ho fung leung;iq toward increment queri process non determinist concurr constraint logic program;sac select area cryptographi;0
+211;18;j lee;f dineen,j mckendree;support student discuss isn t just talk;;0
+833;47;j lee;hideki hashimoto,kazuyuki morioka;human center robot intellig space;icra intern confer robot autom;0
+402;25;j lee;d a southard,j p lee,g g grinstein;virtual realiti environ rapid prototyp;icat confer;0
+852;48;jae nam lee;young gul kim;;test causal model outsourc success structur equat model approach;0
+1317;88;j lee;atul prakash,farnam jahanian,g robert malan,hyong sop shim,peter knoop,sushila subramanian,terry e weymouth;softwar architectur uarc web base collaboratori;ieee internet comput;0
+961;57;j lee;;imag sequenc code us tempor segment motion interpol base tempor mask human visual system;commun taejon korea aug;0
+675;38;j lee;c yoshizawa,h p lee,l wilkens;covari adjust surviv curv base cox s proport hazard regress model;comput applic bioscienc;0
+1084;61;jeong a lee;tomas lang;constant factor redund cordic angl calcul rotat;ieee transact comput;0
+12;10;jaejin lee;david a padua,samuel p midkiff;basic compil algorithm explicitli parallel program;extend version acm transact program languag system;0
+305;22;kyoung jun lee;chang gon kim,eui jun hwang,hyun jeong park,hyun woo kim,myoung kyun yoon,tae hwan kim;case constraint base apart construct project plan system fastrak apt;aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig;0
+491;27;j lee;k h lee,y h choi,t w kang,m s do,j y lee,s b lee;effici restor scheme vp base atm network;proceed asia pacif network oper manag symposium apnom seoul korea;0
+472;27;j lee;jong bum ryou,sung dae kim,hanh earl jeon,dong min kim,jai yong lee;suggest tcp algorithm diffserv us mpl;iscit chiang mai pp;0
+665;36;j lee;dong kuk ryu,doo hwan bae,jungyoon kim,sang il lee;develop common oper environ militari applic;ftdc futur trend distribut comput system;0
+1147;69;j lee;ronald a rohrer,xiaoli huang;effici pole zero sensit calcul aw;iccad intern confer comput aid design;0
+923;53;j lee;dong yoon kim,dongmok shin,kwang s boo,kyoung sig roh,sukhan lee,woong kwon;estim vehicl pose road curvatur base percept net;icra intern confer robot autom;0
+505;28;j lee;d dean,j nunamaker;group tool method support data model develop standard review;proceed th annual hicss intern confer system scienc;0
+153;16;j lee;marianne winslett,shengke yu,xiaosong ma;activ buffer plu compress migrat integr solut parallel simul data transport need;ic intern confer supercomput;0
+448;27;j lee;do y lee;test gener specif written estel;pstv protocol specif test verif;0
+865;48;jae nam lee;;evolut outsourc research next issu;th intern confer system scienc maui best paper award organiz system technolog track;0
+510;28;j lee;a hickey,d zhang,e santanen,l zhou;cold spa tool collabor process model develop;forthcom proceed rd annual hicss intern confer system scienc;0
+129;15;j lee;j w lee,u ramachandran;perform evalu three parallel algorithm scalabl multiprocessor;mit press;0
+593;2;j lee;jian zhi wu,jenq kuen lee;bytecod optim engin bytecod perform;languag compil high perform comput lcpc languag compil parallel comput page also lnc;0
+542;2;j lee;jenq kuen lee,ing kuen tsaur,san yih hwang;parallel arrai object support distribut environ;journal parallel distribut comput;0
+299;21;j lee;b h park,won g seo;adapt fuzzi learn control class nonlinear dynam system;int j intel syst;0
+532;2;j lee;gwan hwan hwang;express rewrit framework gener commun set hpf program block cyclic distribut;ipp intern parallel process symposium spdp symposium parallel distribut process;0
+1367;8;j lee;;pif work group process interchang format;handbook architectur inform system edit peter bernu kai mertin gunter schmidt springer verlag chapter;0
+145;15;j lee;j ma,s cho;meta data updat polici flash memori file system;journal research practic inform technolog;0
+528;2;j lee;gwan hwan hwang;commun set gener csd calculu express rewrit framework;parallel comput;0
+1353;8;j lee;tung x bui;templat base methodolog disast manag inform system;hicss intern confer system scienc;0
+567;2;j lee;dz ching ju,gwan hwan hwang;arrai oper synthesi optim hpf program;icpp intern confer parallel process;0
+362;23;jon lee;;subspac well scale frame;linear algebra applic;0
+784;43;j lee;y s kim,t d han,s d kim;impact memori interfac structur memori processor integr architectur comput vision;journal system architectur esci paper;0
+527;2;j lee;cheng wei chen,jenq kuen lee;case studi infrastructur c atla environ object orient design xml represent;journal system softwar elesvi;0

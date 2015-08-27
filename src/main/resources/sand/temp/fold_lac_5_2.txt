@@ -1,0 +1,10 @@
+28653 CLASS=18  c=h_li c=j_tatemura c=d_agrawal c=k_candan c=w_hsiung c=songting t=safeti t=guarante t=continu t=join t=queri t=punctuat t=data t=stream v=vldb 
+28566 CLASS=0  c=m_shyu c=n_zhao c=c_zhang c=shu_ching t=compon t=base t=design t=integr t=distribut t=multimedia t=manag t=system v=iri 
+28575 CLASS=0  c=m_shyu c=n_zhao c=shu_ching t=enhanc t=queri t=model t=soccer t=video t=retriev t=us t=tempor t=relationship v=icd 
+28584 CLASS=0  c=m_chen c=c_zhang c=m_shyu c=shu_ching t=excit t=event t=detect t=us t=multi t=level t=multimod t=descriptor t=data t=classif v=ism 
+28588 CLASS=0  c=s_gulati c=s_hamid c=x_huang c=l_luo c=n_leroy c=m_powell c=c_zhan c=c_zhang c=shu_ching t=web t=base t=distribut t=system t=hurrican t=occurr t=project v=spe 
+28610 CLASS=2  c=p_gibbons c=m_kozuch c=v_liaskovitis c=a_ailamaki c=g_blelloch c=b_falsafi c=l_fix c=n_hardavellas c=t_mowry c=c_wilkerson c=shimin t=schedul t=thread t=construct t=cach t=share t=cmp v=spaa 
+28613 CLASS=2  c=p_gibbons c=t_mowry c=shimin t=improv t=index t=perform t=prefetch v=sigmod 
+28644 CLASS=4  c=h_shen c=r_topor c=shao_dong t=effici t=permut t=base t=rang t=join t=algorithm t=n t=dimension t=mesh v=ipp 
+28655 CLASS=5  c=w_see c=p_hsiung c=t_lee c=sao_jie t=softwar t=platform t=embed t=softwar t=develop v=rtcsa 
+28619 CLASS=6  c=y_chen c=simon_y t=cost t=driven t=hybrid t=configur t=prefetch t=partial t=reconfigur t=coprocessor v=ipp 

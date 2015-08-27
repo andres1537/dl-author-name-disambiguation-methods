@@ -1,0 +1,10 @@
+28565 CLASS=0  c=m_shyu c=h_luo c=shu_ching t=self t=adjust t=network t=transmiss t=multimedia t=data v=itcc 
+28578 CLASS=0  c=m_shyu c=shu_ching t=introduct t=special t=issu t=multimedia t=databas v= 
+28540 CLASS=0  c=m_shyu c=c_zhang c=w_tang c=k_zhang c=shu_ching t=damag t=pattern t=mine t=hurrican t=imag t=databas v=iri 
+28577 CLASS=0  c=x_li c=m_shyu c=b_furht c=shu_ching t=effect t=content t=base t=visual t=imag t=retriev t=system v=compsac 
+28609 CLASS=2  c=a_ailamaki c=p_gibbons c=t_mowry c=shimin t=improv t=hash t=join t=perform t=prefetch v=icd 
+28647 CLASS=3  c=g_magoulas c=r_macredie c=sherry_y t=cognit t=style t=user t=respons t=structur t=inform t=represent v=jodl 
+28646 CLASS=3  c=g_ghinea c=r_macredie c=sherry_y t=cognit t=approach t=user t=percept t=multimedia t=qualiti t=empir t=investig v=ijmm 
+28636 CLASS=5  c=p_hsiung c=t_lee c=sao_jie t=object t=orient t=technolog t=transfer t=multiprocessor t=system t=level t=synthesi v=tool 
+28594 CLASS=20  c=p_rau c=y_chin c=sho_hsen t=develop t=web t=annot t=tool t=learner t=instructor v=iwc 
+28617 CLASS=10  c=c_salcedo c=s_smith c=stephen_y t=non t=standard t=crossov t=standard t=represent t=common t=base t=featur t=subset t=select v=gecco 

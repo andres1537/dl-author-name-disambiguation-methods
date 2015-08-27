@@ -1,0 +1,10 @@
+28640 CLASS=13  c=x_wang c=c_harris c=sheng t=search t=algorithm t=global t=optimis v=icnc 
+28563 CLASS=0  c=m_shyu c=i_gray c=h_luo c=shu_ching t=adapt t=multimedia t=transmiss t=protocol t=distribut t=multimedia t=applic v=icdcsw 
+28559 CLASS=0  c=s_li c=h_hsieh c=m_shyu c=shu_ching t=facilit t=km t=reusabl t=xml t=bind t=model v=iri 
+28551 CLASS=0  c=m_shyu c=m_chen c=c_zhang c=c_shu c=shu_ching t=probabilist t=semant t=network t=base t=imag t=retriev t=us t=mmm t=relev t=feedback v=mta 
+28558 CLASS=0  c=m_shyu c=n_zhao c=c_zhang c=shu_ching t=affin t=base t=imag t=retriev t=system t=multimedia t=author t=present v=mm 
+28546 CLASS=0  c=x_li c=m_shyu c=s_li c=b_furht c=shu_ching t=novel t=hierarch t=approach t=imag t=retriev t=us t=color t=spatial t=inform v=pcm 
+28592 CLASS=0  c=k_zhang c=p_singh c=k_saleem c=n_zhao c=shu_ching t=3d t=visual t=system t=hurrican t=storm t=surg t=flood v=cga 
+28657 CLASS=1  c=l_guo c=e_tan c=z_xiao c=x_zhang c=songqing t=internet t=media t=traffic t=realli t=follow t=zipf t=like t=distribut v=sigmetr 
+28596 CLASS=1  c=b_shen c=y_yan c=x_zhang c=songqing t=buffer t=share t=proxi t=cach t=stream t=session v=www 
+28611 CLASS=2  c=p_gibbons c=s_nath c=shimin t=databas t=centric t=program t=wide t=area t=sensor t=system v=dcoss 

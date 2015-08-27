@@ -1,0 +1,130 @@
+20 CLASS=13 c=airy_weinzoepflen c=dominique_cansell c=dominique_m_eacute c=ry c=ganesh_gopalakrishnan t=increment t=proof t=produc t=consum t=properti t=pci t=protocol v=zb
+197 CLASS=4 c=george_buchanan c=norliza_mohd_nasir t=evalu t=webtwig t=site t=outlin t=handheld t=web t=access v=huc v=handheld v=ubiquit v=comput
+182 CLASS=4 c=bonnie_nardi c=elizabeth_mynatt t=special t=issu t=social t=issu v=acm v=transact v=human v=comput v=interact
+211 CLASS=6 c=dimitra_vista c=divesh_srivastava c=h_v_jagadish t=flexibl t=list t=manag t=directori v=cikm v=intern v=confer v=inform v=knowledg v=manag
+29 CLASS=1 c=mark_p_jones t=implement t=gofer t=function t=program t=system v=research v=report v=yaleu v=dc v=rr v=yale v=univers v=new v=haven
+196 CLASS=4 c=g_buchanan c=g_marsden t=explor t=small t=screen t=digit t=librari t=access t=greenston t=digit t=librari v=agosti v=m v=costantino v=t v=ed v=proceed v=th v=european v=confer v=research v=advanc v=technolog v=digit v=librari v=lnc v=springer
+55 CLASS=1 c=mark_p_jones c=simon_peyton_jones t=lightweight t=extens t=record t=haskel v=proceed v=haskel v=publish v=technic v=report v=uu v=cs v=depart v=comput v=scienc v=univers v=utrecht
+10 CLASS=13 c= t=toward t=ghdl t=eval t=framework t=deepli t=embed t=simpl t=hdl t=hol v=categori v=b v=tphol
+54 CLASS=1 c=john_peterson c=mark_p_jones t=implement t=type t=class v=proceed v=acm v=sigplan v=special v=interest v=group v=program v=languag v=symposium v=program v=languag v=design v=implement v=acm v=sigplan v=special v=interest v=group v=program v=languag
+39 CLASS=1 c= t=integr t=program t=properti t=valid v=mpc v=mathemat v=program v=construct
+136 CLASS=3 c=paul_plassmann t=parallel t=algorithm t=adapt t=mesh t=refin v=siam v=societi v=industri v=appli v=mathemat v=journal v=scientif v=comput
+68 CLASS=2 c=michael_b_jones c=john_regehr t=cpu t=reserv t=time t=constraint t=implement t=experi t=window t=nt v=proceed v=third v=usenix v=advanc v=comput v=system v=associ v=window v=symposium v=page
+134 CLASS=3 c=p_plassmann t=unstructur t=mesh t=comput t=network t=workstat v=comput v=aid v=civil v=infrastructur v=engin
+70 CLASS=2 c=michael_b_jones c=paul_j_leach c=richard_p_draves c=joseph_s_barrera c=iii t=modular t=real t=time t=resourc t=manag t=rialto t=oper t=system v=proceed v=fifth v=hot v=topic v=oper v=system v=hoto v=orca v=island v=page v=ieee v=comput v=societi
+24 CLASS=1 c=benedict_r_gaster c=mark_p_jones t=polymorph t=type t=system t=extens t=record t=variant v=technic v=report v=nottc v=tr v=depart v=comput v=scienc v=univers v=nottingham v=univers v=park v=nottingham v=ng v=rd v=england
+250 CLASS=8 c=r_satherley c=m_w_jones t=hypertextur t=complex t=object v=visual v=comput v=issn
+50 CLASS=1 c=sheng_liang c=paul_hudak c=mark_p_jones t=monad t=transform t=modular t=interpret v=confer v=record v=popl v=symposium v=principl v=program v=languag v=acm v=sigplan v=special v=interest v=group v=program v=languag v=sigact v=symposium v=principl v=program v=languag v=san v=francisco v=comput v=anim
+143 CLASS=4 c=p_curzon c=a_blandford c=g_marsden t=m t=tool v=proceed v=th v=annual v=confer v=teach v=comput v=smith v=august v=ctc v=dublin v=univers
+100 CLASS=2 c= t=interposit t=agent t=transpar t=interpos t=user t=code t=system t=interfac v=secur v=internet v=program
+173 CLASS=4 c=g_marsden c=n_mohd_nasir c=k_boone t=improv t=web t=interact t=small t=screen t=displai v=comput v=network
+119 CLASS=3 c=merrell_patrick t=factor t=indefinit t=matric t=high t=perform t=architectur v=siam v=societi v=industri v=appli v=mathemat v=journal v=matrix v=analysi v=applic
+104 CLASS=2 c=william_j_bolosky c=joseph_s_barrera c=iii c=richard_p_draves c=robert_p_fitzgerald c=garth_a_gibson c=michael_b_jones c=steven_p_levi c=nathan_p_myhrvold c=richard_f_rashid t=tiger t=video t=fileserv v=proceed v=sixth v=intern v=network v=oper v=system v=support v=digit v=audio v=video v=nossdav v=network v=oper v=system v=support v=digit v=audio v=video v=zushi v=ieee v=comput v=societi
+3 CLASS=10 c=elke_a_rundensteiner c=yun_wu_huang t=improv t=spatial t=intersect t=join t=us t=symbol t=intersect t=detect v=ssd v=symposium v=larg v=spatial v=databas
+53 CLASS=1 c=mark_p_jones t=hug t=haskel t=user t=s t=gofer t=system t=user t=manual v=technic v=report v=nottc v=tr v=function v=program v=research v=group v=depart v=comput v=scienc v=univers v=nottingham v=nottingham v=ng v=rd v=england
+185 CLASS=4 c=p_jain c=g_buchanan c=g_marsden t=us t=mobil t=devic t=vari t=pace t=search v=intern v=symposium v=hci v=human v=comput v=interact v=udin v=relat v=tech v=report
+72 CLASS=2 c=michael_b_jones c=joseph_s_barrera_iii c=alessandro_forin c=paul_j_leach c=daniela_rosu c=marcel_catalin_rosu t=overview t=rialto t=real t=time t=architectur v=proceed v=seventh v=acm v=sigop v=european v=connemara v=page
+133 CLASS=3 c=paul_plassmann t=improv t=incomplet t=choleski t=factor v=acm v=tran v=mathemat v=softwar
+140 CLASS=4 c=g_buchanan c=a_blandford c=h_thimbleby t=spatial t=hypertext t=reader t=tool t=digit t=librari v=acm v=ieee v=joint v=confer v=digit v=librari v=visual v=interfac v=digit v=librari
+217 CLASS=7 c=tomaso_poggio t=multidimension t=morphabl t=model v=iccv v=intern v=confer v=comput v=vision
+207 CLASS=5 c= t=move t=finger t=us t=social t=theori t=wg t=confer t=paper v=organiz v=social v=perspect
+14 CLASS=13 c=ganesh_gopalakrishnan t=verifi t=transact t=order t=properti t=unbound t=bu t=network t=combin t=deduct t=algorithm t=method v=fmcad v=formal v=method v=comput v=aid v=design
+77 CLASS=2 c=john_regehr t=problem t=re t=mai t=problem t=think t=re t=result t=latenc t=studi t=window t=nt v=hot v=topic v=oper v=system
+205 CLASS=5 c=pamela_abbott t=import t=nearest t=nearshor t=softwar t=outsourc t=global t=discours v=global v=organiz v=discours v=inform v=technolog
+193 CLASS=4 c=g_buchanan c=h_thimbleby c=s_farrant t= v=m v=th v=intern v=confer v=world v=wide v=web v=pazzani v=mai v=hong v=kong
+27 CLASS=1 c=mark_p_jones t=system t=constructor t=class t=overload t=implicit t=higher t=order t=polymorph v=fpca v=function v=program v=languag v=comput v=architectur v=confer v=function v=program v=languag v=comput v=architectur v=copenhagen v=appear v=extend v=form v=journal v=function v=program v=univers v=press
+73 CLASS=2 c=john_regehr c=michael_b_jones c=john_a_stankovic t=oper t=system t=support t=multimedia t=program t=model t=matter v=microsoft v=research v=technic v=report v=msr v=tr
+152 CLASS=4 c=y_l_theng c=c_rigny c=h_thimbleby t=hyperat t=hci t=web t=author v=conail v=thoma v=p v=j v=pp
+227 CLASS=8 c=m_chen c=m_w_jones c=p_townsend t=method t=metamorphosi v=y v=s v=wilbur v=ed v=imag v=process v=broadcast v=video v=product v=springer v=verlag
+89 CLASS=2 c=alec_wolman c=anne_marie_kermarrec c=antony_i_t_rowstron c=helenj_wang c=marvin_theimer c=miguel_castro t=evalu t=scalabl t=applic t=level t=multicast t=built t=us t=peer t=peer t=overlai v=infocom v=confer v=comput v=commun
+28 CLASS=1 c=paul_hudak c=sebastian_shaumyan t=us t=type t=pars t=natur t=languag v=function v=program
+189 CLASS=4 c=y_l_theng c=n_mohd_nasir c=g_buchanan c=d_bainbridge c=h_thimbleby t=children t=design t=partner t=tester t=children t=s t=digit t=librari v=borbinha v=j v=t v=ed v=proceed v=fourth v=european v=confer
+200 CLASS=5 c= t=don t=t t=emancip t=exagger t=rhetor t=realiti t=reengin v=transform v=organ v=inform v=technolog
+41 CLASS=1 c= t=program t=constructor t=class t=preliminari t=summari v=function v=program
+170 CLASS=4 c=g_buchanan c=g_marsden t=mobil t=interfac t=web t=access t=web t=mobil v=th v=world v=wide v=web v=confer
+97 CLASS=2 c= t=adapt t=real t=time t=resourc t=manag t=support t=composit t=independ t=author t=time t=critic t=servic v=workstat v=oper v=system
+16 CLASS=13 c=a_s_jones c=m_d_jones c=m_clement c=q_snell t=pyramid t=broadcast t=fast t=forward t=rewind v=th v=intern v=confer v=telecommun v=system v=model v=analysi v=nashvil
+223 CLASS=7 c=james_m_rehg t=statist t=color t=model t=applic t=skin t=detect v=cvpr v=comput v=vision v=pattern v=recognit
+174 CLASS=4 c=gary_marsden c=george_buchanan c=kevin_boone c=norliza_mohd_nasir t=improv t=web t=interact t=small t=displai v=comput v=network
+74 CLASS=2 c=michael_b_jones c=john_regehr t=predict t=schedul t=digit t=audio v=microsoft v=research v=technic v=report v=msr v=tr
+252 CLASS=8 c= t=facial t=reconstruct t=us t=volumetr t=data v=vmv v=vision v=model v=visual
+258 CLASS=9 c= t=ai t=approach t=educ t=editori v=comput v=intellig
+128 CLASS=3 c=lori_freitag c=paul_plassmann t=scalabl t=mesh t=improv t=algorithm v=ima v=journal v=appli v=mathemat v=volum v=mathemat v=applic
+32 CLASS=1 c=mark_p_jones t=type t=class t=function t=depend v=proceed v=th v=european v=symposium v=program v=esop v=european v=symposium v=program v=springer v=verlag v=lnc
+203 CLASS=5 c=joe_nandhakumar t=structur t=develop t=structur t=analysi t=develop t=execut t=inform t=system v=human v=organiz v=social v=dimens v=inform v=system v=develop
+245 CLASS=8 c=m_w_jones c=m_chen t=new t=approach t=construct t=surfac t=contour t=data v=comput v=graphic v=forum v=issn v=improv v=chapter v=ph v=d v=thesi v=pleas v=us v=journal v=refer v=refer v=work
+238 CLASS=8 c=m_w_jones t=glossari v=m v=chen v=p v=townsend v=j v=vinc v=visualis v=springer v=isbn
+229 CLASS=8 c=m_chen t=new t=approach t=construct t=surfac t=contour t=data v=comput v=graph v=forum
+94 CLASS=2 c=michael_b_jones t=microsoft t=interact t=tv t=system t=experi t=report v=microsoft v=research v=technic v=report v=msr v=tr
+144 CLASS=4 c=p_c_woodland t=us t=rel t=durat t=larg t=vocabulari t=speech t=recognit v=proceed v=eurospeech
+176 CLASS=4 c=g_marsden c=h_thimbleby c=p_gillary t=success t=user t=interfac t=design t=effici t=comput t=algorithm v=confer v=extend v=abstract v=human v=factor v=comput v=system v=acm v=chi v=confer v=human v=factor v=comput v=system v=hagu v=pp
+190 CLASS=4 c=ann_blandford c=george_buchanan c=harold_w_thimbleby t=spatial t=hypertext t=reader t=tool t=digit t=librari v=visual v=interfac v=digit v=librari
+71 CLASS=2 c=richard_f_rashid t=mach t=matchmak t=kernel t=languag t=support t=object t=orient t=distribut t=system v=oopsla v=confer v=object v=orient v=program v=system v=languag v=applic
+127 CLASS=3 c=lori_freitag c=paul_plassmann t=parallel t=algorithm t=mesh t=smooth v=siam v=societi v=industri v=appli v=mathemat v=journal v=scientif v=comput
+9 CLASS=12 c=cecilia_magdalena_procopiuc c=pankaj_k_agarwal c=t_m_murali t=mont t=carlo t=algorithm t=fast t=project t=cluster v=sigmod v=intern v=confer v=manag v=data v=confer
+57 CLASS=1 c= t=simplifi t=improv t=qualifi t=type v=fpca v=function v=program v=languag v=comput v=architectur
+201 CLASS=5 c=s_eacute c=amas_kelly t=groupwar t=social t=infrastructur t=commun v=commun v=acm
+101 CLASS=2 c= t=toolkit t=interpos t=user t=code t=system t=interfac t=abstract v=oper v=system v=review
+231 CLASS=8 c=m_w_jones_ed t=th t=eurograph t=uk t=confer v=ieee v=comput v=societi v=press v=isbn
+95 CLASS=2 c=michael_b_jones t=transpar t=interpos t=user t=code t=system t=interfac v=ph v=d v=thesi v=carnegi v=mellon v=univers v=school v=comput v=scienc v=avail v=technic v=report v=cmu v=cs
+208 CLASS=6 c=jason_eisner t=probabilist t=parser t=appli t=softwar t=test t=document v=aaai v=nation v=confer v=artifici v=intellig
+79 CLASS=2 c=john_regehr c=stefan_saroiu t=two t=case t=studi t=predict t=applic t=schedul t=us t=rialto t=nt v=ieee v=real v=time v=technolog v=applic v=symposium
+25 CLASS=1 c=mark_p_jones c=paul_hudak c=sebastian_shaumyan t=us t=type t=pars t=natur t=languag v=proceed v=function v=program v=ullapool v=scotland v=publish v=springer v=verlag v=workshop v=comput v=scienc v=seri
+123 CLASS=3 c=eloise_coupey t=script t=base t=approach t=commerc t=applic v=quarterli v=journal v=electron
+248 CLASS=8 c=m_w_jones t=product t=data t=triangular t=mesh t=us t=voxelis v=comput v=graphic v=forum v=issn
+17 CLASS=13 c=michael_d_jones t=restrict t=type t=hol v=categori v=b v=tphol
+126 CLASS=3 c=lori_a_freitag c=paul_e_plassmann t=parallel t=algorithm t=mesh t=smooth v=ppsc v=siam v=confer v=parallel v=process v=scientif v=comput
+86 CLASS=2 c=michael_b_jones t=bring t=c t=librari t=us t=multi t=thread t=futur v=proceed v=winter v=usenix v=confer v=page
+253 CLASS=8 c=r_satherley c=m_w_jones t=vector t=citi t=vector t=distanc t=transform v=comput v=vision v=imag v=understand v=issn
+40 CLASS=1 c= t=program t=constructor t=class t=abstract v=plilp v=symposium v=program v=languag v=implement v=logic v=program
+180 CLASS=4 c=g_marsden c=p_gillary c=h_thimbleby t=us t=algorithm t=interfac t=design v=intern v=journal v=person v=ubiquit v=technolog v=springer
+23 CLASS=1 c=mark_p_jones t=us t=parameter t=signatur t=express t=modular t=structur v=proceed v=twenti v=third v=annual v=acm v=sigplan v=special v=interest v=group v=program v=languag v=sigact v=symposium v=principl v=program v=languag v=st v=beach
+240 CLASS=8 c=m_w_jones t=voxelis t=polygon t=mesh v=proc v=th v=ann v=conf v=eurograph v=uk v=chapter v=loughborough
+183 CLASS=4 c=g_marsden t=prepar t=new t=ubiquit t=comput v=proceed v=ed v=media v=telcom v=confer v=calgari
+84 CLASS=2 c=michael_b_jones c=john_regehr t=problem t=re t=mai t=problem t=think t=re t=result t=latenc t=studi t=window t=nt v=proceed v=seventh v=hot v=topic v=oper v=system v=hoto v=rio v=rico v=ieee v=comput v=societi
+4 CLASS=10 c=elke_a_rundensteiner t=view t=materi t=techniqu t=complex t=hierarch t=object v=cikm v=intern v=confer v=inform v=knowledg v=manag
+142 CLASS=4 c=c_eacute c=cile_rigny c=harold_w_thimbleby c=yin_leng_theng t=hyperat t=hci t=web t=author v=bc v=british v=comput v=societi v=hci v=human v=comput v=interact
+260 CLASS=9 c=barbara_brecht t=student t=model t=genet t=graph t=approach v=intern v=journal v=man v=machin v=studi
+246 CLASS=8 c=m_w_jones c=r_satherley t=shape t=represent t=us t=space t=fill t=sub t=voxel t=distanc t=field v=intern v=confer v=shape v=model v=applic v=ieee v=comput v=societi v=press v=isbn
+159 CLASS=4 c=g_marsden t=ubiquit t=comput t=cellular t=handset t=menu t=best t=wai t=forward v=proceed v=saicsit v=best v=paper v=confer v=winner
+42 CLASS=1 c=mark_p_jones t=coher t=qualifi t=type v=research v=report v=yaleu v=dc v=rr v=yale v=univers v=new v=haven
+220 CLASS=7 c=paul_a_viola t=fast t=robust t=classif t=us t=asymmetr t=adaboost t=detector t=cascad v=nip v=neural v=inform v=process v=system
+169 CLASS=4 c=i_h_witten c=d_bainbridge c=s_j_cunningham t=creativ t=digit t=librari v=journal v=digit v=creativ v=press
+232 CLASS=8 c=m_w_jones t=acceler t=techniqu t=render v=earnshaw v=jone v=vinc v=ed v=visual v=model
+181 CLASS=4 c= t=product t=paradox v=encyclopaedia v=comput v=comput v=histori v=fitzroydearborn v=publish
+83 CLASS=2 c=michael_b_jones c=john_regehr t=issu t=us t=commod t=oper t=system t=time t=depend t=task t=experi t=studi t=window t=nt v=proceed v=eighth v=intern v=network v=oper v=system v=support v=digit v=audio v=video v=nossdav v=network v=oper v=system v=support v=digit v=audio v=video v=england
+221 CLASS=7 c=james_m_rehg t=statist t=color t=model t=applic t=skin t=detect v=intern v=journal v=comput v=vision
+69 CLASS=2 c=aloysius_k_mok c=c_douglas_locke c=constance_l_heitmeyer c=kevin_jeffay c=ragunathan_rajkumar t=futur t=distribut t=embed t=real t=time t=applic t=will t=adapt t=mean t=challeng t=research t=paradigm t=panel v=icdc v=intern v=confer v=distribut v=comput v=system
+8 CLASS=12 c=sing_bing_kang t=appear t=base t=structur t=motion t=us t=linear t=class t=d t=model v=intern v=journal v=comput v=vision
+178 CLASS=4 c=gary_marsden c=george_buchanan c=preeti_jain t=us t=mobil t=devic t=vari t=pace t=search v=hci v=human v=comput v=interact
+251 CLASS=8 c=r_satherley c=m_w_jones t=hypertextur t=complex t=object v=th v=intern v=confer v=central v=europ v=comput v=graphic v=visual v=comput v=vision v=isbn
+60 CLASS=1 c= t=theori t=qualifi t=type v=sci v=comput v=program
+164 CLASS=4 c=harold_w_thimbleby t=obituari t=fax v=person v=ubiquit v=comput
+91 CLASS=2 c=alec_wolman c=marvin_theimer c=nicholas_j_a_harvey c=stefan_saroiu t=skipnet t=scalabl t=overlai t=network t=practic t=local t=properti v=usenix v=advanc v=comput v=system v=associ v=symposium v=internet v=technolog v=system
+214 CLASS=6 c= t=activ t=base t=pars v=ijcai v=intern v=joint v=confer v=artifici v=intellig
+233 CLASS=8 c=m_w_jones t=acceler t=techniqu t=render v=proc v=bc v=british v=comput v=societi v=displai v=group v=visualis v=model v=univers v=leed
+179 CLASS=4 c= t=natur t=languag t=knowledg t=base t=m t=phil v=thesi v=univers v=engin v=depart
+105 CLASS=2 c=luis_felipe_cabrera c=michael_b_jones c=marvin_theimer t=herald t=achiev t=global t=event t=notif t=servic v=proceed v=eighth v=hot v=topic v=oper v=system v=hoto v=elmau v=ieee v=comput v=societi
+148 CLASS=4 c=g_buchanan c=h_thimbleby t=sort t=search t=small t=screen t=devic v=paterno v=f v=ed v=proceed v=th v=intern v=symposium v=hci v=human v=comput v=interact v=pisa v=lnc v=springer
+99 CLASS=2 c= t=interposit t=agent t=transpar t=interpos t=user t=code t=system t=interfac v=sosp v=symposium v=oper v=system v=principl
+46 CLASS=1 c=mark_p_jones t=type t=haskel t=haskel v=proceed v=haskel v=publish v=technic v=report v=uu v=cs v=depart v=comput v=scienc v=univers v=utrecht
+244 CLASS=8 c=m_w_jones t=effici t=shadow t=detect t=algorithm t=direct t=surfac t=render t=visualis t=model v=proc v=th v=ann v=conf v=eurograph v=uk v=chapter
+36 CLASS=1 c= t=function t=program t=overload t=higher t=order t=polymorph v=advanc v=function v=program
+63 CLASS=1 c= t=type t=class t=function t=depend v=esop v=european v=symposium v=program
+5 CLASS=11 c=chad_berkley c=daniel_higgins_metacat c=jivka_bojilova t=schema t=independ t=xml t=databas t=system v=ssdbm v=statist v=scientif v=databas v=manag
+76 CLASS=2 c=michael_b_jones c=stefan_saroiu t=predict t=schedul t=soft t=modem v=microsoft v=research v=technic v=report v=msr v=tr
+237 CLASS=8 c=t_simpson c=m_w_jones t=space t=subdivis t=finit t=element t=mesh v=proc v=th v=ann v=conf v=eurograph v=uk v=chapter v=isbn
+62 CLASS=1 c=mark_p_jones t=ml t=type t=explicit t=polymorph t=qualifi t=type v=tac v=theoret v=aspect v=comput v=softwar v=confer v=theoret v=aspect v=comput v=softwar v=sendai v=springer v=verlag v=lectur v=note v=comput v=scienc
+56 CLASS=1 c=mark_p_jones t=qualifi t=type t=theori t=practic v=univers v=press
+187 CLASS=4 c=y_l_theng c=c_rigny c=h_thimbleby t=cognit t=task t=graph t=execut t=user t=model t=better t=hypertext v=proceed v=first v=asia v=pacif v=confer v=comput v=human v=interact v=inform v=technolog v=institut
+31 CLASS=1 c=simon_peyton_jones c=erik_meijer c=mark t=type t=class t=explor t=design t=space v=proceed v=haskel v=th
+22 CLASS=1 c=andrew_p_black c=johan_nordlander c=magnus_carlsson c=richard_b_kieburtz t=reactiv t=object v=symposium v=object v=orient v=real v=time v=distribut v=comput
+160 CLASS=4 c=y_l_theng c=h_thimbleby t=reduc t=inform t=overload t=compar t=studi t=hypertext t=system v=iee v=digest v=colloquium v=inform v=overload v=london v=u v=k v=iee
+228 CLASS=8 c=richard_satherly t=voxelis t=model t=graphic v=vmv v=vision v=model v=visual
+52 CLASS=1 c=john_peterson t=implement t=type t=class v=pldi v=special v=interest v=group v=program v=languag v=design v=implement
+242 CLASS=8 c=m_w_jones c=r_satherley t=voxelis t=model t=graphic v=b v=girod v=g v=greiner v=h v=niemann v=h v=p v=seidel v=ed v=vision v=model v=visual v=io v=press v=isbn
+194 CLASS=4 c=y_l_theng c=h_thimbleby t=design t=tool t=hypertext t=author v=iee v=digest v=colloquium v=author v=applic v=hypermedia v=base v=user v=interfac v=london v=u v=k v=iee v=savoi v=place v=london
+247 CLASS=8 c=m_w_jones c=r_satherley t=us t=distanc t=field t=object t=represent t=render v=proc v=th v=ann v=conf v=eurograph v=uk v=chapter v=london v=isbn
+219 CLASS=7 c=paul_a_viola c=thomas_d_rikert t=cluster t=base t=statist t=model t=object t=detect v=iccv v=intern v=confer v=comput v=vision
+216 CLASS=7 c=tomaso_poggio t=model t=base t=match t=line t=draw t=linear t=combin t=prototyp v=iccv v=intern v=confer v=comput v=vision
+199 CLASS=5 c= t= v=

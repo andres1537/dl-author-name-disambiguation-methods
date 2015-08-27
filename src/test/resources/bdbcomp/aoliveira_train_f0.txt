@@ -1,0 +1,26 @@
+8;2;a l i oliveira;j monteiro;modelo trafego multiplexacao estatistica trafego dado rede atm;rede computador;0
+3;0;antonio mauro barbosa de oliveira;j soares,a serra,g barroso;analis dimenso critica educacao distancia base especificacao sistema gestao;seminario integrado softwar hardwar;0
+5;0;a mauro b oliveira;j sousa,m penna,j junior;plataforma computacao administracao ibcn;rede computador;0
+17;5;antonio oliveira;f mello,e strauss,a gesualdi;non uniform mesh simplif us adapt merg procedur;geoinformatica;0
+51;19;a oliveira;v sklyarov,n lau,a melo,k kondratjuk,a ferrari,r monteiro,i skliarova;synthesi tool design environ dynam reconfigur fpga;symposium integr circuit system design;0
+26;5;antonio a f de oliveira;p coelho,c esperanca;techniqu compens light sourc direct face recognit applic;computacao grafica processamento imagen;0
+41;12;arthur h c oliveira;l nunes,a santiago,r takiguti;modular test code microcontrol unit rom;revista informatica teorica aplicada;0
+43;14;alessandreia de oliveira;c werner,m mangan,l murta,r pinheiro,m mattoso,r braga,m borges;odysseyshar ambient desenvolvimento cooperativo component;engenharia softwar;0
+15;5;antonio a f oliveira;g giraldi,e strauss;improv origin dual t snake model;computacao grafica processamento imagen;0
+18;5;a oliveira;s ribeiro,r farias,c esperanca,g giraldi;loop snake snake enhanc topolog control;computacao grafica processamento imagen;0
+37;8;alcione p oliveira;m duarte,j braga;determinacao semi automatica fator critico sucesso area academica;informatica publica;0
+6;0;a mauro b de oliveira;j souza,m stanton;migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi;rede computador;0
+44;15;adriana oliveira;m ravetti,g mateus;traffic engin mpl network ar adapt rout scheme base control chart;rede computador;0
+19;5;a oliveira;a cuno,c esperanca,p cavalcanti;fast polygon variat implicit surfac;computacao grafica processamento imagen;0
+35;7;adriano l i oliveira;g azevedo,a barros,a santos;sistema suport auditoria folha pagamento baseado rede neurai;encontro nacion inteligencia artifici;0
+11;5;antonio alberto oliveira;m kallmann;metamorfos modelo poliedrai utilizando campo vetoriai tetraedraco;computacao grafica processamento imagen;0
+38;9;ademir alvarenga de oliveira;t braga,m maia,r bigonha;metaj extens environ metaprogram java;linguagen programacao;0
+28;5;antonio a f oliveira;y atencio,c esperanca,p cavalcanti;collis detect respons scheme simplifi physic base anim;computacao grafica processamento imagen;0
+13;5;antonio alberto fernandes de oliveira;g giraldi;visualizacao vortic dinamica fluido computacion;computacao grafica processamento imagen;0
+25;5;antonio a f de oliveira;l oliveira,c esperanca;compressao imagen usando transformada wavelet curva peano hilbert;computacao grafica processamento imagen;0
+47;16;aracele g oliveira;d garcia;mineracao base dado processo seletivo universitario;journal comput scienc;0
+33;6;alexandre cesar muniz de oliveira;l lorena;pattern sequenc problem cluster search;inteligencia artifici;0
+0;0;antonio mauro barbosa de oliveira;j filho,j jr,m vieira;minhoca plu rede local fin didatico;rede computador;0
+48;17;anjolina g de oliveira;j silva,a vera,r fidalgo,a salgado,v times;queri geograph data warehous geomdql;banco dado;0
+2;0;antonio mauro barbosa de oliveira;j soares,a serra,g barroso;arquitetura ambient concebido base dimenso critica educacao tecnologica distancia;informatica educacao;0
+31;6;alexandre cesar muniz de oliveira;l lorena;construct evolutionari approach linear gate assign problem;encontro nacion inteligencia artifici;0

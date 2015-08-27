@@ -1,0 +1,142 @@
+553 CLASS=2 c=c_d_lin c=w_k_shih c=y_w_chang t=real t=time t=gang t=schedul t=workload t=model t=parallel t=comput v=icpad v=intern v=confer v=parallel v=distribut v=system
+467 CLASS=27 c=soon_don_kwon c=jung_shin_park c=jaiyong t=new t=rout t=cach t=scheme t=demand v=icita v=bathurst
+1253 CLASS=7 c=kyung_yong_chwa c=jae_ha t=tight t=analysi t=self t=approach t=strategi t=onlin t=kernel t=search t=problem v=inform v=process v=letter
+551 CLASS=2 c=gwan_hwan_hwang c=d_ju c=jenq_kuen_lee t=arrai t=oper t=synthesi t=optim t=hpf t=program t=distribut t=memori t=machin v=journal v=parallel v=distribut v=comput v=academ v=press
+148 CLASS=15 c=umakishore_ramachandran t=synchron t=multiprocessor t=cach v=isca v=intern v=symposium v=comput v=architectur
+74 CLASS=12 c=t_k_ho c=jack_y_b_lee t=row t=permut t=data t=reorgan t=algorithm t=server t=less t=video t=demand t=system v=proc v=intern v=symposium v=cluster v=comput v=grid
+1113 CLASS=65 c=s_adachi c=f_peper t=comput t=asynchron t=updat t=cellular t=automata v=journal v=statist v=physic
+949 CLASS=57 c=bradley_w_dickinson t=multiresolut t=video t=index t=subband t=code t=video t=databas v=storag v=retriev v=imag v=video v=databas v=spie v=intern v=societi v=optic v=engin
+91 CLASS=12 c=kong_chun_wai c=jack_y_b_lee t=slice t=patch t=algorithm t=support t=vbr t=video t=stream t=multicast t=base t=video t=demand t=system v=journal v=inform v=scienc v=engin
+434 CLASS=27 c=d_y_lee c=jai_yong t=automat t=test t=gener t=techniqu t=specif t=written t=estel v=ieee v=tran v=comput
+1303 CLASS=83 c=byung_ju_yi c=il_hong_suh c=sang_rok_oh t=optim t=design t=five t=bar t=finger t=redund t=actuat v=icra v=intern v=confer v=robot v=autom
+1185 CLASS=71 c=gustavo_de_veciana t=ip t=multicast t=resourc t=topolog t=discoveri t=us t=fan t=decrement t=mechan v=comput v=network
+864 CLASS=48 c=young_gul_kim c=jae_nam t=outsourc t=strategi t=affili t=firm t=korean t=conglomer t=group v=korean v=manag v=review v=korean
+1395 CLASS=9 c=h_r_park c=h_y_cho t=n t=gram t=base t=index t=korean t=text t=retriev v=inf v=process v=manag
+246 CLASS=1 c=chi_kan_cheng c=peter_j_stuckey t=box t=constraint t=collect t=adhoc t=constraint v=cp v=principl v=practic v=constraint v=program
+1208 CLASS=75 c=s_tenginakai c=r_machiraju c=jinho t=salient t=iso t=surfac t=detect t=model t=independ t=statist t=signatur v=visual v=vi v=ieee v=symposium v=inform v=visual v=infovi v=proceed v=page v=s
+652 CLASS=33 c=p_bruce_berra c=sanjay_ranka c=sung_yong_park t=memori t=effici t=matrix t=multipl t=user t=control t=parallel v=icpad v=intern v=confer v=parallel v=distribut v=system
+1195 CLASS=71 c=gustavo_de_veciana c=jangwon t=ip t=multicast t=resourc t=topolog t=discoveri t=us t=fan t=decrement t=mechan v=comput v=network
+1045 CLASS=5 c=b_tierney c=w_johnston t=data t=intens t=distribut t=comput t=medic t=applic t=exampl v=proceed v=high v=perform v=comput v=network v=confer v=hpcn v=european v=intern v=confer v=high v=perform v=comput v=network v=lbnl v=viewgraph
+1039 CLASS=5 c=brian_crowley c=brian_tierney c=fred_l_drake c=jeremy_hylton c=mason_holding t=network t=awar t=distribut t=storag t=cach t=data t=intens t=environ v=hpdc v=high v=perform v=distribut v=comput v=symposium
+1307 CLASS=85 c=hakyoung_chung c=kyu_cheol_park t=point t=stabil t=mobil t=robot t=via t=state t=space t=exact t=feedback t=linear v=icra v=intern v=confer v=robot v=autom
+250 CLASS=1 c=b_m_w_cheng c=j_c_k_wu c=kenneth_m_f_choi t=increas t=constraint t=propag t=redund t=model t=experi t=report v=constraint
+374 CLASS=24 c=seok_lyong_lee t=design t=analysi t=web t=base t=coursewar t=word t=processor v=journal v=kaie
+263 CLASS=1 c=y_c_law t=algebra t=properti t=csp t=model t=oper v=cp v=principl v=practic v=constraint v=program
+904 CLASS=4 c= t=respons t=feder t=trade t=commiss t=s t=propos t=rule t=standard t=certif v=commun v=acm
+599 CLASS=30 c=chung_ho_lee c=hae_young_bae c=liang_chen t=content t=adapt t=transmiss t=strategi t=spatial t=inform t=www t=mobil t=applic v=human v=societi v=internet
+83 CLASS=12 c=john_c_s_lui t=automat t=recoveri t=disk t=failur t=continu t=media t=server v=ieee v=tran v=parallel v=distrib v=syst
+257 CLASS=1 c=c_k_chiu c=c_m_chou c=j_h_m_lee c=h_f_leung c=y_w_leung t=constraint t=base t=interact t=train t=reschedul t=tool t=page v=depart v=comput v=scienc v=engin v=chines v=univers v=hong v=kong v=public v=constraint
+843 CLASS=48 c=shan_l_pan t=us t=crm t=unifi t=view t=custom v=commun v=acm
+740 CLASS=40 c=sang_hyuk_son c=savita_shamsunder t=real t=time t=transact t=process t=pessimist t=optimist t=hybrid t=approach v=ride v=research v=issu v=data v=engin v=tqp
+532 CLASS=2 c=gwan_hwan_hwang t=express t=rewrit t=framework t=gener t=commun t=set t=hpf t=program t=block t=cyclic t=distribut v=ipp v=intern v=parallel v=process v=symposium v=spdp v=symposium v=parallel v=distribut v=process
+1310 CLASS=86 c=chansook_lim c=jo_atilde c=o_p_hespanha c=katia_obraczka c=stephan_bohacek t=tcp t=pr t=tcp t=persist t=packet t=reorderin v=icdc v=intern v=confer v=distribut v=comput v=system
+526 CLASS=2 c=peng_sheng_chen c=ming_yu_hung c=yuan_shin_hwang c=roy_dz_ching_ju c=jenq_kuen_lee t=compil t=support t=specul t=multithread t=architectur t=probabilist t=point t=analysi v=acm v=principl v=practic v=parallel v=program v=acm v=ppopp v=san v=diego
+675 CLASS=38 c=c_yoshizawa c=h_p_lee c=l_wilkens t=covari t=adjust t=surviv t=curv t=base t=cox t=s t=proport t=hazard t=regress t=model v=comput v=applic v=bioscienc
+1123 CLASS=66 c=tien_c_hsia c=young_seob_hwang t=recurs t=dimens t=grow t=method t=comput t=robot t=manipul t=polytop v=icra v=intern v=confer v=robot v=autom
+1105 CLASS=62 c=hyoung_jun_kim c=myung_ki_shin t=implement t=nat t=pt t=siit t=enhanc t=alg t=perform t=analysi v=intern v=confer v=internet v=comput
+537 CLASS=2 c=gwan_hwan_hwang c=jenq_kuen_lee c=dz_ching_ju t=arrai t=oper t=synthesi t=scheme t=optim t=fortran t=program v=acm v=sigplan v=special v=interest v=group v=program v=languag v=notic v=acm v=ppopp v=issu
+1068 CLASS=61 c=kees_jan_van_der_kolk c=ed_f_a_deprettere t=float t=point t=vector t=algorithm t=base t=fast t=rotat v=sip
+572 CLASS=2 c=y_l_shie c=jenq_kuen_lee c=c_a_lin c=c_h_tsai t=parallel t=vortex t=method t=three t=dimension t=evolv t=jet t=distribut t=memori t=machin v=proceed v=parallel v=cfd v=kyoto
+598 CLASS=30 c=hae_young_bae c=soon_young_park t=easili t=access t=gml t=base t=geograph t=inform t=system t=multipl t=data t=server t=web v=ista
+909 CLASS=4 c= t=obituari t=nichola t=constantin t=metropoli v=ieee v=annal v=histori v=comput
+877 CLASS=49 c=jae_yeol_lee c=hyun_kim c=kwangsoo_kim t=web t=enabl t=approach t=featur t=base t=model t=distribut t=collabor t=design t=environ v=concurr v=engin v=research v=applic v=sci v=scalabl v=coher v=interfac
+699 CLASS=3 c=j_i_pan t=rule t=base t=approach t=produc t=z t=specif t=jackson t=system t=develop v=intern v=journal v=intellig v=system v=nsc v=sci v=scalabl v=coher v=interfac v=ei
+350 CLASS=23 c= c=new_jon t=first t=cours t=combinatori t=optim v=univers v=press v=paperback v=isbn v=hardback v=isbn v=cover v=first v=cours v=combinatori v=optim
+1095 CLASS=61 c=k_kim t=numer t=error t=constant t=factor t=redund t=cordic t=base t=behaviro t=simul v=iast
+1391 CLASS=98 c=abdur_chowdhury c=david_a_grossman c=m_catherine_mccabe c=ophir_frieder t=design t=evalu t=multi t=dimension t=approach t=inform t=retriev v=sigir v=research v=develop v=inform v=retriev
+1075 CLASS=61 c= t=cordic t=base t=fast t=approxim t=rotat t=slide t=window v=applic v=discret v=fourier v=transform v=iccu
+996 CLASS=58 c=in_cheol_park t=time t=compil t=code t=simul t=embed t=softwar t=perform t=analysi t=soc t=design v=dac v=design v=autom v=confer
+1153 CLASS=6 c=oh_woog_kwon c=insu_kang c=geunbae_lee c=jong_hyeok t=conceptu t=cross t=languag t=text t=retriev t=base t=document t=translat t=us t=japanes t=korean t=mt t=system v=comput v=process v=orient v=languag
+16 CLASS=10 c=samuel_p_midkiff c=david_a_padua c=jaejin t=compil t=multipl t=memori t=model v=th v=compil v=parallel v=comput v=cpc
+9 CLASS=10 c=josep_torrellas c=yan_solihin t=automat t=map t=code t=intellig t=memori t=architectur v=hpca v=intern v=symposium v=high v=perform v=comput v=architectur
+392 CLASS=24 c=seok_ju_chun c=seok_lyong_lee t=approxim t=aggreg t=queri t=guarante t=error t=bound v=rsfdgrc
+401 CLASS=25 c=d_a_southard c=j_p_lee c=g_g_grinstein c=r_mitchell t=case t=studi t=virtual t=realiti t=environ v=poster v=present v=first v=intern v=symposium v=virtual v=realiti v=san v=jose v=comput v=anim
+614 CLASS=32 c=gi_ho_park c=shin_dug_kim c=jung_hoon t=high t=perform t=nand t=type t=flash t=memori t=packag t=smart t=buffer t=cach t=system v=intern v=confer v=comput v=commun v=control v=technolog v=ccct
+513 CLASS=28 c=boris_nevstrujev c=douglas_l_dean c=mark_pendergast c=nian_katic t=current t=advanc t=group t=support t=busi t=process t=reengin v=hicss v=intern v=confer v=system v=scienc
+1210 CLASS=75 c= t=design t=implement t=content t=base t=imag t=retriev t=system t=us t=interact t=genet t=algorithm v=proceed v=th v=kiss v=confer
+616 CLASS=32 c=gi_ho_park c=shin_dug_kim c=jung_hoon t=adapt t=multi t=modul t=cach t=hardwar t=prefetch t=mechan t=multimedia t=applic v=th v=euromicro v=parallel v=distribut v=process v=pdp v=gonoa
+629 CLASS=32 c=jung_hoon_lee c=shin_dug_kim c=jong_sung t=tlb t=system t=support t=multipl t=page t=size t=regardless t=oper t=system v=proc v=korea v=inform v=scienc v=societi
+238 CLASS=1 c=j_h_m_lee c=m_h_van_emden t=interv t=comput t=deduct t=chip v=journal v=logic v=program v=north
+745 CLASS=41 c=won_kim t=visual t=track t=us t=snake t=object t=s t=discret t=motion v=icra v=intern v=confer v=robot v=autom
+1158 CLASS=6 c=oh_woog_kwon t=text t=categor t=base t=k t=nearest t=neighbor t=approach t=web t=site t=classif v=inf v=process v=manag
+1181 CLASS=70 c=bernard_p_zeigler c=hessam_s_sarjoughian c=james_j_nutaro c=sunwoo_park c=young_k_cho t=dev t=model t=simul t=new t=layer t=middlewar v=activ v=middlewar v=servic
+371 CLASS=24 c=seok_lyong_lee t=block t=histogram t=compress t=method t=select t=estim t=high t=dimens v=journal v=kip
+479 CLASS=27 c=j_w_son c=y_y_oh c=s_b_lee c=h_t_lee_jai_yong t=perform t=input t=queu t=atm t=switch t=even t=odd t=switch t=plane v=electron v=letter v=iee
+413 CLASS=26 c=kwanwoo_lee c=kyo_chul_kang t=concept t=guidelin t=featur t=model t=product t=line t=softwar t=engin v=icsr v=intern v=confer v=softwar v=reus
+1084 CLASS=61 c=tomas_lang c=jeong_a t=constant t=factor t=redund t=cordic t=angl t=calcul t=rotat v=ieee v=transact v=comput
+1358 CLASS=8 c=c_dellarocas c=t_w_malone c=k_crowston c=b_pentland t=us t=process t=handbook t=design t=organiz t=process v=proc v=aaai v=nation v=confer v=artifici v=intellig v=symposium v=comput v=organ v=design v=comput v=anim
+661 CLASS=35 c=hee_yong_youn t=effici t=dictionari t=machin t=us t=hexagon t=processor t=arrai v=ieee v=tran v=parallel v=distrib v=syst
+533 CLASS=2 c=chung_kai_chen c=cheng_wei_chen c=jenq_kuen_lee t=specif t=architectur t=support t=compon t=adapt t=distribut t=environ v=ipdp v=intern v=parallel v=distribut v=process v=symposium
+66 CLASS=12 c=raymond_w_t_leung t=design t=analysi t=fault t=toler t=mechan t=server t=less t=video t=demand t=system v=icpad v=intern v=confer v=parallel v=distribut v=system
+1011 CLASS=5 c=d_gunter c=b_tierney t=netlogg t=toolkit t=distribut t=system t=tune t=debug v=proceed v=th v=ifip v=intern v=feder v=inform v=process v=ieee v=intern v=symposium v=integr v=network v=manag v=spring v=lbnl
+685 CLASS=3 c=john_yih_kuo t=new t=approach t=requir t=trade t=analysi t=complex t=system v=ieee v=tran v=knowl v=data v=eng
+1151 CLASS=6 c=byung_kwan_kwak c=geunbae_lee c=jee_hyub_kim c=seungwoo_lee t=corpu t=base t=learn t=method t=compound t=noun t=index t=rule t=korean v=inform v=retriev
+964 CLASS=57 c= t=motion t=interpol t=us t=optim t=space t=tempor t=segment t=base t=tempor t=mask t=human t=visual t=system t=imag t=multidimension t=signal t=process v=cann v=franc v=sep
+1101 CLASS=61 c=s_shin c=k_kim t=modifi t=joint t=cdma t=prma t=protocol t=access t=channel t=voic t=data t=servic v=ieic v=tran
+160 CLASS=16 c=marianne_winslett c=szu_wen_kuo c=ying_chen c=yong_e_cho t=parallel t=scientif t=applic t=heterogen t=cluster t=resourc t=util t=approach v=intern v=confer v=supercomput
+867 CLASS=48 c= c=jae_nam t=import t=partnership t=outsourc v=sisa v=comput v=korean
+476 CLASS=27 c=c_shim c=w_h_cho c=s_h_lee c=i_t_ryoo c=j_y_lee c=s_b_lee t=ring t=protocol t=atm t=lan t=man t=y t=ring t=protocol v=proceed v=ieee v=globecom
+328 CLASS=23 c=janny_leung c=sven_de_vries c=jon t=separ t=type t=odd t=cycl t=inequ t=binari t=encod t=edg t=color t=formul v=ibm v=research v=report v=rc v=journal v=combinatori v=optim
+485 CLASS=27 c=y_h_choi c=w_s_song c=c_park c=h_s_kang c=y_s_shim c=j_y_lee c=s_b_lee t=oam t=base t=atm t=network t=manag t=inform t=architectur t=snmp t=agent v=proceed v=intern v=symposium v=network v=oper v=manag v=isnom
+1043 CLASS=5 c=r_kalmady c=b_tierney t=comparison t=gsiftp t=rfio t=wan v=proceed v=comput v=high v=energi v=physic v=chep
+1 CLASS=100 c=tosiyasu_l_kunii t=visual t=translat t=nativ t=languag t=sign t=languag v=vl v=visual v=languag
+422 CLASS=27 c=mi_sun_do c=young_jun_park c=jai_yong t=captur t=delai t=power t=random t=spread t=spectrum t=cdma t=slot t=aloha t=system v=proceed v=th v=intern v=confer v=inform v=network v=icoin v=intern v=confer v=inform v=network v=hsinchu v=c v=c
+847 CLASS=48 c=kwok_ron_chi_wai c=huynh_minh_q c=pi_shih_ming c=jae_nam t=role t=gss t=collabor t=learn t=studi t=qualiti t=feedback v=intern v=confer v=inform v=system v=brisban v=review
+489 CLASS=27 c=k_h_lee c=y_h_choi c=d_s_park c=t_w_kang c=s_h_jeon c=j_y_lee c=s_b_lee t=cost t=evalu t=disjoint t=protect t=scheme t=dynam t=bandwidth t=control v=proceed v=th v=intern v=confer v=inform v=network v=icoin v=intern v=confer v=inform v=network v=cheju v=korea v=c v=c
+289 CLASS=20 c=sung_yong_shin c=tae_hoon_kim t=robust t=motion t=watermark t=base t=multiresolut t=analysi v=comput v=graph v=forum
+56 CLASS=12 c=jack_y_b_lee t=optim t=channel t=alloc t=unifi t=video t=demand t=system v=ieee v=transact v=circuit v=system v=video v=technolog
+639 CLASS=32 c=jang_soo_lee c=gi_ho_park c=kil_whan_lee c=shin_dug_kim c=jung_hoon t=dual t=tlb t=structur t=support t=two t=page t=size v=iee v=electron v=letter v=paper
+960 CLASS=57 c= t=least t=squar t=approach t=predict t=code t=d t=imag v=proc v=ieee v=int v=conf v=imag v=process v=lausann
+1147 CLASS=69 c=ronald_a_rohrer c=xiaoli_huang t=effici t=pole t=zero t=sensit t=calcul t=aw v=iccad v=intern v=confer v=comput v=aid v=design
+1085 CLASS=61 c=k_kim t=cordic t=base t=discret t=fourier t=transform t=desgin v=ieee v=proceed v=great v=lake v=vlsi v=larg v=scale v=integr v=symposium
+211 CLASS=18 c=f_dineen c=j_mckendree t=support t=student t=discuss t=isn t=t t=just t=talk v=
+1014 CLASS=5 c=brian_tierney c=guojun_jin c=mary_r_thompson c=william_e_johnston t=distribut t=larg t=data t=object t=manag t=architectur v=storag v=retriev v=imag v=video v=databas v=spie v=intern v=societi v=optic v=engin
+248 CLASS=1 c=b_m_w_cheng c=j_h_m_lee c=j_c_k_wu t=constraint t=base t=nurs t=roster t=system t=us t=redund t=model t=approach v=eighth v=ieee v=intern v=confer v=tool v=artifici v=intellig v=page v=ieee v=comput v=societi v=press v=toulous
+109 CLASS=14 c=rui_hua_ma c=wei_xiong t=automat t=video t=data t=structur t=shot t=partit t=kei t=frame t=comput v=mach v=vi v=appl
+108 CLASS=14 c=ruihua_ma c=wei_xiong t=novel t=techniqu t=automat t=kei t=frame t=comput v=storag v=retriev v=imag v=video v=databas v=spie v=intern v=societi v=optic v=engin
+742 CLASS=40 c=sang_hyuk_son t=optimist t=concurr t=control t=protocol t=real t=time t=databas t=system v=dasfaa v=databas v=system v=advanc v=applic
+812 CLASS=47 c=takahiro_yamaguchi c=hideki_hashimoto c=joo_ho t=human t=comprehens t=intellig t=space v=st v=ifac v=confer v=mechatron v=system
+884 CLASS=49 c=hyun_kim c=jae_yeol_lee c=sung_bae_han t=process t=centric t=distribut t=collabor t=design t=base t=web v=proc v=asm v=design v=engin v=technic v=conf v=la v=vega v=cie
+478 CLASS=27 c=j_w_son c=y_y_oh c=h_t_lee c=s_b_lee c=jai_yong t=input t=poll t=arbitr t=mechan t=gigabit t=packet t=switch v=electron v=letter v=iee
+373 CLASS=24 c=seok_lyong_lee t=blind t=equal t=us t=rbf t=ho v=th v=intern v=confer v=intellig v=data v=engin v=autom v=learn
+670 CLASS=37 c=hye_j_kim c=kyo_chul_kang t=real t=world t=object t=model t=method t=creat t=simul t=environ t=real t=time t=system v=oopsla v=confer v=object v=orient v=program v=system v=languag v=applic
+475 CLASS=27 c=c_shim c=k_h_park c=j_h_lee c=j_y_lee c=s_b_lee t=new t=ring t=protocol t=atm t=man v=proceed v=intern v=council v=comput v=communicaton v=iccc v=seoul v=korea
+1257 CLASS=7 c=sang_min_park c=kyung_yong_chwa c=jae_ha t=visibl t=base t=pursuit t=evas t=polygon t=region t=searcher v=technic v=report v=kaist v=cs v=tr
+129 CLASS=15 c=j_w_lee c=u_ramachandran t=perform t=evalu t=three t=parallel t=algorithm t=scalabl t=multiprocessor v=mit v=press
+1326 CLASS=8 c= t=goal t=base t=process t=analysi t=method t=systemat t=process t=redesign v=cooc
+303 CLASS=22 c=hyung_rim_choi c=in_koo_lee c=sung_mahn_ahn t=automat t=rule t=gener t=transform t=expert t=s t=diagram t=lift v=intern v=journal v=man v=machin v=studi
+1008 CLASS=5 c=d_gunter c=b_tierney c=c_e_tull c=v_virmani t=demand t=grid t=applic t=tune t=debug t=netlogg t=activ t=servic v=th v=intern v=grid v=comput v=grid v=lbnl
+727 CLASS=3 c=j_yen t=enhanc t=softwar t=life t=cycl t=knowledg t=base t=system t=us t=task t=base t=specif t=methodolog v=intern v=journal v=softwar v=engin v=knowledg v=engin
+362 CLASS=23 c= c=jon t=subspac t=well t=scale t=frame v=linear v=algebra v=applic
+1096 CLASS=61 c=t_lang t=redund t=cordic t=constant t=scale t=svd v=th v=intern v=symposium v=comput v=arithmet v=grenobl
+379 CLASS=24 c=seok_lyong_lee t=effici t=process t=method t=olap t=rang t=sum t=queri t=ina t=dynam t=warehous t=environ v=journal v=kiss
+1204 CLASS=74 c=jae_weon_choi c=k_son c=m_c_lee c=man_hyung_lee c=seung_hyun_han t=studi t=featur t=base t=visual t=servo t=control t=eight t=ax t=dual t=arm t=robot t=util t=redund t=featur v=icra v=intern v=confer v=robot v=autom
+1372 CLASS=90 c=ulrich_neumann t=motion t=estim t=incomplet t=inform t=us t=omni t=direct t=vision v=icip v=intern v=confer v=imag v=process
+1225 CLASS=78 c=jabeom_gu c=ohyoung_song c=sehyun_park t=pki t=base t=authent t=framework t=next t=gener t=mobil t=internet v=human v=societi v=internet
+63 CLASS=12 c=y_b_lee c=p_c_wong t=server t=arrai t=approach t=video t=demand t=servic t=local t=area t=network v=proc v=ieee v=infocom v=confer v=comput v=commun
+256 CLASS=1 c=c_k_chiu c=c_m_chou c=ho_fung_leung c=y_w_leung t=constraint t=base t=interact t=train t=reschedul t=tool v=constraint
+369 CLASS=23 c=brenda_l_dietrich c=yew_sing_lee c=jon t=order t=select t=singl t=machin t=high t=set t=cost v=annal v=oper v=research
+782 CLASS=43 c=shin_dug_kim c=won_kee_hong t=design t=evalu t=select t=compress t=memori t=system v=iccd v=intern v=confer v=comput v=design
+1130 CLASS=67 c=s_park c=s_hariri c=joohan t=multithread t=messag t=pass t=system t=high t=perform t=distribut t=comput t=applic v=ieee v=th v=intern v=confer v=distribut v=comput v=system v=icdc v=intern v=confer v=distribut v=comput v=system
+321 CLASS=23 c=janny_leung c=jon t=boolean t=quadric t=forest t=polytop v=ibm v=research v=report v=rc v=infor v=journal
+1186 CLASS=71 c=gustavo_de_veciana t=resourc t=topolog t=discoveri t=ip t=multicast t=us t=fan t=decrement t=mechan v=infocom v=confer v=comput v=commun
+1402 CLASS=9 c=joon_ho_lee t=combin t=multipl t=evid t=differ t=relev t=feedback t=method v=intern v=symposium v=databas v=system v=advanc v=applic
+1164 CLASS=6 c=gary_geunbae_lee c=jeongwon_cha t=syllabl t=pattern t=base t=unknown t=morphem t=segment t=estim t=hybrid t=part t=speech t=tag t=korean v=comput v=linguist
+226 CLASS=19 c=su_jeong_ko t=featur t=select t=us t=associ t=word t=mine t=classif v=dexa v=databas v=expert v=system v=applic
+848 CLASS=48 c=minh_q_huynh c=ron_chi_wai_kwok c=shih_ming_pi t=evolut t=outsourc t=research t=next t=issu v=hicss v=intern v=confer v=system v=scienc
+252 CLASS=1 c=b_m_w_cheng c=j_c_k_wu t=nurs t=roster t=system t=us t=constraint t=program t=redund t=model v=ieee v=transact v=inform v=technolog v=biomedicin
+983 CLASS=58 c=chong_min_kyung c=hoon_choi c=in_cheol_park c=ju_hwan_yi t=exploit t=intellectu t=properti t=asip t=design t=embed t=dsp t=softwar v=dac v=design v=autom v=confer
+1141 CLASS=67 c= c=joohan t=fuzzi t=expert t=system t=autonom t=vehicl v=technic v=report v=kosef v=sogang v=univers
+681 CLASS=39 c=robert_mccartney t=predict t=user t=action t=us t=interfac t=agent t=individu t=user t=model v=prima v=intern v=multi v=agent
+613 CLASS=31 c=janak_h_patel c=vivek_chickermane t=design t=testabl t=us t=architectur t=descript v=itc v=intern v=test v=confer
+663 CLASS=36 c=doo_hwan_bae c=sang_yoon_min t=aspect t=orient t=design t=aod t=techniqu t=develop t=distribut t=object t=orient t=system t=internet v=icsc v=intern v=comput v=scienc v=confer
+1032 CLASS=5 c=a_antony c=j_blom c=c_de_laat c=w_sjouw t=microscop t=examin t=tcp t=flow t=transatlant t=link v=technic v=report v=univers v=special v=issu v=fgc v=fifth v=gener v=comput v=system
+1118 CLASS=65 c=p_ferdinand c=s_adachi c=k_morita c=s_mashiko t=revers t=comput t=asynchron t=cellular t=automata v=unconvent v=model v=comput v=lectur v=note v=comput v=scienc v=springer v=lnc
+535 CLASS=2 c=cheng_wei_chen c=rong_guey_chang c=tyng_ruey_chuang t=toward t=automat t=support t=parallel t=spars t=comput t=java t=continu t=compil v=concurr v=practic v=experi
+1382 CLASS=94 c=michael_s_waterman c=vlado_danc_iacute c=k t=estim t=restrict t=site t=observ t=optic t=map t=us t=revers t=jump t=markov t=chain t=mont t=carlo v=recomb
+1156 CLASS=6 c=ji_eun_roh c=sin_jae_kang t=xexplain t=tool t=gener t=descript t=text t=databas v=icdc v=intern v=confer v=distribut v=comput v=system v=workshop
+1033 CLASS=5 c=w_bethel c=b_tierney c=d_gunter c=s_lau t=us t=high t=speed t=wan t=network t=data t=cach t=enabl t=remot t=distribut t=visual v=proceed v=ieee v=supercomput v=confer v=lbnl
+280 CLASS=1 c=c_k_chiu c=j_h_m_lee t=extend t=hclp t=partial t=order t=hierarchi t=composit t=constraint v=journal v=experiment v=theoret v=artifici v=intellig v=page v=franci v=ltd
+647 CLASS=32 c=shin_dug_kim c=jung_hoon t=high t=perform t=low t=power t=bank t=promot t=tlb t=structur v=journal v=korea v=inform v=scienc v=societi
+912 CLASS=4 c= t=biographi v=ieee v=annal v=histori v=comput
+1157 CLASS=6 c=oh_woog_kwon c=sung_hwa_jung c=geunbae_lee c=jong_hyeok t=evalu t=categori t=featur t=text t=structur t=inform t=text t=categor t=us t=memori t=base t=reason v=iccpol v=tokushima

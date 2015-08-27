@@ -1,0 +1,9 @@
+28633 CLASS=11  c=j_goodman c=stanley_f t=empir t=studi t=smooth t=techniqu t=languag t=model v=acl 
+28556 CLASS=0  c=m_shyu c=m_chen c=c_zhang c=shu_ching t=affin t=relat t=discoveri t=imag t=databas t=cluster t=content t=base t=retriev v=mm 
+28589 CLASS=0  c=s_hamid c=s_gulati c=n_zhao c=m_chen c=c_zhang c=p_gupta c=shu_ching t=reliabl t=web t=base t=system t=hurrican t=analysi t=simul v=smc 
+28582 CLASS=0  c=m_shyu c=m_chen c=c_zhang c=shu_ching t=unifi t=framework t=imag t=databas t=cluster t=content t=base t=retriev v=mmdb 
+28553 CLASS=0  c=c_zhang c=s_li c=h_chen c=m_shyu c=shu_ching t=stream t=smil t=present t=via t=multimedia t=semant t=model v=jci 
+28550 CLASS=0  c=x_chen c=c_zhang c=m_chen c=shu_ching t=latent t=semant t=index t=base t=method t=solv t=multipl t=instanc t=learn t=problem t=region t=base t=imag t=retriev v=ism 
+28600 CLASS=1  c=l_guo c=x_zhang c=songqing t=design t=evalu t=scalabl t=reliabl t=p2p t=assist t=proxi t=demand t=stream t=media t=deliveri v=tkde 
+28648 CLASS=3  c=g_magoulas c=d_dimakopoulos c=sherry_y t=flexibl t=interfac t=design t=web t=directori t=accommod t=differ t=cognit t=style v=jasi 
+28645 CLASS=4  c=h_shen c=r_topor c=shao_dong t=permut t=base t=rang t=join t=algorithm t=n t=dimension t=mesh v=tpd 

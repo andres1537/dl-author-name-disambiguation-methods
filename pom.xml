@@ -1,0 +1,80 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.cgomez</groupId>
+	<artifactId>dl-author-name-disambiguation-methods</artifactId>
+	<packaging>jar</packaging>
+	<version>1.0.0</version>
+	<name>Author Name Disambiguation Methods</name>
+	<description>This project contains the methods used in the work "On the Combination of Domain-Specific Heuristics for Author Name Disambiguation – The Nearest Cluster Method".</description>
+	<inceptionYear>2015</inceptionYear>
+
+	<developers>
+		<developer>
+			<name>Carlos Gomez</name>
+			<email>andres1537@gmail.com</email>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+	</developers>
+	
+	<properties>
+		<source.encoding>UTF-8</source.encoding>
+        <maven.compiler.plugin>3.1</maven.compiler.plugin>
+        <jdk.version>1.7</jdk.version>
+        <maven.source.plugin.version>2.4</maven.source.plugin.version>
+        
+		<!-- Libs of the project -->
+        <simetrics.version>1.6.2</simetrics.version>
+        <libsvm.version>1.0.0</libsvm.version>
+        <weka.version>1.0.0</weka.version>
+    </properties>
+    
+    <build>
+		<finalName>authorNameDisambiguationMethods</finalName>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>${maven.compiler.plugin}</version>
+				<configuration>
+					<source>${jdk.version}</source>
+					<target>${jdk.version}</target>
+					<encoding>${source.encoding}</encoding>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>${maven.source.plugin.version}</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+	
+	<dependencies>
+		<dependency>
+			<groupId>net.sf.simmetrics</groupId>
+			<artifactId>simmetrics</artifactId>
+			<version>${simetrics.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.cgomez</groupId>
+			<artifactId>libsvm</artifactId>
+			<version>${libsvm.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.cgomez</groupId>
+			<artifactId>weka</artifactId>
+			<version>${weka.version}</version>
+		</dependency>
+	</dependencies>
+	
+</project>

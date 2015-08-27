@@ -1,0 +1,26 @@
+18 CLASS=13 c=m_d_jones c=g_gopalakrishnan t=toward t=autom t=abstract t=protocol t=branch t=network v=ieee v=intern v=high v=level v=design v=valid v=test v=hldvt
+124 CLASS=3 c=joshua_edmison c=tom_martin c=zahi_nakad t=us t=piezoelectr t=materi t=wearabl t=electron t=textil v=iswc v=intern v=symposium v=wearabl v=comput
+154 CLASS=4 c=g_marsden t=larg t=small t=screen t=digest v=colloquium v=issu v=network v=interperson v=commun v=london v=u v=k v=iee v=savoi v=place v=london
+65 CLASS=2 c=christopher_w_fraser c=richard_draves c=richard_f_rashid c=robert_p_fitzgerald c=todd_b_knoblock c=william_j_bolosky t=oper t=system t=direct t=next t=millennium v=hot v=topic v=oper v=system
+209 CLASS=6 c=david_scott_warren t=conceptu t=depend t=montagu t=grammar t=step t=toward t=concili v=aaai v=nation v=confer v=artifici v=intellig
+103 CLASS=2 c=william_j_bolosky c=richard_p_draves c=robert_p_fitzgerald c=christopher_w_fraser c=michael_b_jones c=todd_b_knoblock c=rick_rashid t=oper t=system t=direct t=next t=millennium v=proceed v=sixth v=hot v=topic v=oper v=system v=hoto v=cape v=cod v=ieee v=comput v=societi
+259 CLASS=9 c=carl_gutwin c=kim_massie_adolphe c=patrick_brackett t=bring t=marketplac t=success t=experi t=minimalist t=design v=j v=uc v=univers v=comput v=scienc
+192 CLASS=4 c=stephen_brewster t=special t=issu t=multimod t=interact t=mobil t=wearabl t=comput v=intern v=journal v=person v=ubiquit v=comput
+204 CLASS=5 c=helena_karsten t=long t=wind t=road t=collabor t=organis t=chang v=cscw v=confer v=comput v=support v=cooper v=work
+45 CLASS=1 c=mark_p_jones t=dictionari t=free t=overload t=partial t=evalu v=acm v=sigplan v=special v=interest v=group v=program v=languag v=partial v=evalu v=semant v=base v=program v=manipul
+6 CLASS=11 c=chad_berkley c=daniel_higgins_metacat t=manag t=heterogen t=ecolog t=data t=us t=morpho v=ssdbm v=statist v=scientif v=databas v=manag
+90 CLASS=2 c=michael_b_jones t=adapt t=real t=time t=resourc t=manag t=support t=composit t=independ t=author t=time t=critic t=servic v=proceed v=fourth v=workstat v=oper v=system v=wwo v=workstat v=oper v=system v=now v=hoto v=comput v=anim v=page v=ieee v=comput v=societi
+102 CLASS=2 c=andrew_birrell c=edward_wobber t=simpl t=effici t=implement t=small t=databas v=sosp v=symposium v=oper v=system v=principl
+125 CLASS=3 c=j_edmison c=z_nakad c=t_martin t=us t=piezoelectr t=materi t=wearabl t=electron t=textil v=wearabl v=comput
+188 CLASS=4 c=j_berleur c=p_duquenoy c=d_whitehouse t=ethic t=govern t=internet v=ifip v=intern v=feder v=inform v=process v=isbn
+34 CLASS=1 c= t=dictionari t=free t=overload t=partial t=evalu v=lisp v=symbol v=comput
+43 CLASS=1 c=mark_p_jones c=luc_duponcheel t=compos t=monad v=research v=report v=yaleu v=dc v=rr v=yale v=univers v=new v=haven
+111 CLASS=3 c=paul_e_plassmann t=solut t=larg t=spars t=system t=linear t=equat t=massiv t=parallel t=applic v=supercomput
+226 CLASS=8 c=richard_satherley t=shape t=represent t=us t=space t=fill t=sub t=voxel t=distanc t=field v=shape v=model v=intern
+135 CLASS=3 c=paul_e_plassmann c=robert_k_gjertsen t=parallel t=heurist t=improv t=balanc t=graph t=color v=j v=parallel v=distrib v=comput
+175 CLASS=4 c=g_buchanan c=h_thimbleby t=improv t=web t=search t=small t=screen t=devic v=interact v=comput
+210 CLASS=6 c=van_e_kelly t=kitss t=knowledg t=base t=translat t=system t=test t=scenario v=aaai v=nation v=confer v=artifici v=intellig
+30 CLASS=1 c=mark_p_jones t=theori t=qualifi t=type v=esop v=european v=symposium v=program v=european v=symposium v=program v=renn v=springer v=verlag v=lectur v=note v=comput v=scienc
+158 CLASS=4 c=y_l_theng c=c_rigny c=h_thimbleby t=improv t=conceptu t=design t=better t=hypertext v=adjunct v=proceed v=bc v=british v=comput v=societi v=hci v=human v=comput v=interact v=u v=k
+151 CLASS=4 c= t=convent t=art t=web t=exhibit t=new t=electron t=art t=form v=proc v=intern v=symposium v=electron v=art
+218 CLASS=7 c=paul_a_viola t=robust t=real t=time t=face t=detect v=iccv v=intern v=confer v=comput v=vision

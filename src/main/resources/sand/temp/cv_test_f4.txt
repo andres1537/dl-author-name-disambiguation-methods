@@ -1,0 +1,26 @@
+206 CLASS=5 c=marios_v_karahannas t=interorganiz t=system t=trust t=strateg t=allianc v=ici v=intern v=confer v=inform v=system
+239 CLASS=8 c=s_m_f_treavett c=m_chen c=r_satherley c=m_w_jones t=volum t=express t=artist t=model t=render t=dataset v=proc v=comput v=graphic v=intern v=ieee v=comput v=societi v=press v=issn
+215 CLASS=6 c= t=feedback t=coindex t=mechan t=connectionist t=architectur v=ijcai v=intern v=joint v=confer v=artifici v=intellig
+82 CLASS=2 c=marvin_theimer c=michael_b_jones t=overlook t=scalabl t=name t=servic t=overlai t=network v=proceed v=intern v=confer v=distribut v=comput v=system v=icdc v=intern v=confer v=distribut v=comput v=system v=ieee v=comput v=societi
+80 CLASS=2 c=daniela_rosu c=marcel_catalin_rosu t=cpu t=reserv t=time t=constraint t=effici t=predict t=schedul t=independ t=activ v=sosp v=symposium v=oper v=system v=principl
+166 CLASS=4 c=h_thimbleby c=g_marsden t=empow t=consum t=usabl t=certif v=turner v=s v=turner v=p v=ed v=proceed v=peopl v=comput v=sunderland v=pp
+153 CLASS=4 c= t=us t=acoust t=level t=prosod t=larg t=vocabulari t=speech t=recognit v=ph v=d v=thesi v=univers v=engin v=depart
+132 CLASS=3 c=paul_plassmann t=algorithm t=fortran t=subroutin t=comput t=improv t=incomplet t=choleski t=factor v=acm v=tran v=mathemat v=softwar
+67 CLASS=2 c=paul_j_leach c=richard_draves t=support t=user t=centric t=modular t=real t=time t=resourc t=manag t=rialto t=oper t=system v=nossdav v=network v=oper v=system v=support v=digit v=audio v=video
+106 CLASS=2 c=george_m_candea c=michael_b_jones t=vassal t=loadabl t=schedul t=support t=multi t=polici t=schedul v=proceed v=second v=usenix v=advanc v=comput v=system v=associ v=window v=symposium v=page v=given v=best v=student v=paper v=award
+234 CLASS=8 c=m_w_jones t=direct t=surfac t=render t=gener t=genet t=bred t=implicit t=surfac v=proc v=th v=ann v=conf v=eurograph v=uk v=chapter v=isbn
+66 CLASS=2 c=michael_b_jones c=daniela_rosu c=marcel_catalin_rosu t=cpu t=reserv t=time t=constraint t=effici t=predict t=schedul t=independ t=activ v=proceed v=th v=acm v=symposium v=oper v=system v=principl v=saint v=malo v=page
+157 CLASS=4 c=n_mohd_nasir c=g_buchanon t=evalu t=webtwig t=site t=outlin t=handheld t=web t=access v=gellerson v=h v=w v=ubiquit v=comput v=karlsrhu v=lnc v=springer
+130 CLASS=3 c=paul_plassmann t=comput t=result t=parallel t=unstructur t=mesh t=comput v=comput v=system v=engin
+78 CLASS=2 c=michael_b_jones c=stefan_saroiu t=predict t=requir t=soft t=modem v=proceed v=acm v=sigmetr v=measur v=model v=comput v=system v=confer v=measur v=model v=comput v=system
+112 CLASS=3 c=tom_martin c=zahi_nakad t=servic t=backplan t=textil v=mamset v=proc v=model v=analysi v=middlewar v=support v=electron v=textil
+35 CLASS=1 c= t=dictionari t=free t=overload t=partial t=evalu v=pepm v=partial v=evalu v=semant v=base v=program v=manipul
+44 CLASS=1 c=mark_p_jones t=comput t=lattic t=applic t=type t=class v=journal v=function v=program v=univers v=press
+26 CLASS=1 c=paul_hudak c=sheng_liang t=monad t=transform t=modular t=interpret v=popl v=symposium v=principl v=program v=languag
+184 CLASS=4 c=a_steel c=m_apperley t=us t=auditori t=feedback t=call t=centr t=comput t=human t=human t=interact v=confer v=extend v=abstract v=human v=factor v=comput v=system
+37 CLASS=1 c= t=first t=class t=polymorph t=type t=infer v=popl v=symposium v=principl v=program v=languag
+92 CLASS=2 c=michael_b_jones t=inherit t=unlik t=place t=us t=object t=build t=deriv t=implement t=flat t=interfac v=proceed v=second v=intern v=object v=orient v=oper v=system v=iwooo v=page v=ieee v=comput v=societi
+49 CLASS=1 c=mark_p_jones t=hindlei t=milner t=type t=first t=class t=structur v=proceed v=haskel v=jolla v=yale v=univers v=research v=report v=yaleu v=dc v=rr
+165 CLASS=4 c=gary_marsden c=george_buchanan c=harold_w_thimbleby c=michael_j_pazzani c=sarah_farrant t=improv t=mobil t=internet t=usabl v=www v=world v=wide v=web v=confer v=seri
+117 CLASS=3 c=michael_tang c=paul_e_plassmann c=tom_canfield t=model t=piezoelectr t=crystal t=intel t=delta v=ppsc v=siam v=confer v=parallel v=process v=scientif v=comput
+13 CLASS=13 c=annette_bunker c=trent_larson c=phil_windley c=mike t=alexandria t=tool t=heirarch t=verif v=tool v=paper v=fmcad v=lnc v=edit v=windlei v=gopalakrishnan

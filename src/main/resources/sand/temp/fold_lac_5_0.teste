@@ -1,0 +1,10 @@
+28626 CLASS=14  c=h_sui c=j_chen c=j_wang c=songqiao t=payload t=analysi t=anonym t=commun t=system t=host t=base t=rerout t=mechan v=iscc 
+28590 CLASS=0  c=m_shyu c=c_shu c=shu_ching t=affin t=base t=probabilist t=reason t=document t=cluster t=www v=compsac 
+28574 CLASS=0  c=t_quirino c=z_xie c=m_shyu c=l_chang c=shu_ching t=collater t=repres t=subspac t=project t=model t=supervis t=classif v=ictai 
+28580 CLASS=0  c=m_shyu c=c_zhang c=j_strickrott c=shu_ching t=multimedia t=data t=mine t=traffic t=video t=sequenc v=kdd 
+28557 CLASS=0  c=m_shyu c=x_jin c=q_chen c=c_zhang c=j_strickrott c=shu_ching t=flexibl t=imag t=retriev t=multimedia t=present t=manag t=system t=multimedia t=databas v=mm 
+28603 CLASS=1  c=l_xiao c=x_zhang c=a_andrzejak c=songqing t=build t=larg t=effici t=hybrid t=peer t=peer t=internet t=cach t=system v=tkde 
+28604 CLASS=1  c=x_zhang c=r_sandhu c=songqing t=enhanc t=data t=authent t=integr t=p2p t=system v=internet 
+28606 CLASS=1  c=x_zhang c=songqing t=enforc t=direct t=commun t=client t=web t=server t=improv t=proxi t=perform t=secur v=spe 
+28605 CLASS=1  c=l_guo c=e_tan c=z_xiao c=o_spatscheck c=x_zhang c=songqing t=delv t=internet t=stream t=media t=deliveri t=qualiti t=resourc t=util t=perspect v=imc 
+28654 CLASS=7  c=j_futrelle c=k_chang c=su_shing t=nbdl t=ci t=framework t=nsdl v=jcdl 

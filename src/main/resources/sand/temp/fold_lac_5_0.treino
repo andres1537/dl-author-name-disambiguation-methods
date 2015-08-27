@@ -1,0 +1,39 @@
+28633 CLASS=11  c=j_goodman c=stanley_f t=empir t=studi t=smooth t=techniqu t=languag t=model v=acl 
+28640 CLASS=13  c=x_wang c=c_harris c=sheng t=search t=algorithm t=global t=optimis v=icnc 
+28653 CLASS=18  c=h_li c=j_tatemura c=d_agrawal c=k_candan c=w_hsiung c=songting t=safeti t=guarante t=continu t=join t=queri t=punctuat t=data t=stream v=vldb 
+28565 CLASS=0  c=m_shyu c=h_luo c=shu_ching t=self t=adjust t=network t=transmiss t=multimedia t=data v=itcc 
+28556 CLASS=0  c=m_shyu c=m_chen c=c_zhang c=shu_ching t=affin t=relat t=discoveri t=imag t=databas t=cluster t=content t=base t=retriev v=mm 
+28563 CLASS=0  c=m_shyu c=i_gray c=h_luo c=shu_ching t=adapt t=multimedia t=transmiss t=protocol t=distribut t=multimedia t=applic v=icdcsw 
+28559 CLASS=0  c=s_li c=h_hsieh c=m_shyu c=shu_ching t=facilit t=km t=reusabl t=xml t=bind t=model v=iri 
+28566 CLASS=0  c=m_shyu c=n_zhao c=c_zhang c=shu_ching t=compon t=base t=design t=integr t=distribut t=multimedia t=manag t=system v=iri 
+28551 CLASS=0  c=m_shyu c=m_chen c=c_zhang c=c_shu c=shu_ching t=probabilist t=semant t=network t=base t=imag t=retriev t=us t=mmm t=relev t=feedback v=mta 
+28589 CLASS=0  c=s_hamid c=s_gulati c=n_zhao c=m_chen c=c_zhang c=p_gupta c=shu_ching t=reliabl t=web t=base t=system t=hurrican t=analysi t=simul v=smc 
+28578 CLASS=0  c=m_shyu c=shu_ching t=introduct t=special t=issu t=multimedia t=databas v= 
+28575 CLASS=0  c=m_shyu c=n_zhao c=shu_ching t=enhanc t=queri t=model t=soccer t=video t=retriev t=us t=tempor t=relationship v=icd 
+28582 CLASS=0  c=m_shyu c=m_chen c=c_zhang c=shu_ching t=unifi t=framework t=imag t=databas t=cluster t=content t=base t=retriev v=mmdb 
+28584 CLASS=0  c=m_chen c=c_zhang c=m_shyu c=shu_ching t=excit t=event t=detect t=us t=multi t=level t=multimod t=descriptor t=data t=classif v=ism 
+28553 CLASS=0  c=c_zhang c=s_li c=h_chen c=m_shyu c=shu_ching t=stream t=smil t=present t=via t=multimedia t=semant t=model v=jci 
+28540 CLASS=0  c=m_shyu c=c_zhang c=w_tang c=k_zhang c=shu_ching t=damag t=pattern t=mine t=hurrican t=imag t=databas v=iri 
+28558 CLASS=0  c=m_shyu c=n_zhao c=c_zhang c=shu_ching t=affin t=base t=imag t=retriev t=system t=multimedia t=author t=present v=mm 
+28546 CLASS=0  c=x_li c=m_shyu c=s_li c=b_furht c=shu_ching t=novel t=hierarch t=approach t=imag t=retriev t=us t=color t=spatial t=inform v=pcm 
+28577 CLASS=0  c=x_li c=m_shyu c=b_furht c=shu_ching t=effect t=content t=base t=visual t=imag t=retriev t=system v=compsac 
+28588 CLASS=0  c=s_gulati c=s_hamid c=x_huang c=l_luo c=n_leroy c=m_powell c=c_zhan c=c_zhang c=shu_ching t=web t=base t=distribut t=system t=hurrican t=occurr t=project v=spe 
+28550 CLASS=0  c=x_chen c=c_zhang c=m_chen c=shu_ching t=latent t=semant t=index t=base t=method t=solv t=multipl t=instanc t=learn t=problem t=region t=base t=imag t=retriev v=ism 
+28592 CLASS=0  c=k_zhang c=p_singh c=k_saleem c=n_zhao c=shu_ching t=3d t=visual t=system t=hurrican t=storm t=surg t=flood v=cga 
+28657 CLASS=1  c=l_guo c=e_tan c=z_xiao c=x_zhang c=songqing t=internet t=media t=traffic t=realli t=follow t=zipf t=like t=distribut v=sigmetr 
+28600 CLASS=1  c=l_guo c=x_zhang c=songqing t=design t=evalu t=scalabl t=reliabl t=p2p t=assist t=proxi t=demand t=stream t=media t=deliveri v=tkde 
+28596 CLASS=1  c=b_shen c=y_yan c=x_zhang c=songqing t=buffer t=share t=proxi t=cach t=stream t=session v=www 
+28611 CLASS=2  c=p_gibbons c=s_nath c=shimin t=databas t=centric t=program t=wide t=area t=sensor t=system v=dcoss 
+28609 CLASS=2  c=a_ailamaki c=p_gibbons c=t_mowry c=shimin t=improv t=hash t=join t=perform t=prefetch v=icd 
+28610 CLASS=2  c=p_gibbons c=m_kozuch c=v_liaskovitis c=a_ailamaki c=g_blelloch c=b_falsafi c=l_fix c=n_hardavellas c=t_mowry c=c_wilkerson c=shimin t=schedul t=thread t=construct t=cach t=share t=cmp v=spaa 
+28613 CLASS=2  c=p_gibbons c=t_mowry c=shimin t=improv t=index t=perform t=prefetch v=sigmod 
+28648 CLASS=3  c=g_magoulas c=d_dimakopoulos c=sherry_y t=flexibl t=interfac t=design t=web t=directori t=accommod t=differ t=cognit t=style v=jasi 
+28647 CLASS=3  c=g_magoulas c=r_macredie c=sherry_y t=cognit t=style t=user t=respons t=structur t=inform t=represent v=jodl 
+28646 CLASS=3  c=g_ghinea c=r_macredie c=sherry_y t=cognit t=approach t=user t=percept t=multimedia t=qualiti t=empir t=investig v=ijmm 
+28644 CLASS=4  c=h_shen c=r_topor c=shao_dong t=effici t=permut t=base t=rang t=join t=algorithm t=n t=dimension t=mesh v=ipp 
+28645 CLASS=4  c=h_shen c=r_topor c=shao_dong t=permut t=base t=rang t=join t=algorithm t=n t=dimension t=mesh v=tpd 
+28655 CLASS=5  c=w_see c=p_hsiung c=t_lee c=sao_jie t=softwar t=platform t=embed t=softwar t=develop v=rtcsa 
+28636 CLASS=5  c=p_hsiung c=t_lee c=sao_jie t=object t=orient t=technolog t=transfer t=multiprocessor t=system t=level t=synthesi v=tool 
+28619 CLASS=6  c=y_chen c=simon_y t=cost t=driven t=hybrid t=configur t=prefetch t=partial t=reconfigur t=coprocessor v=ipp 
+28594 CLASS=20  c=p_rau c=y_chin c=sho_hsen t=develop t=web t=annot t=tool t=learner t=instructor v=iwc 
+28617 CLASS=10  c=c_salcedo c=s_smith c=stephen_y t=non t=standard t=crossov t=standard t=represent t=common t=base t=featur t=subset t=select v=gecco 
