@@ -95,7 +95,7 @@ public class Main {
             eval.computePairwiseF1();
 
             // TODO Carlos
-            double incorrectCount = 0;
+            int incorrectCount = 0;
             for (Instance i: eval.set){
 //        	System.out.println(i.id +"\t"+ i.classId +"\t"+ i.predictedClassId);
         	if (i.classId != i.predictedClassId) {
@@ -104,7 +104,7 @@ public class Main {
             }
 
             System.out.println();
-            System.out.println("Size: " + eval.set.size() + "\tIncorrectc count: " + incorrectCount + "\tError: " + (incorrectCount/eval.set.size()));
+            System.out.println("Size: " + eval.set.size() + "\tIncorrectc count: " + incorrectCount + "\tError: " + ((double) incorrectCount/eval.set.size()));
             System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
             System.out.println("K metric: " + eval.getkMetric() + "\tpF1: " + eval.getpF1());
 
