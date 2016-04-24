@@ -95,11 +95,16 @@ public class Main {
             eval.computePairwiseF1();
 
             // TODO Carlos
-            // for (Instance i: eval.set){
-            // System.out.println(i.id +"\t"+ i.classId +"\t"+ i.predictedClassId);
-            // }
+            int incorrectCount = 0;
+            for (Instance i: eval.set){
+//        	System.out.println(i.id +"\t"+ i.classId +"\t"+ i.predictedClassId);
+        	if (i.classId != i.predictedClassId) {
+        	    incorrectCount++;
+		}
+            }
 
             System.out.println();
+            System.out.println("Size: " + eval.set.size() + "\tIncorrectc count: " + incorrectCount);
             System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
             System.out.println("K metric: " + eval.getkMetric() + "\tpF1: " + eval.getpF1());
 
