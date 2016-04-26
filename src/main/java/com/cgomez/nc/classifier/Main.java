@@ -107,7 +107,7 @@ public class Main {
             System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getACP() + "\tAverage Author Purity: " + eval.getAAP());
             System.out.println("pF1: " + eval.getpF1());
             System.out.println("ErrorRate: " + eval.getErrorRate());
-            System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters" + eval.getNumberOfClusters());
+            System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters: " + eval.getNumberOfClusters());
 
         } catch (IOException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
