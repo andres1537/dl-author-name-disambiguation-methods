@@ -97,18 +97,17 @@ public class Main {
             eval.computePairwiseF1();
 
             // TODO Carlos
-            int incorrectCount = 0;
-            for (Citation i: eval.set){
+//            for (Citation i: eval.set){
 //        	System.out.println(i.id +"\t"+ i.classId +"\t"+ i.predictedAuthor.id);
-        	if (i.classId != i.predictedAuthor.id) {
-        	    incorrectCount++;
-		}
-            }
+//            }
 
             System.out.println();
-            System.out.println("Size: " + eval.set.size() + "\tIncorrectc count: " + incorrectCount + "\tError: " + ((double) incorrectCount/eval.set.size()));
+            System.out.println("Size: " + eval.set.size());
             System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
-            System.out.println("K metric: " + eval.getkMetric() + "\tpF1: " + eval.getpF1());
+            System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getACP() + "\tAverage Author Purity: " + eval.getAAP());
+            System.out.println("pF1: " + eval.getpF1());
+            System.out.println("ErrorRate: " + eval.getErrorRate());
+            System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters" + eval.getNumberOfClusters());
 
         } catch (IOException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);

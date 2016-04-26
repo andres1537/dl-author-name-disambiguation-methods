@@ -102,7 +102,7 @@ public class Main {
             System.out.println();
             System.out.println("Size: " + eval.set.size());
             System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
-            System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getAcp() + "\tAverage Author Purity: " + eval.getAap());
+            System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getACP() + "\tAverage Author Purity: " + eval.getAAP());
             System.out.println("pF1: " + eval.getpF1());
             System.out.println("ErrorRate: " + eval.getErrorRate());
             System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters" + eval.getNumberOfClusters());
