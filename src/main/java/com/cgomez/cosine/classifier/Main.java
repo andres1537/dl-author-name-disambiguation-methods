@@ -106,6 +106,7 @@ public class Main {
             System.out.println();
             System.out.println("Size: " + eval.set.size() + "\tIncorrectc count: " + incorrectCount + "\tError: " + ((double) incorrectCount/eval.set.size()));
             System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
+            System.out.println("Average Cluster Purity: " + eval.getAcp() + "\tAverage Author Purity: " + eval.getAap());
             System.out.println("K metric: " + eval.getkMetric() + "\tpF1: " + eval.getpF1());
 
         } catch (IOException ex) {
