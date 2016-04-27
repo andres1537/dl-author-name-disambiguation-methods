@@ -11,7 +11,7 @@
 
 	<developers>
 		<developer>
-			<name>Carlos Gomez</name>
+			<name>Carlos A. Gómez</name>
 			<email>andres1537@gmail.com</email>
 			<roles>
 				<role>Developer</role>
@@ -26,6 +26,7 @@
         <maven.source.plugin.version>2.4</maven.source.plugin.version>
         
 		<!-- Libs of the project -->
+        <ml.java.version>1.0.0</ml.java.version>
         <simetrics.version>1.6.2</simetrics.version>
         <libsvm.version>1.0.0</libsvm.version>
         <weka.version>1.0.0</weka.version>
@@ -60,6 +61,11 @@
 	</build>
 	
 	<dependencies>
+		<dependency>
+			<groupId>com.cgomez</groupId>
+			<artifactId>ml-java</artifactId>
+			<version>${ml.java.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>net.sf.simmetrics</groupId>
 			<artifactId>simmetrics</artifactId>
