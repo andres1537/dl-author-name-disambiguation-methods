@@ -137,7 +137,7 @@ public class Main {
     }
     
     /**
-     * M.
+     * Convert to instance.
      *
      * @author <a href="mailto:andres1537@gmail.com">Carlos A. Gómez</a>
      * @param set the set
