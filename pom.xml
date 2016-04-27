@@ -27,6 +27,7 @@
         
 		<!-- Libs of the project -->
         <ml.java.version>1.0.0</ml.java.version>
+        <indi.version>1.0.0</indi.version>
         <simetrics.version>1.6.2</simetrics.version>
         <libsvm.version>1.0.0</libsvm.version>
         <weka.version>1.0.0</weka.version>
@@ -65,6 +66,11 @@
 			<groupId>com.cgomez</groupId>
 			<artifactId>ml-java</artifactId>
 			<version>${ml.java.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>bdbcomp</groupId>
+			<artifactId>indi</artifactId>
+			<version>${indi.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.simmetrics</groupId>
