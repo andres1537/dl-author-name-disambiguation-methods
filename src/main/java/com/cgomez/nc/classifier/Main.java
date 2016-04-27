@@ -1,11 +1,21 @@
 package com.cgomez.nc.classifier;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
+import java.util.SortedMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import org.apache.commons.math3.linear.RealMatrix;
+
+import com.cgomez.ml.clustering.evaluation.K;
+import com.cgomez.ml.clustering.evaluation.PairwiseF1;
 import com.cgomez.nc.classifier.nc.NC;
+import com.cgomez.util.Instance;
+import com.cgomez.util.InstanceUtils;
+import com.cgomez.util.MatrixUtils;
 
 public class Main {
 
@@ -95,7 +105,16 @@ public class Main {
 
             eval.computeKMetric();
             eval.computePairwiseF1();
-
+            
+            
+            // Carlos
+            List<Instance> instances = convertToInstance(eval.getSet());
+            SortedMap<String, List<String>> actual = InstanceUtils.convertToMap(instances, false);
+            SortedMap<String, List<String>> predicted = InstanceUtils.convertToMap(instances, true);
+            RealMatrix m = MatrixUtils.convertToMatrix(actual, predicted);
+            K k = new K(m);
+            PairwiseF1 pF1 = new PairwiseF1(actual, predicted);
+            
             // TODO Carlos
 //            for (Citation i: eval.set){
 //        	System.out.println(i.id +"\t"+ i.classId +"\t"+ i.predictedAuthor.id);
@@ -104,14 +123,37 @@ public class Main {
             System.out.println();
             System.out.println("Size: " + eval.set.size());
             System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
-            System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getACP() + "\tAverage Author Purity: " + eval.getAAP());
-            System.out.println("pF1: " + eval.getpF1());
+//            System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getACP() + "\tAverage Author Purity: " + eval.getAAP());
+            System.out.println("K metric: " + k.compute() + "\tAverage Cluster Purity: " + k.acp() + "\tAverage Author Purity: " + k.aap());
+//            System.out.println("pF1: " + eval.getpF1());
+            System.out.println("pF1: " + pF1.compute() + "\tPairwisePrecision: " + pF1.pairwisePrecision() + "\tPairwiseRecall: " + pF1.pairwiseRecall());
             System.out.println("ErrorRate: " + eval.getErrorRate());
             System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters: " + eval.getNumberOfClusters());
 
         } catch (IOException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
+    }
+    
+    /**
+     * Convert to instance.
+     *
+     * @author <a href="mailto:andres1537@gmail.com">Carlos A. Gómez</a>
+     * @param set the set
+     * @return the list
+     */
+    private static List<Instance> convertToInstance(List<Citation> set) {
+	List<Instance> instances = new ArrayList<Instance>();
+	Instance instance = null;
+	for (Citation cit : set) {
+	    instance = new Instance();
+	    instance.set_id(String.valueOf(cit.id));
+	    instance.setActualClass(String.valueOf(cit.classId));
+	    instance.setPredictedClass(String.valueOf(cit.predictedAuthor.id));
+	    instances.add(instance);
+	}
+	
+	return instances;
     }
 
     private static void printHelp() {
