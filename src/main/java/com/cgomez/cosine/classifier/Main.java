@@ -138,7 +138,7 @@ public class Main {
      *
      * @author <a href="mailto:andres1537@gmail.com">Carlos A. Gómez</a>
      * @param set the set
-     * @return the real matrix
+     * @return the list
      */
     private static List<Instance> convertToInstance(List<com.cgomez.cosine.classifier.Instance> set) {
 	List<Instance> instances = new ArrayList<Instance>();
