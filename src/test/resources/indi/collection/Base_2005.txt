@@ -1,0 +1,38 @@
+28<>5_17<>y atencio:c esperanca:p cavalcanti<>a collision detection and response scheme for simplified physically based animation<>xx simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+44<>15_0<>m ravetti:g mateus<>traffic engineering in mpls networks: ars - an adaptive routing scheme based on control charts<>xxiii simposio brasileiro de redes de computadores<>adriana oliveira<>
+62<>24_6<>a carvalho:a bezerra:e moura:p peres<>deteccao de sitios replicados utilizando conteudo e estrutura<>xx simposio brasileiro de banco de dados<>altigran soares da silva<>
+77<>27_0<>l moraes<>modelo de mobilidade para representacao de cenarios de ambientes fechados<>xxiii simposio brasileiro de redes de computadores<>alexandre da silva<>
+97<>44_0<>p borba<>geracao de sistemas de transformacao de programas<>ix simposio brasileiro de linguagens de programacao<>adeline silva<>
+98<>44_1<>a furtado:c nascimento:g santos:a santos:c ferraz<>hwsproxygen: um gerador de proxies de web services para a linguagem haskell<>ix simposio brasileiro de linguagens de programacao<>adeline silva<>
+102<>47_0<>s rossi:e moreno:e batista:a carvalho<>desenvolvimento de um dispositivo gerenciador de protocolo para aplicacoes ieee 1451<>xxxii seminario integrado de software e hardware<>alexandre c r da silva<>
+104<>48_1<>s wu<>preserving coincidence and incidence topologies<>vii simposio brasileiro de geoinformatica<>adler da silva<>
+107<>51_0<>w brandao:f parreiras<>impactos e desafios na implementacao de uma infra-estrutura de software livre nas organizacoes: estudo de caso de uma empresa do setor siderurgico<>informatica publica - volume 7<>antonio braz de o e silva<>
+109<>53_0<>r sampaio:g alvarenga<>uma aplicacao de simulated annealing para o problema de alocacao de salas<>of computer science - volume 4<>amanda s n silva<>
+151<>85_6<>m warpechowski<>obtencao de metadados de objetos de aprendizagem no adaptweb(r)<>i escola regional de banco de dados<>jose palazzo moreira de oliveira<>
+155<>85_10<>m weschenfelder:d musa<>comportamento ativo em web services<>i escola regional de banco de dados<>jose palazzo moreira de oliveira<>
+156<>85_11<>d musa<>integration of distributed learner information through the web service =<>i ifip academy on the state of software theory and practice - phd colloquium<>jose palazzo moreira de oliveira<>
+157<>85_12<>r galante:d musa:n edelweiss<>uma proposta para editoracao, indexacao e busca de documentos cientificos em um processo de avaliacao aberta<>i workshop em bibliotecas digitais<>jose palazzo moreira de oliveira<>
+159<>87_0<>d contessa:d lazzarotto<>um provedor de dados para bibliotecas digitais compativel com o padrao oai<>i workshop em bibliotecas digitais<>jose palazzo moreira de oliveira<>
+179<>94_0<><>i ifip academy on the state of software theory and practice - phd colloquium<>i ifip academy on the state of software theory and practice - phd colloquium<>jose palazzo moreira de oliveira<>
+180<>95_0<>a laender:m goncalves<>remocao de ambiguidades na identificacao de autoria de objetos bibliograficos<>xx simposio brasileiro de banco de dados<>jean w a oliveira<>
+182<>97_0<>j santos:l dutra<>uso de algoritmos geneticos na selecao de atributos para classificacao de regioes<>vii simposio brasileiro de geoinformatica<>joao ricardo de f oliveira<>
+186<>101_0<>c gomide<>automacao de processos por meio de workflow: o caso da procempa<>informatica publica - volume 7<>jose pallazzo m de oliveira<>
+221<>119_1<>m campos:p cunha:j souza<>progcon: um sistema para prognostico de congestionamento de trafego de redes<>xx simposio brasileiro de redes de computadores<>jorge l de c e silva<>
+236<>125_10<>a oliveira:m stanton<>xxiii simposio brasileiro de redes de computadores<>xiii simposio brasileiro de redes de computadores<>j neuman de souza<>
+252<>129_10<>r rocha:l cardoso<>secondo-grid: an infrastructure to study spatial databases in computational grids<>xviii simposio brasileiro de banco de dados<>jano moreira de souza<>
+260<>138_0<>v mazzola<>uma abordagem para viabilizar o processo de data warehouse de dados biologicos<>xiii simposio brasileiro de redes de computadores<>luis otavio rodrigues da silva<>
+264<>139_3<>c felicissimo:k breitman:j leite<>integracao de caracteristicas transversais durante a modelagem de requisitos<>workshop em engenharia de requisitos<>lyrene fernandes da silva<>
+266<>139_5<>a medeiros:t batista:l minora<>uma linguagem de modelagem de requisitos orientada a aspectos<>xxi simposio brasileiro de engenharia de software<>lyrene f silva<>
+273<>141_3<>e vieira:o bellon<>uma ferramenta de mineracao de imagens para suporte ao calculo de idade gestacional de recem-nascidos<>revista de informatica teorica e aplicada - volume 9<>luciano silva<>
+277<>144_0<>e costa:e jr<>disseminando informacoes na arquitetura isam<>viii simposio brasileiro de redes neurais<>luciano da silva<>
+285<>150_0<>j marques-silva<>um servico de auto-arquivamento de publicacoes cientificas compativel com o padrao oai<>xii on integrated circuits and systems<>luis guerra e silva<>
+301<>162_0<>c silva:o costa<>a geographic knowledge base for text processing<>vi simposio internacional de melhoria de processo de software<>marco antonio lucinda ribeiro da silva<>
+307<>167_0<>j camara:a abelem:m stanton<>par_qos: uma estrategia para provimento de computacao paralela em ambientes distribuidos de proposito geral<>xxxii seminario integrado de software e hardware<>monica f da silva<>
+308<>168_0<>j rezende<>redes sem fio metropolitanas baseadas no padrao 802 16: um estudo de caso para belem-pa<>xxiv simposio brasileiro de redes de computadores<>marcel w r da silva<>
+327<>186_0<>r andrade:e marcal:c vidal:r rios<>um assistente para configuracao de bibliotecas digitais componentizadas<>xxxii seminario integrado de software e hardware<>raniery santos<>
+328<>187_0<>n medina:r lapa:m nero:a netto<>museum: uma aplicacao de m-learning com realidade virtual<>viii simposio brasileiro de geoinformatica<>ricardo dos santos<>
+332<>190_0<>j santos:j orozco<>materializacao do conceito de software publico: iniciativa cacic<>viii workshop brasileiro de tempo real<>rodrigo santos<>
+356<>210_2<>m souza:h oliveira<>a hybrid for the vehicle routing problem with time window<>of computer science - volume 4<>ricardo m de a silva<>
+357<>211_0<><>software para o ensino do protocolo de janelas deslizantes<>of computer science - volume 4<>renato a c silva<>
+358<>212_0<>s amo:n silva:f pereira<>inteligencia artificial aplicada a ambientes de engenharia de software: uma visao geral<>xxii simposio brasileiro de banco de dados<>ronaldo p silva<>
+360<>213_1<>g wirth:j koh:r thewes:r brederlow<>document reconstruction based on feature matching<>xix on microelectronics technology and devices<>r da silva<>

@@ -1,0 +1,3 @@
+52<>21_0<>c westephall<>implementacao de novos agentes para gerencia em redes de computadores<>xi simposio brasileiro de redes de computadores<>ana cristina b da silva<>
+119<>63_0<>c fujito:e garcia<>sisdi-osi:sistema didatico para o modelo osi<>xi simposio brasileiro de redes de computadores<>flavio m de silva<>
+227<>125_1<>r correia:a lages:l pirmez:l granville:e duarte-jr:r andrade<>managing heterogeneous networks: integrador based approach<>vii workshop de testes e tolerancia a falhas<>jose n souza<>

@@ -1,0 +1,22 @@
+1<>0_1<>j soares:m rodrigues<>o problema da qualidade de servico na perspectiva de sistemas de educacao a distancia<>xi simposio brasileiro de informatica na educacao<>antonio mauro b oliveira<>
+14<>5_3<>g giraldi:e strauss<>a boundary extraction approach based on multi-resolution methods and the t-snakes framework<>xiii simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+29<>5_18<>f silva:l garcia:r farias<>a control theory approach for real-time animation of artificial agents<>xiii simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+57<>24_1<>t coelho:a laender:k louly<>uma interface grafica para consulta a fontes de dados xml<>xv simposio brasileiro de banco de dados<>altigran soares da silva<>
+61<>24_5<>e veloso:e moura:p golgher:r almeida:a laender:b ribeiro-neto:n ziviani<>um retrato da web brasileira<>xxvii seminario integrado de software e hardware<>altigran s silva<>
+93<>40_0<>o carpinteiro<>a hierarchical neural in short-term load forecasting<>vi simposio brasileiro de redes neurais<>alexandre p alves da silva<>
+99<>45_0<>e kanazawa:k carvalho:v kinoshita:j uchoa:w lacerda:b schneider<>software para controle de temperatura em estufas<>of computer science - volume 2<>a c a silva<>
+120<>64_0<>s amo:m fernandes:j souza<>mining temporal constraints in databases using genetic algorithms<>xv simposio brasileiro de banco de dados<>flavio r silva<>
+128<>69_2<>l garcia:r farias:a oliveira<>a control theory approach for real-time animation of artificial agents<>xiii simposio brasileiro de computacao grafica e processamento de imagens<>fernando wagner da silva<>
+143<>83_0<>l lung:j fraga:j farines<>experiencias com comunicacao de grupo nas especificacoes fault tolerant corba<>xviii simposio brasileiro de redes de computadores<>jorge r souza de oliveira<>
+146<>85_1<>m souto:r viccari:e diehl:m madeira:r verdin:r wainer:s imoneengler<>modelo de ensino adaptativo na internet baseado em estilos cognitivos de aprendizagem<>xi simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+166<>87_7<>l lamb<>revista de informatica teorica e aplicada - volume 7<>revista de informatica teorica e aplicada - volume 7<>jose palazzo m de oliveira<>
+173<>90_0<>l figueiredo<>robust approximation of offsets and bisectors of plane curves<>xiii simposio brasileiro de computacao grafica e processamento de imagens<>joao batista s de oliveira<>
+185<>100_0<>p carvalho:d oliveira:a guaracy:a gomes:f conceicao:j freire<>um estudo teorico e experimental em algoritmos classicos de busca em texto<>of computer science - volume 2<>j a oliveira<>
+187<>102_0<>k sias:d filho:d sadok<>uma arquitetura para analise de carga de sinalizacao em redes de comunicacao movel celular<>xviii simposio brasileiro de redes de computadores<>jairo coutinho de oliveira<>
+195<>109_0<>b feijo<>agent based architecture for a cooperative learning environment<>xiii simposio brasileiro de informatica na educacao<>jose carlos tavares silva<>
+202<>113_1<>p simoni<>multiple correspondences in stereo vision under a genetic approach<>xvi simposio brasileiro de inteligencia artificial<>jose demisio simoes da silva<>
+239<>128_0<>i silva:r moura:b ribeiro-neto<>mining temporal constraints in databases using genetic algorithms<>xviii simposio brasileiro de banco de dados<>joao nunes de souza<>
+243<>129_1<>g zimbrao:r miranda:m estolano:f neto<>a raster approximation for processing of polyline joins<>xviii simposio brasileiro de banco de dados<>jano moreira de souza<>
+275<>143_0<>i augustin:j lima:a yamin:r real:c geyer<>gerenciamento integrado de modens via snmp: um estudo de caso<>viii simposio brasileiro de linguagens de programacao<>luciano cavalheiro da silva<>
+291<>155_0<>m valente<>computadores e producao de servicos publicos: resultados de uma investigacao na prefeitura de belo horizonte<>i latin american workshop on aspect-oriented software development<>leonardo humberto guimaraes silva<>
+297<>160_0<>e ferneda:h silva<>past-directed evaluation of dynamic integrity constraints in temporal databases<>xii simposio brasileiro de inteligencia artificial<>mario e de souza e silva<>

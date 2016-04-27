@@ -1,0 +1,34 @@
+2<>0_2<>j soares:a serra:g barroso<>uma arquitetura para um ambiente concebido com base nas dimensoes criticas da educacao tecnologica a distancia<>xii simposio brasileiro de informatica na educacao<>antonio mauro barbosa de oliveira<>
+3<>0_3<>j soares:a serra:g barroso<>analise das dimensoes criticas da educacao a distancia como base para especificacao de um sistemas de gestao<>xxviii seminario integrado de software e hardware<>antonio mauro barbosa de oliveira<>
+7<>1_0<>c geyer:a rodrigues:j emiliano:a pereira:d ferrari<>semeai: sistema multiagente de ensino e aprendizagem na internet<>xii simposio brasileiro de informatica na educacao<>alex oliveira<>
+15<>5_4<>g giraldi:e strauss<>improving the original dual-t-snakes model<>xiv simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+22<>5_11<>i matias:l goncalves<>enhancing the volumetric approach to stereo matching<>xiv simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+31<>6_1<>l lorena<>a constructive evolutionary approach to linear gate assignment problems<>iii encontro nacional de inteligencia artificial<>alexandre cesar muniz de oliveira<>
+39<>10_0<>j freire:b schneider<>interactive applications using vrml for the aid to the teaching of graphic computation<>iv simposio de realidade virtual<>alessandra guaracy de oliveira<>
+41<>12_0<>l nunes:a santiago:r takiguti<>modular test code for microcontroller units with rom<>revista de informatica teorica e aplicada - volume 8<>arthur h c oliveira<>
+58<>24_2<>i filha:a laender<>querying semistructured data by example: the qsbye interface<>international workshop on information integration on the web<>altigran soares da silva<>
+59<>24_3<>a arantes:a laender:p golgher<>an environment for building and maintaining web views<>international workshop on information integration on the web<>altigran soares da silva<>
+63<>24_7<>k magalhaes:a laender<>uma abordagem para armazenamento de dados semi-estruturados em bancos de dados relacionais<>xvi simposio brasileiro de banco de dados<>altigran silva<>
+69<>25_0<>a hernandez-dominguez<>desenvolvimento de um sistema tutor inteligente baseado em agentes no contexto de uma aula virtual adaptada<>xii simposio brasileiro de informatica na educacao<>aleksandra do socorro da silva<>
+81<>30_0<>s olabarriaga:c dietrich:c schmitz<>on determining a signature for skeletal maturity<>xiv simposio brasileiro de computacao grafica e processamento de imagens<>ana maria marques da silva<>
+87<>36_0<>k cunha:f zuben:l martins<>uma analise da representatividade da matriz_u para o mapa auto-organizavel de kohonen<>iii encontro nacional de inteligencia artificial<>ana estela antunes da silva<>
+88<>36_1<>l martins<>um modelo de avaliacao de especificacoes semi-formais de requisitos de software baseado na teoria do<>workshop em engenharia de requisitos<>ana estela antunes da silva<>
+115<>58_0<><>an environment to aid the synthesis of threephase analgue waveform using ahdl<>xiv on integrated circuits and systems<>a c r da silva<>
+130<>71_0<>e meneses<>um modelo para cooperacao entre sistemas baseados em conhecimento baseado em capacidades<>iii encontro nacional de inteligencia artificial<>flavio soares correa da silva<>
+147<>85_2<>m souto:f bica:m warpechowski:r vicari:r zanella:a sonntag<>ferramentas de suporte a monitoracao do aluno em um ambiente inteligente de ensino na web<>xii simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+148<>85_3<>f bica:m souto:r vicari:r zanella:g vier:k souza:a sonntag:r verdin:m madeira:s charczuk:m barbosa<>metodologia de construcao do material instrucional em um ambiente de ensino inteligente na web<>xii simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+152<>85_7<>n edelweiss:c ribeiro<>sidi - sistema distribuido para o intercambio de dados de saude<>informatica publica - volume 3<>jose palazzo m de oliveira<>
+153<>85_8<>d musa:f bica:r vicari<>agente para auxilio a avaliacao de aprendizagem ambientes de ensino na web<>xii simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+167<>87_8<>l lamb<>revista de informatica teorica e aplicada - volume 8<>revista de informatica teorica e aplicada - volume 8<>jose palazzo m de oliveira<>
+174<>90_1<>h lopes:l figueiredo<>robust adaptive approximation of implicit curves<>xiv simposio brasileiro de computacao grafica e processamento de imagens<>joao batista oliveira<>
+234<>125_8<>d gomes:n agolmine:n fonseca<>uma abordagem para a implantacao de nos programaveis em redes de comunicacao<>xix simposio brasileiro de redes de computadores<>jose neuman de souza<>
+235<>125_9<>j monteiro<>neurocomputacao na estimativa do parametro de hurst<>xxiii simposio brasileiro de redes de computadores<>jose neuman de souza<>
+246<>129_4<>l azevedo:g zimbrao<>processamento eficiente de juncoes espacotemporais<>viii simposio brasileiro de geoinformatica<>jano souza<>
+248<>129_6<>g zimbrao:r miranda:f neto<>athenas: um sistema gerenciador de regras de negocio<>xvi simposio brasileiro de engenharia de software<>jano m de souza<>
+250<>129_8<>w meyer:m ramirez<>processamento distribuido da juncao espacial<>viii simposio brasileiro de geoinformatica<>jano souza<>
+262<>139_1<>m sayao:j leite:k breitman<>um meta-modelo para especificacao de arquiteturas de software em camadas<>xvii simposio brasileiro de engenharia de software<>lyrene silva<>
+287<>152_0<>f pinheiro<>multiuser system: kennetic world<>workshop em engenharia de requisitos<>luzardo p silva<>
+299<>161_0<>m costa<>hybrid training of morphological neural networks applied to function approximation<>xix simposio brasileiro de banco de dados<>mario j silva<>
+340<>197_0<>j gomes:c mota:l velho<>dimensao socio-afetiva da interacao a distancia<>ix simposio brasileiro de computacao grafica e processamento de imagens<>romildo jose da silva<>
+346<>203_0<>g ramalho<>revisao sintatica e semantica da logica defaut<>iii encontro nacional de inteligencia artificial<>ricardo m a silva<>
+347<>204_0<>j mayer<>asnode-scp: a new version of the ant system for the set covering problem<>xvi simposio brasileiro de computacao grafica e processamento de imagens<>rafael araujo silva<>

@@ -1,0 +1,33 @@
+33<>6_3<>l lorena<>pattern sequencing problems by clustering search<>xix simposio brasileiro de inteligencia artificial<>alexandre cesar muniz de oliveira<>
+42<>13_0<>f brasileiro<>escalonamento tolerante a sabotagem em grades computacionais entre-pares<>vii workshop de testes e tolerancia a falhas<>ana cristina alves de oliveira<>
+45<>15_1<>g mateus<>using genetic algorithms to lsp setup in mpls networks<>xxiv simposio brasileiro de redes de computadores<>adriana oliveira<>
+64<>24_8<>e oliveira:e moura:j cavalcanti<>extracting and searching useful information available on web faqs<>xxi simposio brasileiro de banco de dados<>altigran s da silva<>
+68<>24_12<>r santos:f mesquita:e vilarinho<>extracao de dados e metadados em textos semi-estruturados usando hmms<>xxi simposio brasileiro de banco de dados<>altigran soares da silva<>
+103<>48_0<>s wu<>a robust strategy for handling linear features in topologically consistent polyline simplification<>viii simposio brasileiro de geoinformatica<>adler da silva<>
+105<>49_0<>f lins:j junior:n rosa:p maciel:n quental<>avaliacao de desempenho da composicao de web services usando redes de petri<>xxiv simposio brasileiro de redes de computadores<>arnoldo n da silva<>
+108<>52_0<>j janeiro:s colcher<>meta-gerencia de agentes procuradores usando snmp<>xi workshop de gerencia e operacao de redes e servicos<>anderson oliveira da silva<>
+111<>54_1<>m martins:b rocha:a loureiro:l ruiz:h wong<>deteccao de intrusos decentralizada em redes de sensores sem fio<>xxiv simposio brasileiro de redes de computadores<>ana paula r da silva<>
+112<>55_0<>p martins<>a case study applying process and project alignment methodology<>of the brazilian computer society - volume 12<>alberto rodrigues da silva<>
+123<>67_0<>t braga:l ruiz:j nogueira<>avaliacao de abordagens de coleta e processamento de dados em redes de sensores sem fio<>xi workshop de gerencia e operacao de redes e servicos<>fabricio a silva<>
+124<>67_1<>t braga:l ruiz:j nogueira<>um elemento autonomico para redes de sensores sem fio<>xxiv simposio brasileiro de redes de computadores<>fabricio silva<>
+131<>71_1<>w vasconcelos<>rule schemata for game artificial intelligence<>xix simposio brasileiro de inteligencia artificial<>flavio s correa da silva<>
+136<>75_0<>r mello<>bdterm: um sistema de gerenciamento de bases de dados terminologicas<>ii escola regional de banco de dados<>fabricio santos da silva<>
+139<>78_0<>l alves:r kulesza:p juca:g bressan<>analise comparativa de metadados em tv digital<>ii workshop de tv digital<>fabio santos da silva<>
+140<>79_0<>r lopes:b sousa:a viana:s sousa<>mag, um middleware de grade baseado em agentes: estado atual e perspectivas futuras<>iv workshop de computacao em grid e aplicacoes<>francisco jose da silva e silva<>
+183<>98_0<>i cananea:d mariz:d sadok:g fodor<>analysis of access selection algorithms for multi-access networks with elastic traffic<>xxiv simposio brasileiro de redes de computadores<>jeisa oliveira<>
+192<>107_0<>j bezerra:f maciel:r braquehais:m fernandez:j jr<>previsibilidade do comportamento do canal em redes ieee 802 11<>xxiv simposio brasileiro de redes de computadores<>jorge luiz c e silva<>
+193<>108_0<>e costa:e ferneda<>previsibilidade do comportamento do canal em redes ieee 802 11<>x simposio brasileiro de informatica na educacao<>josenildo costa da silva<>
+210<>114_0<>r fidalgo:v times:f sousa:r barros<>uma investigacao de modelos de estimativas de esforco em gerenciamento de projeto de software<>v simposio brasileiro de geoinformatica<>joel da silva<>
+224<>122_0<>h lieberman:a carvalho:v neris:m godoi:m tsutsumi:j espinosa:a neto:s zem-mascarenhas<>reading pddl, writing an object-oriented model<>xix simposio brasileiro de inteligencia artificial<>junia coutinho anacleto silva<>
+225<>123_0<>l silveira<>using common sense to recognize cultural differences<>xvii on integrated circuits and systems<>j m s silva<>
+228<>125_2<>f martins:m maia:r andrade:a santos<>uma estrategia para rerroteamento pro-ativo em redes opticas utilizando uma infra-estrutura de gerencia p2p<>iv workshop de computacao em grid e aplicacoes<>jose neuman de souza<>
+229<>125_3<>r holanda:a santos<>desafios para provisao de integridade de processamento em grades computacionais<>xi workshop de gerencia e operacao de redes e servicos<>jose neuman de souza<>
+230<>125_4<>w albano:w araujo:f cavalcanti:r andrade<>identifying anomalous patterns of network-wide traffic using flow clustering<>xxii simposio brasileiro de redes de computadores<>jose neuman de souza<>
+247<>129_5<>g silva:v almeida:a sulaiman:f neto<>approximate query processing in spatial databases using raster signatures<>xv simposio brasileiro de engenharia de software<>jano moreira de souza<>
+251<>129_9<>w meyer:m ramirez<>spatial query broker in a grid environment<>vii simposio brasileiro de geoinformatica<>jano souza<>
+290<>154_0<>e albuquerque:l barros:l guerra<>cartographical data treatment analysis for real time three-dimensional terrain visualization<>informatica publica - volume 2<>leandro alves silva<>
+309<>169_0<>s fernandes:w silva:n rosa:p maciel:d sadok<>um mecanismo para a selecao dinamica de canal em redes ieee 802 11 infra-estruturadas<>xxii simposio brasileiro de redes de computadores<>mauro j c silva<>
+325<>184_0<>w caminhas:l errico<>extracao de dados e metadados em textos semi-estruturados usando hmms<>of computer science - volume 1<>r b santos<>
+329<>188_0<>p roberto:m goncalves:a laender<>desenvolvimento de um sig para reconfiguracao de redes de energia eletrica com interface integrada<>xxi simposio brasileiro de banco de dados<>rodrygo l t santos<>
+330<>188_1<>a silva:h santos:a laender:m goncalves<>on rdbms and workflow support for componentized digital libraries<>xxii simposio brasileiro de banco de dados<>rodrygo l t santos<>
+333<>190_1<>c hara<>energy-aware scheduling of real-time heterogeneous multiprocessor systems-on-a-chip<>xxii simposio brasileiro de banco de dados<>rodrigo c santos<>

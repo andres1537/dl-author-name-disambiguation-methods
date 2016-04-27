@@ -1,0 +1,15 @@
+9<>3_0<>m cortes:a garcia:s carvalho<>especificacao formal do tratamento de excecoes na linguagem ddl<>iii simposio brasileiro de linguagens de programacao<>a p oliveira<>
+21<>5_10<>l goncalves:r grupen<>a framework for attention and object categorization using a stereo head robot<>xii simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+27<>5_16<>p coelho:c esperancca<>an image processing and belief approach to face detection<>xii simposio brasileiro de computacao grafica e processamento de imagens<>antonio alberto fernandes de oliveira<>
+56<>24_0<>a laender:e silva<>debye - uma ferramenta para extracao de dados semi-estruturados<>xiv simposio brasileiro de banco de dados<>altigran s da silva<>
+121<>65_0<>c reis:d nunes:r reis<>um modelo de simulacao de processos de software baseado em agentes cooperativos<>xiii simposio brasileiro de engenharia de software<>fabio augusto das dores silva<>
+127<>69_1<>l velho:j gomes:s goldenstein<>motion cyclification by time x frequency warping<>xii simposio brasileiro de computacao grafica e processamento de imagens<>fernando wagner da silva<>
+138<>77_0<><>paginas amarelas na web: apresentacao de resultados de acordo com a localizacao geografica<>informatica publica - volume 1<>fabiana bigao silva<>
+145<>85_0<>m souto:r viccari<>construindo um ambiente educacional na web<>x simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+165<>87_6<>l lamb<>revista de informatica teorica e aplicada - volume 6<>revista de informatica teorica e aplicada - volume 6<>jose palazzo m de oliveira<>
+176<>91_1<>c medeiros<>tecnicas, modelos e ferramentas para suporte a construcao de interfaces em sistemas de aplicacoes geograficas<>xiii simposio brasileiro de engenharia de software<>juliano lopes oliveira<>
+194<>108_1<>s labidi:n costa:e costa<>designing and development of an authoring environment for building and maintaining a society of artificial tutoring agents<>xi simposio brasileiro de informatica na educacao<>josenildo c silva<>
+238<>127_0<>s amo:f silva:m fernandes<>desenvolvendo um ambiente distribuido de auxilio a avaliacao conceitual em sistemas tutores<>xv simposio brasileiro de banco de dados<>joao n souza<>
+286<>151_0<>s venturelli:f anastacio:j lira:a rezende<>solving satisfiability in combinational circuits with bactrack search and recursive learning<>iv simposio de realidade virtual<>leon solon da silva<>
+326<>185_0<><>deteccao de intrusos: uma abordagem usando redes neurais<>i workshop em bibliotecas digitais<>rodrygo l t santos<>
+338<>195_1<>e freiberger<>suporte ao desenvolvimento e uso de componentes flexiveis<>iii simposio brasileiro de qualidade de software<>ricardo pereira e silva<>

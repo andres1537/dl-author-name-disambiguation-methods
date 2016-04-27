@@ -1,0 +1,2 @@
+191<>106_0<>c kirner<>protocolo de comunicacao em um sistema distribuido baseado num barramento paralelo centralizado<>v simposio brasileiro de redes de computadores<>jorge luiz e silva<>
+316<>176_0<>t ohashi:t yoshida:t ejima<>comutador de pacotes do sistema compac<>xi simposio brasileiro de computacao grafica e processamento de imagens<>r santos<>

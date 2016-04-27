@@ -1,0 +1,9 @@
+12<>5_1<>m kallmann<>homeomorphisms and metamorphosis of polyhedral models using fields of directions defined on triangulations<>of the brazilian computer society - volume 3<>antonio a f oliveira<>
+13<>5_2<>g giraldi<>visualizacao de vortices em dinamica de fluidos computacional<>x simposio brasileiro de computacao grafica e processamento de imagens<>antonio alberto fernandes de oliveira<>
+20<>5_9<>l goncalves<>tentando manter a diferenciabilidade em um morphing de curvas<>x simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+54<>22_0<>m anguh<>multiscale segmentation and enhancement in mammograms<>x simposio brasileiro de computacao grafica e processamento de imagens<>ari c silva<>
+126<>69_0<>l velho:p cavalcanti:j gomes<>an architecture for motion capture based animation<>x simposio brasileiro de computacao grafica e processamento de imagens<>fernando wagner da silva<>
+163<>87_4<>l lamb<>revista de informatica teorica e aplicada - volume 4<>revista de informatica teorica e aplicada - volume 4<>jose palazzo m de oliveira<>
+269<>140_1<>a fabris:a forrest<>an efficient filling for non-simple closed curves using the point containment paradigm<>xi simposio brasileiro de computacao grafica e processamento de imagens<>l silva<>
+271<>141_1<>o bellon:k boyer<>estudo sobre detecao de bordas em imagens de profundidade<>xvi simposio brasileiro de computacao grafica e processamento de imagens<>luciano silva<>
+342<>199_0<>e strauss:w jimenez:g giraldi:a oliveira<>reconstrucao de objetos 3d usando modelos deformaveis<>xv simposio brasileiro de computacao grafica e processamento de imagens<>rodrigo silva<>

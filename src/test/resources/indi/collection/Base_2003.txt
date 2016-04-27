@@ -1,0 +1,34 @@
+35<>7_0<>g azevedo:a barros:a santos<>sistema de suporte a auditoria de folhas de pagamento baseado em redes neurais<>iv encontro nacional de inteligencia artificial<>adriano l i oliveira<>
+60<>24_4<>k borges:a laender:c medeiros:c davis-jr<>the web as a data source for spatial databases<>v simposio brasileiro de geoinformatica<>altigran s da silva<>
+66<>24_10<>o oliveira<>verificacao automatica da qualidade de dados extraidos da web<>xviii simposio brasileiro de banco de dados<>altigran s da silva<>
+70<>25_1<>s brito:e favero:a hernandez-dominguez:o tavares:c frances<>uma arquitetura para desenvolvimento de ambientes interativos de aprendizagem baseado em agentes, componentes e framework<>xiv simposio brasileiro de informatica na educacao<>aleksandra do socorro silva<>
+71<>25_2<>m harb:s brito:e favero:o tavares:c frances<>amam: ambiente de aprendizagem multiparadigmatico<>xiv simposio brasileiro de informatica na educacao<>aleksandra do socorro silva<>
+84<>33_0<>j oliveira:b hall<>planning brazilian urban traffic with a geographic application software<>v simposio brasileiro de geoinformatica<>andre constantino da silva<>
+89<>37_0<>m menezes:l silva<>verificacao formal da etapa do particionamento em co-design usando o sistema de reescrita bobj<>xxx seminario integrado de software e hardware<>andre luis silva<>
+90<>38_0<>r leao:e silva<>uma tecnica de solucao transiente para modelos de filas fluido<>ii workshop de desempenho de sistemas computacionais e de comunicacao<>ana paula c da silva<>
+100<>46_0<>g mateus<>performance analysis for data service in third generation mobile telecommunication networks<>of the brazilian computer society - volume 8<>aloizio p silva<>
+117<>61_0<>a figueira:h paulino:l lopes<>distributed concurrent objects: a programming language for distributed computations with mobile reso<>vii simposio brasileiro de linguagens de programacao<>fernando silva<>
+122<>66_0<>r costa:n edelweiss:e bergamini<>using the temporal versions in a software configuration management environment<>xvii simposio brasileiro de engenharia de software<>fabricio avila da silva<>
+132<>72_0<>r souza:f carvalho<>classificacao nao supervisionada de dados de tipo intervalo baseada em distancias nao quadraticas<>iv encontro nacional de inteligencia artificial<>fabio c d silva<>
+134<>73_0<>r campelo:h moura<>o uso de extreme programming em uma organizacao cmm nivel 2<>ii simposio brasileiro de qualidade de software<>fabio gomes silva<>
+169<>87_10<>l lamb<>revista de informatica teorica e aplicada - volume 10<>revista de informatica teorica e aplicada - volume 10<>jose palazzo m de oliveira<>
+175<>91_0<>a silva:b hall<>planning brazilian urban traffic with a geographic application software<>v simposio brasileiro de geoinformatica<>juliano lopes de oliveira<>
+184<>99_0<>p pinheiro<>um ambiente na www de construcao de tabela de horario de professores aplicado as escolas de ensino medio estadual<>informatica publica - volume 5<>jose auricio oliveira<>
+197<>111_0<>r orbolato:v almeida<>amonmef - um agente de interface para avaliacao de aprendizagem em ensino a distancia<>v simposio sobre fatores humanos em sistemas computacionais<>junia c a silva<>
+205<>113_4<>k bharadwaj<>dempster-shafer theory as an inference method for corresponding geometric distorted images<>v simposio brasileiro de redes neurais<>jose demisio simoes da silva<>
+211<>114_1<>r fidalgo:v times:f souza:a salgado<>gmla: a xml schema for integration and exchange of multidimensional-geographical data<>xix simposio brasileiro de banco de dados<>joel silva<>
+220<>119_0<>m campos:p cunha<>corresponding geometric distorted images using an uncertainty inference method<>xxiii simposio brasileiro de redes de computadores<>jorge castro e silva<>
+240<>128_1<>i silva:k santos<>informacao de links no modelo vetorial usando uma estrutura funcional<>xix simposio brasileiro de banco de dados<>joao nunes de souza<>
+244<>129_2<>l azevedo:r monteiro:g zimbrao<>enforcement of business rules in relational databases using constraints<>vi simposio brasileiro de geoinformatica<>jano moreira de souza<>
+253<>130_0<>m campos<>an improved approach in data warehousing etlm process for detection of changes in source data<>xi simposio brasileiro de computacao grafica e processamento de imagens<>john kennedy schettino de souza<>
+256<>133_0<>a reboucas:a furtado:e argollo:e luque:d rexachs<>uma analise dos mecanismos de seguranca de redes locais sem fio e uma proposta de melhoria<>xxxi seminario integrado de software e hardware<>josemar souza<>
+258<>135_0<>e meza:m filho:m schilling:j carvalho<>sqa - garantia da qualidade em uma fabrica de software<>viii simposio brasileiro de redes neurais<>julio souza<>
+263<>139_2<>j leite<>enriquecendo o codigo com cenarios<>xix simposio brasileiro de engenharia de software<>lyrene fernandes da silva<>
+265<>139_4<>j leite<>geracao de ontologias subsidiada pela engenharia de requisitos<>workshop em engenharia de requisitos<>lyrene fernandes da silva<>
+272<>141_2<>o bellon:m cat:e vieira:a araujo<>robust multiview range image registration<>i workshop sobre algoritmos de mineracao de dados<>luciano silva<>
+279<>146_0<>f gomide<>expert coop++: ambiente para desenvolvimento de sistemas multiagente<>iv encontro nacional de inteligencia artificial<>leila roling scariot da silva<>
+280<>147_0<>m menezes:a silva<>aprendizagem participativa em agrupamento nebuloso de dados<>xxx seminario integrado de software e hardware<>leila silva<>
+281<>147_1<>m carvalho:k rezende:n melo:y lobao:d mallerbi<>verificacao formal da etapa do particionamento em co-design usando o sistema de reescrita bobj<>xxxi seminario integrado de software e hardware<>leila silva<>
+288<>152_1<>f pinheiro<>eliciting requirements for identifying workflow categories<>informatica publica - volume 6<>luzardo pereira da silva<>
+323<>182_0<>p adeodato:a arnaud:r cunha:g vasconcelos:d monteiro<>dimensionando data marts: uma adequacao de uma metrica funcional<>viii simposio brasileiro de redes neurais<>roberto santos<>
+348<>205_0<>a silva:a fiorese:g santos<>informed embedding for multibit watermarking<>of computer science - volume 6<>rogerio e da silva<>

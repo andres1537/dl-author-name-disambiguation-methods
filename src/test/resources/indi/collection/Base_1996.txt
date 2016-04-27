@@ -1,0 +1,9 @@
+11<>5_0<>m kallmann<>metamorfose de modelos poliedrais utilizando campos vetoriais em tetraedracoes<>ix simposio brasileiro de computacao grafica e processamento de imagens<>antonio alberto oliveira<>
+86<>35_0<>e oliveira<>tarca - an integrated system for diagnosis and treatment of cardiac arrhythmias<>xiii simposio brasileiro de inteligencia artificial<>antonio jose ferreira da silva<>
+125<>68_0<>g lucero<>translating a configuration language to the pi-calculus<>i simposio brasileiro de linguagens de programacao<>fabio q b da silva<>
+162<>87_3<>l lamb<>revista de informatica teorica e aplicada - volume 3<>revista de informatica teorica e aplicada - volume 3<>jose palazzo m de oliveira<>
+181<>96_0<><>a backward mode for slope evaluation and remark on backward methods for interval variables<>revista de informatica teorica e aplicada - volume 3<>joao batista s de oliveira<>
+201<>113_0<>p simoni:k bharadwaj<>um algoritmo geometrico para geracao de funcoes discriminantes<>xiii simposio brasileiro de computacao grafica e processamento de imagens<>jose demisio simoes silva<>
+233<>125_7<>c rocha:a braga<>integracao de um agente atm a um prototipo destinado ao estudo de interoperabilidade entre sistemas tmn<>xix simposio brasileiro de redes de computadores<>jose neuman de souza<>
+337<>195_0<>r price<>metodologia de desenvolvimento e implementacoes de agentes de supervisao de elementos de rede para plataforma distribuida sis<>xiii simposio brasileiro de engenharia de software<>ricardo pereira e silva<>
+341<>198_0<>s wu<>image effects using contractive mappings<>x simposio brasileiro de computacao grafica e processamento de imagens<>rosana marques da silva<>

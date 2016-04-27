@@ -1,0 +1,70 @@
+17<>5_6<>f mello:e strauss:a gesualdi<>non-uniform mesh simplification using adaptative merge procedures<>vi simposio brasileiro de geoinformatica<>antonio oliveira<>
+18<>5_7<>s ribeiro:r farias:c esperanca:g giraldi<>loop snakes: snakes with enhanced topology control<>xvii simposio brasileiro de computacao grafica e processamento de imagens<>a oliveira<>
+19<>5_8<>a cuno:c esperanca:p cavalcanti<>fast polygonization of variational implicit surfaces<>xvii simposio brasileiro de computacao grafica e processamento de imagens<>a oliveira<>
+32<>6_2<>l lorena:a preto:s stephany<>an adaptive hierarchical fair competition genetic for large-scale numerical optimization<>viii simposio brasileiro de redes neurais<>alexandre oliveira<>
+34<>6_4<>l lorena<>detecting promising areas by evolutionary clustering search<>xvii simposio brasileiro de inteligencia artificial<>alexandre cesar muniz de oliveira<>
+36<>8_0<>m villela:j braga<>modelagem ontologica no apoio  modelagem conceitual<>xviii simposio brasileiro de engenharia de software<>alcione de paiva oliveira<>
+37<>8_1<>m duarte:j braga<>determinacao semi-automatica de fatores criticos de sucesso para a area academica<>informatica publica - volume 6<>alcione p oliveira<>
+38<>9_0<>t braga:m maia:r bigonha<>metaj: an extensible environment for metaprogramming in java<>viii simposio brasileiro de linguagens de programacao<>ademir alvarenga de oliveira<>
+40<>11_0<>f neto:s meira<>novelty detection in time series by neural networks forecasting with robust confidence intervals<>viii simposio brasileiro de redes neurais<>adriano oliveira<>
+47<>16_0<>d garcia<>mineracao da base de dados de um processo seletivo universitario<>of computer science - volume 3<>aracele g oliveira<>
+50<>18_1<>m carreno<>formation of 3c-sic films on silicon by thermal annealing process<>xix on microelectronics technology and devices<>a r oliveira<>
+55<>23_0<>j camapum:a freitas:h bassani:f freitas<>segmentation of clinical structures from images of the human pelvic area<>xvii simposio brasileiro de computacao grafica e processamento de imagens<>alzenir silva<>
+67<>24_11<>r rodrigues:e silveira:a vieiralves:g souza:j valente:k merklein<>um relato sobre a utilizacao de agentes tecnologicos para o processo eleitoral na regiao amazonica<>xxxi seminario integrado de software e hardware<>altigran soares da silva<>
+72<>25_3<>a hernandez-dominguez:b silva<>afm: um assistente-tutor baseado em agentes para uma ferramenta de modelagem orientada a objetos<>xv simposio brasileiro de informatica na educacao<>aleksandra silva<>
+76<>26_3<>r lotufo<>detection of lines using hierarchical region based representation<>xvii simposio brasileiro de computacao grafica e processamento de imagens<>a silva<>
+80<>29_1<>r martinez:r furlan:i ramos:j santiago-aviles<>analysis of electrospinning of nanofibers as a function of polyacrylonitrile (pan) concentration<>xix on microelectronics technology and devices<>a n r da silva<>
+85<>34_0<>l coradine:f albuquerque:j madeiro:m pereira:o tavares<>interpretacao de oracoes simples atraves do falibras (tradutor portugues-libras) para auxiliar na aprendizagem de criancas surdas<>xv simposio brasileiro de informatica na educacao<>andre silva<>
+95<>42_0<>s junior:j silva:m ribeiro<>integracao ihc e es: processo de planejamento da reengenharia de software guiado pela avaliacao de usabilidade - ppr-u<>vi simposio sobre fatores humanos em sistemas computacionais<>andre constantino da silva<>
+96<>43_0<>a farias:a lorenzoni:m parizotto:m silveira<>ferramentas para apoio a construcao de sistemas de ajuda online<>vi simposio sobre fatores humanos em sistemas computacionais<>alex pacheco da silva<>
+110<>54_0<>f teixeira:h wong:j nogueira<>aspectos de deteccao de intrusos em redes de sensores sem fio<>xxii simposio brasileiro de redes de computadores<>ana paula ribeiro da silva<>
+113<>56_0<>h caseli:m nunes<>evaluation of methods for sentence and lexical alignment of brazilian portuguese and english parallel texts<>xvii simposio brasileiro de inteligencia artificial<>aline maria da paz silva<>
+118<>62_0<>a gomes<>interactive editing of multiresolution meshes<>xvii simposio brasileiro de computacao grafica e processamento de imagens<>f silva<>
+133<>72_1<>f carvalho:r souza<>a clustering method for symbolic interval-type data using adaptive chebyshev distances<>xvii simposio brasileiro de inteligencia artificial<>fabio c d silva<>
+137<>76_0<>f pedroza:f alencar:j castro:v santander<>ferramentas para suporte do mapeamento da modelagem i* para a uml: extended good a xgood e goose<>workshop em engenharia de requisitos<>fernando r c silva<>
+141<>80_0<>a andrade:f barboza:r oliveira<>um ambiente para especificacao e verificacao automatica de aplicacoes baseadas em agentes moveis<>xxii simposio brasileiro de redes de computadores<>flavio m assis silva<>
+144<>84_0<>m kapp:c freitas:j carvalho:r sabourin<>handwritten recognition with multiple classifiers for restricted lexicon<>xvii simposio brasileiro de computacao grafica e processamento de imagens<>j oliveira<>
+150<>85_5<>v freitas:m camargo-brunetto:m proenca-jr:c ribeiro:m warpechowski<>tecnicas de adaptacao do material instrucional no ambiente adaptweb<>xv simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+154<>85_9<>d musa<>uso de web-services para compartilhamento de dados contidos em modelos de alunos<>xv simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+158<>86_0<>m oliveira<>treinamento de redes neurais utilizando variantes do filtro de kalman (ekf e ukf) para predicao de series heterocedasticas<>viii simposio brasileiro de redes neurais<>jose oliveira<>
+178<>93_0<><>neural control of a non linear process with gain scheduling<>viii simposio brasileiro de redes neurais<>julio cesar oliveira<>
+200<>112_0<>c tozzi<>integracao ihc e es: processo de planejamento da reengenharia de software guiado pela avaliacao de usabilidade - ppr-u<>ix simposio brasileiro de computacao grafica e processamento de imagens<>jose ricardo porto silva<>
+207<>113_6<>l hoffmann:a castro<>um sistema de resolucao distribuida de problemas para apoiar o planejamento educacional<>viii simposio brasileiro de redes neurais<>jose demisio simoes silva<>
+208<>113_7<>e shiguemori:h velho:j carvalho<>image based autonomous navigation with softcomputing decision making techniques<>viii simposio brasileiro de redes neurais<>jose demisio simoes silva<>
+209<>113_8<>i tronto:n santanna<>radial basis function neural in the inversion of temperature vertical profiles from satellite radiance data<>xx simposio brasileiro de engenharia de software<>jose demisio simoes da silva<>
+212<>114_2<>v times:r fidalgo:r barros<>providing multidimensional and geographical integration based on a gdw and metamodels<>vi simposio brasileiro de geoinformatica<>joel da silva<>
+213<>114_3<>v times:a salgado:r fidalgo<>towards a web service for geographic and multidimensional processing<>vi simposio brasileiro de geoinformatica<>joel da silva<>
+214<>114_4<>a vera:a oliveira:r fidalgo:a salgado:v times<>propondo uma linguagem de consulta geografica multidimensional<>xxii simposio brasileiro de banco de dados<>joel da silva<>
+223<>121_0<>f tonidandel:t vaquero<>uma avaliacao empirica de politicas de invocacao para servicos web replicados<>xix simposio brasileiro de inteligencia artificial<>jose reinaldo silva<>
+226<>125_0<>a patel:b bhushan<>issues in parallelizing multigrid-based substrate extraction and analysis<>xi simposio brasileiro de redes de computadores<>jose newman de souza<>
+231<>125_5<>j silva:m campos:p cunha<>sigma: uma entidade para localizacao e autenticacao de dispositivos moveis entre areas de micromobilidade<>xx simposio brasileiro de redes de computadores<>jose n de souza<>
+241<>128_2<>m moreira:i silva<>dependence among terms in vector space model<>xvii simposio brasileiro de banco de dados<>joao nunes souza<>
+245<>129_3<>g zimbrao:v almeida<>approximate spatial query processing using raster signatures<>xvi simposio brasileiro de banco de dados<>jano moreira de souza<>
+257<>134_0<>r cuattrin<>improving performance of long-distance geographically distributed dedicated clusters<>v simposio internacional de melhoria de processo de software<>jemima coelho de souza<>
+259<>136_0<>e battistella:n lemke:j mombach<>alocacao otima de utrs e medidores para a supervisao em tempo real de sistemas de distribuicao<>i escola regional de banco de dados<>jose guilherme c de souza<>
+276<>143_1<>m moraes:a filho:i augustin:a yamin:c geyer<>isamadapt - um ambiente de desenvolvimento de aplicacoes no novo paradigma definido pela computacao pervasiva<>xxxii seminario integrado de software e hardware<>luciano c da silva<>
+278<>145_0<>a costa:g bittencourt:e goncalves<>using neural networks with uncertainty information to core point and fingerprint classification<>iv encontro nacional de inteligencia artificial<>luciano rottava da silva<>
+282<>148_0<>w chapetta:g travassos<>monitoramento do pe diabetico com suporte computacional<>iii simposio brasileiro de qualidade de software<>luis felipe santos silva<>
+283<>149_0<>d pozo:a laender:m goncalves<>inspecoes de requisitos de software utilizando pbr e apoio ferramental<>xix simposio brasileiro de banco de dados<>lena veiga e silva<>
+284<>149_1<><>modelagem de bibliotecas digitais usando a abordagem 5s: um estudo de caso<>informatica publica - volume 7<>lena veiga e silva<>
+289<>153_0<>f mello<>mapeando estruturas organizacionais em categorias de workflow<>viii simposio brasileiro de geoinformatica<>luiz felipe ferreira da silva<>
+295<>158_1<>a monteiro:j medeiros<>visualization of geospatial data by component planes and u-matrix<>viii simposio brasileiro de redes neurais<>marcos aurelio da silva<>
+296<>159_0<>m samso<>semi-automatic geospatial data clustering by self-organizing maps<>xv simposio brasileiro de banco de dados<>maria amelia pacheco e silva<>
+300<>161_1<>m chaves:b martins<>optimizing ranking calculation in web search engines: a case study<>xx simposio brasileiro de banco de dados<>mario j silva<>
+302<>163_0<>f feitosa:g camara:a monteiro:t koschitzki<>implantacao de melhoria no processo ?engenharia de requisitos? na empresa formula informatica<>vi simposio brasileiro de geoinformatica<>marcelino silva<>
+303<>163_1<>j robin<>spatial measurement of residential segregation<>xvii simposio brasileiro de inteligencia artificial<>marcelino pereira dos santos silva<>
+304<>164_0<>m gerken:m miranda<>skdql: a structured language to specify knowledge discovery processes and queries<>viii simposio brasileiro de redes neurais<>magno silva<>
+305<>165_0<>l pimenta:a braga<>a blind hybrid decision feedback equalizer<>viii simposio brasileiro de redes neurais<>marcelo silva<>
+306<>166_0<>r kawasaki:l oliveira:c frances:d cardoso:m teixeira:j costa:l augusto<>um estudo comparativo entre o bagging de redes mlp e o treinamento multi-objetivo<>xxxii seminario integrado de software e hardware<>marcelino p s silva<>
+310<>170_0<>i gimenes:a garcia<>performance analysis of message-oriented middleware using stochastic petri nets<>i latin american workshop on aspect-oriented software development<>mario f silva<>
+314<>174_0<>j junior:m camargo:s gregorio:m ribeiro:f arruba-jr:o fernandes:w ishibashi<>radiation-tolerant cmos aps arrays<>vii simposio brasileiro de redes de computadores<>rosana jamal f santos<>
+320<>179_0<>f artola:s fontoura:m vellasco<>formation and stability of ni(pt)si/poly-si layered structure<>xvi simposio brasileiro de inteligencia artificial<>rafael valle dos santos<>
+324<>183_0<>f mesquita:a silva:e vilarinho<>uma aplicacao de mineracao de dados na manutencao de redes de telefonia<>xxi simposio brasileiro de banco de dados<>roberto oliveira dos santos<>
+339<>196_0<>c nascimento:p barbosa<>suporte ao uso de frameworks orientados a objetos com base no historico do desenvolvimento de aplicacoes<>xii simposio brasileiro de informatica na educacao<>roberta scaramussa da silva<>
+344<>201_0<>j leite:m fernandez<>orion: a construcao coletiva de uma comunidade online de conhecimento<>xxii simposio brasileiro de redes de computadores<>r i da silva<>
+345<>202_0<>r filho:m pequeno<>extensao do tempo de vida de redes ad hoc<>iii encontro nacional de inteligencia artificial<>robson teixeira da silva<>
+350<>206_1<>e corseuil:a raposo:m pinto:g wagner:m gattass<>viral: um framework para o desenvolvimento de aplicacoes de realidade virtual<>vii simposio de realidade virtual<>romano j m silva<>
+351<>207_0<>r maranhao:r barros<>a vr tool for the visualization of cad models<>informatica publica - volume 4<>ricardo antonio camara da silva<>
+353<>209_0<>a rocha:a schneider:j alves<>uso da tecnologia movel no auxilio a reeducacao alimentar<>of computer science - volume 3<>ricardo m a silva<>
+354<>210_0<>h oliveira:m souza:g alvarenga<>wxproc: um simulador de politicas de escalonamento multiplataforma<>of computer science - volume 3<>ricardo m a silva<>
+355<>210_1<>g alvarenga:r sampaio<>adaptacao do algoritmo genetico no tratamento do problema de roteamento de veiculos com janela de tempo<>of computer science - volume 4<>ricardo m de a silva<>

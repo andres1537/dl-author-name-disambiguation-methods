@@ -1,0 +1,18 @@
+46<>15_2<>j oliveira:t brito:s jr:g elias<>uma extensao do framework componentforge para desenvolvimento distribuido de software<>i workshop de desenvolvimento distribuido de software<>adriana oliveira<>
+48<>17_0<>j silva:a vera:r fidalgo:a salgado:v times<>querying geographical data warehouses with geomdql<>xxii simposio brasileiro de banco de dados<>anjolina g de oliveira<>
+94<>41_0<>a fiorese:r silva:g santos<>ane - arvore n-aria de espalhamento naturalmente balanceada<>of computer science - volume 6<>alexandre g silva<>
+114<>57_0<>r santos:h santos:a laender:m goncalves<>a component-based digital library service for finding missing documents<>xxii simposio brasileiro de banco de dados<>allan j c silva<>
+170<>87_11<>s rigo:m schwertner<>mineracao de uso em sistema de informacao<>iii escola regional de banco de dados<>jose palazzo moreira de oliveira<>
+188<>103_0<>t brito:s jr:g elias<>um servico de repositorio compartilhado e distribuido para suporte ao desenvolvimento baseado em componentes<>xxi simposio brasileiro de engenharia de software<>joao paulo f de oliveira<>
+189<>103_1<>t brito:a oliveira:s jr:g elias<>uma extensao do framework componentforge para desenvolvimento distribuido de software<>i workshop de desenvolvimento distribuido de software<>joao p f de oliveira<>
+215<>114_5<>r fonseca:r fidalgo:v times<>querying geographical data warehouses with geomdql<>xxii simposio brasileiro de banco de dados<>joel da silva<>
+216<>115_0<>r leao<>um metamodelo para a especificacao de data warehouses geograficos<>xvi simposio brasileiro de redes de computadores<>j a n da silva<>
+267<>139_6<>a medeiros:t batista:l minora<>requisitos e arquitetura de software orientada a aspectos: uma integracao sinergica<>i latin american workshop on aspect-oriented software development<>lyrene silva<>
+268<>140_0<>a fabris:a forrest<>marisa - uma ferramenta para mapeamento bidirecional de modelos orientados a aspectos: requisitos e arquitetura de software<>x simposio brasileiro de computacao grafica e processamento de imagens<>luciano silva<>
+292<>155_1<>m malta:t melo:m valente<>controlando a evolucao de sistemas orientados por aspectos por meio de aspect-aware interfaces<>i latin american workshop on aspect-oriented software development<>leonardo humberto guimaraes silva<>
+293<>157_0<>b correa:h thiago<>um estudo sobre o emprego de quantificacao em sistemas orientados por aspectos: resultados preliminares<>ix simposio brasileiro de redes de computadores<>marcos de s silva<>
+311<>171_0<>j gonzalez:l kuhn:d griffis:p russell<>monitoramento baseado em aspectos de contratos eletronicos<>xvii on microelectronics technology and devices<>m i n silva<>
+331<>189_0<>a peterle:c castro:c meffe:n bretas<>a component-based digital library service for finding missing documents<>informatica publica - volume 7<>rogerio santanna dos santos<>
+334<>192_0<>e moreira<>utilizacao de chaves em algoritmos de diff para xml<>x simposio brasileiro de redes de computadores<>roseli maria da silva<>
+349<>206_0<>t bastos:a raposo:m gattass<>ane - arvore n-aria de espalhamento naturalmente balanceada<>vii simposio de realidade virtual<>romano j m da silva<>
+359<>213_0<>c solana:l fernandes:e justino:m oliveira:l oliveira:f bortolozzi:g crespo<>constraint-based tree pattern mining<>xx simposio brasileiro de computacao grafica e processamento de imagens<>roberto da silva<>

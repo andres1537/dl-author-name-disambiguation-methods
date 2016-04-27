@@ -1,0 +1,43 @@
+10<>4_0<>m maia<>jpearl - uma linguagem para descricao de reestruturacoes em programas java<>vi simposio brasileiro de linguagens de programacao<>ademir alvarega de oliveira<>
+16<>5_5<>e strauss:w jimenez:g giraldi:r silva<>a semi-automatic surface reconstruction framework based on t-surfaces and isosurface extraction methods<>xv simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f oliveira<>
+30<>6_0<>l lorena<>2-opt population training for minimization of open stack problem<>xvi simposio brasileiro de inteligencia artificial<>alexandre cesar muniz de oliveira<>
+43<>14_0<>c werner:m mangan:l murta:r pinheiro:m mattoso:r braga:m borges<>odysseyshare: um ambiente para o desenvolvimento cooperativo de componentes<>xvi simposio brasileiro de engenharia de software<>alessandreia de oliveira<>
+49<>18_0<>m carreno<>phosphorus implantation on near stoichiometric a-sic:h films<>xvii on microelectronics technology and devices<>a r oliveira<>
+65<>24_9<>r vieira:p calado:a laender:b ribeiro-neto<>consultando banco de dados disponiveis na web usando palavras-chave<>xvii simposio brasileiro de banco de dados<>altigran s silva<>
+73<>26_0<>r lotufo:r machado<>ambiente de suporte ao ensino de processamento de imagens usando a linguagem python<>xiii simposio brasileiro de informatica na educacao<>alexandre goncalves da silva<>
+74<>26_1<>f flores:r lotufo:s isernhagen:l isernhagen:e rocha<>automatic method for assessment of telangiectasia degreeing by mathematical morphology<>xv simposio brasileiro de computacao grafica e processamento de imagens<>alexandre goncalves silva<>
+75<>26_2<>r lotufo:f flores<>classification of microstructures by morphological analysis and estimation of the hydration degree of cement paste in concrete<>xv simposio brasileiro de computacao grafica e processamento de imagens<>alexandre goncalves silva<>
+78<>28_0<><>karytu: um software para o letramento da crianca surda sob a otica bilingue<>xiii simposio brasileiro de informatica na educacao<>angela carrancho da silva<>
+79<>29_0<>l goncalves:c alfano:n morimoto:j santos<>mechanical properties of silicon oxide films deposited by pecvd-teos for application in mems structure and sensors<>xvii on microelectronics technology and devices<>ana n r da silva<>
+82<>31_0<>w rigo:t rauber<>semi-automatic identification of optic disk by image processing for quantitative funduscopy<>xv simposio brasileiro de computacao grafica e processamento de imagens<>aurelio paulo batista da silva<>
+83<>32_0<>d freitas<>wavelet-based compared to function-based on-line signature verification<>xv simposio brasileiro de computacao grafica e processamento de imagens<>andrea vergara da silva<>
+91<>38_1<>r leao:e silva<>calculo eficiente da distribuicao do tamanho de filas baseado em modelos de fluido<>xx simposio brasileiro de redes de computadores<>ana paula couto da silva<>
+101<>46_1<>g mateus<>performance analysis for data service in mobile telecommunication networks<>xx simposio brasileiro de redes de computadores<>aloizio p silva<>
+106<>50_0<><>servico de taxi baseado na localizacao em ambientes de comunicacao sem fio<>informatica publica - volume 4<>aloizio pereira da silva<>
+129<>70_0<>m castilho:l kunzle<>petriplan: a new for plan generation (preliminary report)<>xv simposio brasileiro de inteligencia artificial<>fabiano silva<>
+142<>81_0<>m oka<>effect of stencil alignment on the solder beading in smt process<>xvii on microelectronics technology and devices<>f s silva<>
+149<>85_4<>m souto:m madeira:r wainer:r verdin:r viccari<>um estudo empirico dos comportamentos de navegacao por estilo cognitivo de aprendizagem em um ambiente de treinamento na web<>xiii simposio brasileiro de informatica na educacao<>jose palazzo moreira de oliveira<>
+168<>87_9<>l lamb<>revista de informatica teorica e aplicada - volume 9<>revista de informatica teorica e aplicada - volume 9<>jose palazzo m de oliveira<>
+171<>88_0<>c fernandes<>arquitetura de adaptacao em sistemas hipermidia adaptativos<>xiii simposio brasileiro de informatica na educacao<>jose m parente de oliveira<>
+172<>89_0<>r campelo<>implantacao de um processo de gerencia da configuracao de software baseado na kpa software configuration management do cmm nivel 2<>iv simposio internacional de melhoria de processo de software<>joaquim pedro carvalho de oliveira<>
+177<>92_0<>m souto:t ludermir<>implementation of probabilistic automata in weightless neural networks<>vii simposio brasileiro de redes neurais<>jose carlos martins oliveira<>
+190<>104_0<>n oki<>a programmable analog gaussian function synthesizer<>xvii on microelectronics technology and devices<>j p oliveira<>
+196<>110_0<>c avila:l madeira<>uma maquina de estados finitos para avaliacao de desempenho em um grupo de discussao on-line<>xiv simposio brasileiro de informatica na educacao<>jose carlos tavares da silva<>
+198<>111_1<>v almeida:r orbolato<>desenvolvimento de material instrucional de qualidade para ead segundo principios cognitivos<>revista de informatica teorica e aplicada - volume 9<>junia c a silva<>
+199<>111_2<>s junior:a silva:m ribeiro<>o processo de ensino e aprendizagem pautado por principios cognitivos<>vi simposio sobre fatores humanos em sistemas computacionais<>junia coutinho anacleto silva<>
+203<>113_2<>k bharadwaj<>the correspondence problem under an uncertainty reasoning approach<>xiv simposio brasileiro de inteligencia artificial<>jose demisio simoes da silva<>
+218<>117_0<>p abrahao:v lima<>representing belief revision through default theories<>xiv simposio brasileiro de inteligencia artificial<>joa l t da silva<>
+222<>120_0<>n mendonca<>analise estocastica de descarte de pacotes em redes tcp<>xxii simposio brasileiro de redes de computadores<>jose airton fernandes da silva<>
+232<>125_6<>a diniz:m oliveira:j nogueira<>analise estocastica de descarte de pacotes em redes tcp<>xiv simposio brasileiro de redes de computadores<>jose neuman de souza<>
+242<>129_0<>g zimbrao:r monteiro:l azevedo<>a multi-user key and data exchange protocol to manage a secure database<>xv simposio brasileiro de banco de dados<>jano moreira de souza<>
+249<>129_7<>m ramirez<>falaocl: uma ferramenta para parafrasear ocl<>iii workshop brasileiro de geoinformatica<>jano moreira de souza<>
+255<>132_0<>g silva<>pattern recognition of gases of petroleum based on rbf model<>iii workshop em seguranca de sistemas computacionais<>joao souza<>
+274<>142_0<>a cervieiri:a nacul:j neto:l granville:l ulbrich<>mineracao de imagens<>xxvii seminario integrado de software e hardware<>luciano c silva<>
+312<>171_1<>j gonzalez:d griffis:t miau:p russell<>nano-mechanical properties of silk low-k dielectric material<>xvii on microelectronics technology and devices<>m i n silva<>
+313<>172_0<>v silva:l dornelles:p canazio:f santos:a mesquita<>improvements in focused ion beam micro-machining of interconnect materials<>xix on microelectronics technology and devices<>m v da silva<>
+318<>178_0<>i doi:j diniz:j swart:s santos<>um algoritmo de substituicao de objetos em cache na internet baseado em semantica<>xvii on microelectronics technology and devices<>regis e santos<>
+319<>178_1<>i doi:r teixeira:j diniz:j swart:s santos<>formation and characterization of the ni(pt)si and nisi for mos devices applications<>xix on microelectronics technology and devices<>regis e santos<>
+321<>180_0<>j tambor:l paulino:a bazzan<>lithology recognition by neural ensembles<>i workshop brasileiro de bioinformatica<>rafael santos<>
+322<>181_0<>a calazans:k oliveira<>a semi-automatic methodology for localization of short mitochondrial genes in long sequences<>ii simposio brasileiro de qualidade de software<>rildo ribeiro dos santos<>
+343<>200_0<>e silva:m abreu<>a semi-automatic surface reconstruction framework based on t-surfaces and isosurface extraction methods<>xv simposio brasileiro de informatica na educacao<>rodrigo da silva<>
+352<>208_0<>c garrozi<>uma aplicacao utilizando xml para a area de adocao: pesquisa de criancas disponiveis para adocao, pesquisa e pre-inscricao de pretendentes<>of computer science - volume 3<>ricardo m a silva<>

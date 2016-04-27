@@ -1,0 +1,3 @@
+5<>0_5<>j sousa:m penna:j junior<>uma plataforma de computacao para administracao de ibcns<>x simposio brasileiro de redes de computadores<>a mauro b oliveira<>
+116<>60_0<>p rodrigues<>sistema de manipulacao de imagens via correio eletronico<>x simposio brasileiro de redes de computadores<>fernando antonio marques da silva<>
+335<>193_0<>s wu<>um prototipo de servidor de modem sobre uma rede tcp/ip<>xi simposio brasileiro de computacao grafica e processamento de imagens<>r m da silva<>

@@ -1,0 +1,17 @@
+8<>2_0<>j monteiro<>modelos de trafego para a multiplexacao estatistica do trafego de dados em redes atm<>xvi simposio brasileiro de redes de computadores<>a l i oliveira<>
+23<>5_12<>l goncalves:r grupen<>a control architecture for multi-modal sensory integration<>xi simposio brasileiro de computacao grafica e processamento de imagens<>a a f de oliveira<>
+24<>5_13<>l goncalves<>pipeline stereo matching in binary images<>xi simposio brasileiro de computacao grafica e processamento de imagens<>a a f de oliveira<>
+25<>5_14<>l oliveira:c esperanca<>compressao de imagens usando transformada wavelet e curva peano-hilbert<>xi simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f de oliveira<>
+26<>5_15<>p coelho:c esperanca<>a technique for compensating light source direction in face recognition applications<>xi simposio brasileiro de computacao grafica e processamento de imagens<>antonio a f de oliveira<>
+51<>19_0<>v sklyarov:n lau:a melo:k kondratjuk:a ferrari:r monteiro:i skliarova<>synthesis tools and design environment for dynamically reconfigurable fpgas<>xi on integrated circuits and systems<>a oliveira<>
+92<>39_0<>m mazza<>a realistic computer simulation of primary somatosensory cortex replicating static properties of topographic organization<>v simposio brasileiro de redes neurais<>antonio c roque da silva<>
+135<>74_0<>j jin:s meira<>making web client caching cooperate at lan level<>of the brazilian computer society - volume 5<>fabio q b da silva<>
+164<>87_5<>l lamb<>revista de informatica teorica e aplicada - volume 5<>revista de informatica teorica e aplicada - volume 5<>jose palazzo m de oliveira<>
+204<>113_3<>p simoni<>towards integrating hierarchical censored production rule(hcpr) based and neural networks<>iv encontro nacional de inteligencia artificial<>jose demisio simoes da silva<>
+206<>113_5<>f cunha:c oliveira<>integration of hierarchical censored production rule (hcpr)-based system and neural networks<>xv simposio brasileiro de informatica na educacao<>jose demisio simoes silva<>
+217<>116_0<>s veloso<>estudo de um metodo para analise transiente de modelos markovianos de sistemas de comunicacao<>xv simposio brasileiro de inteligencia artificial<>joao c p da silva<>
+219<>118_0<>p simoni<>integrating morphological, syntactical and sementical aspects through multi-agent cooperation<>xvi simposio brasileiro de computacao grafica e processamento de imagens<>jose demisio sima es da silva<>
+254<>131_0<>m barbosa:t ludermir:m santos:f santos:c melo<>um dispositivo automatico para obtencao da forma 3d de objetos<>vii simposio brasileiro de redes neurais<>jose edison gomes de souza<>
+270<>141_0<>d weingaertner:o bellon<>stroking discrete polynomial bezier curves via point containment paradigm<>x simposio brasileiro de computacao grafica e processamento de imagens<>luciano silva<>
+317<>177_0<>a calsavara<>biased clustering methods for image classification<>xx simposio brasileiro de redes de computadores<>rogerio guaraci dos santos<>
+336<>194_0<>m andrade:h andrade:j nogueira<>reconstructing a 3d from range images using radial flow model<>xiv simposio brasileiro de redes de computadores<>rafael guilherme r da silva<>
