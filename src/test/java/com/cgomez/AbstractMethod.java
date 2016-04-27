@@ -9,4 +9,5 @@ public abstract class AbstractMethod {
     
     protected static String trainFile = "C:/Users/andres/Desktop/data/dl-author-name-desambiguator/resources/dataset/trainingSet.txt";
     protected static String testFile = "C:/Users/andres/Desktop/data/dl-author-name-desambiguator/resources/dataset/testSet.txt";
+    protected static String indiFile = "C:/Users/andres/Desktop/data/dl-author-name-desambiguator/resources/dataset";
 }
