@@ -1,6 +1,3 @@
-/*
- * Copyright (c) 2016 cgomez. All rights reserved.
- */
 package com.cgomez.cosine.classifier;
 
 import java.io.IOException;
