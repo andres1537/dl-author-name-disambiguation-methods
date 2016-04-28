@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Iterator;
 
-import bdbcomp.Artigo;
 import uk.ac.shef.wit.simmetrics.similaritymetrics.AbstractStringMetric;
 
 public class Cluster

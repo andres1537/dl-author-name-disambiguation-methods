@@ -5,9 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-import bdbcomp.Artigo;
 import bdbcomp.Base;
-import bdbcomp.Cluster;
 import bdbcomp.Disambiguate;
 import bdbcomp.Grupo;
 import bdbcomp.GrupoAmbiguo;
