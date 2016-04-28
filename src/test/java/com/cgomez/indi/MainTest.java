@@ -1,6 +1,7 @@
 package com.cgomez.indi;
 
 import com.cgomez.AbstractMethod;
+import com.cgomez.indi.bdbcomp.Main;
 
 public class MainTest extends AbstractMethod {
     public static void main(String[] args) throws Exception {
