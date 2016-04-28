@@ -9,7 +9,6 @@ import bdbcomp.Base;
 import bdbcomp.Disambiguate;
 import bdbcomp.Grupo;
 import bdbcomp.GrupoAmbiguo;
-import bdbcomp.Leitura;
 import bdbcomp.Similarity;
 import bdbcomp.Util;
 
