@@ -10,7 +10,6 @@ import java.util.HashSet;
 import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Random;
 
 import bdbcomp.FeatureVector;
 import bdbcomp.TermIDF;
@@ -128,28 +127,29 @@ public class Base
   public void leituraTeste(String nomeArqFontes, int numTeste)
     throws IOException
   {
-    BufferedReader arqFontes = new BufferedReader(new FileReader(nomeArqFontes + numTeste));
-    boolean achou;
-    int i;
-    String linhaF;
-    for (; (linhaF = arqFontes.readLine()) != null; (!achou) && (i < this.artigos.size()))
-    {
-      String[] arrayMetadados = linhaF.split("<>");
-      
-      int numArtigo = Integer.parseInt(arrayMetadados[0]);
-      achou = false;
-      i = 0;
-      continue;
-      if (((Artigo)this.artigos.get(i)).getNumArtigo() == numArtigo)
-      {
-        ((Artigo)this.artigos.get(i)).setTreino(false);
-        achou = true;
-      }
-      else
-      {
-        i++;
-      }
-    }
+    //TODO Carlos
+//    BufferedReader arqFontes = new BufferedReader(new FileReader(nomeArqFontes + numTeste));
+//    boolean achou;
+//    int i;
+//    String linhaF;
+//    for (; (linhaF = arqFontes.readLine()) != null; (!achou) && (i < this.artigos.size()))
+//    {
+//      String[] arrayMetadados = linhaF.split("<>");
+//      
+//      int numArtigo = Integer.parseInt(arrayMetadados[0]);
+//      achou = false;
+//      i = 0;
+//      continue;
+//      if (((Artigo)this.artigos.get(i)).getNumArtigo() == numArtigo)
+//      {
+//        ((Artigo)this.artigos.get(i)).setTreino(false);
+//        achou = true;
+//      }
+//      else
+//      {
+//        i++;
+//      }
+//    }
   }
   
   public void leituraTeste(String nomeArqFontes)
@@ -372,17 +372,19 @@ public class Base
   
   public List getListTermTitle()
   {
-    Hashtable<String, String> h = new Hashtable();
-    String[] terms;
-    int i;
-    for (Iterator localIterator = getArtigos().iterator(); localIterator.hasNext(); i < terms.length)
-    {
-      Artigo a = (Artigo)localIterator.next();
-      terms = a.getTitulo().split(" ");
-      i = 0; continue;
-      h.put(terms[i], terms[i]);i++;
-    }
-    return new ArrayList(h.values());
+      //TODO Carlos
+//    Hashtable<String, String> h = new Hashtable();
+//    String[] terms;
+//    int i;
+//    for (Iterator localIterator = getArtigos().iterator(); localIterator.hasNext(); i < terms.length)
+//    {
+//      Artigo a = (Artigo)localIterator.next();
+//      terms = a.getTitulo().split(" ");
+//      i = 0; continue;
+//      h.put(terms[i], terms[i]);i++;
+//    }
+//    return new ArrayList(h.values());
+      return null;
   }
   
   public List getListCoautores()
@@ -2908,101 +2910,103 @@ public class Base
   
   public void selecionaTesteTreino()
   {
-    boolean[] inserido = new boolean[this.artigos.size()];
-    for (int i = 0; i < inserido.length; i++) {
-      inserido[i] = false;
-    }
-    int cont = 0;
-    int numClasse = -1;
-    int inicioClasse = 0;int fimClasse = -1;
-    while (inicioClasse < this.artigos.size() - 1)
-    {
-      numClasse++;
-      
-      boolean ultimo = false;
-      while ((fimClasse < this.artigos.size() - 1) && (!ultimo)) {
-        if (((Artigo)this.artigos.get(fimClasse + 1)).getNumClasse() == ((Artigo)this.artigos.get(
-          inicioClasse)).getNumClasse()) {
-          fimClasse++;
-        } else {
-          ultimo = true;
-        }
-      }
-      cont = (int)Math.round((fimClasse - inicioClasse + 1) * 0.5D);
-      Random random = new Random();
-      while (cont > 0)
-      {
-        int i = random.nextInt(fimClasse - inicioClasse + 1);
-        if (inserido[(inicioClasse + i)] == 0)
-        {
-          Artigo artigo = (Artigo)this.artigos.get(inicioClasse + i);
-          
-          inserido[(inicioClasse + i)] = true;
-          ((Artigo)this.artigos.get(inicioClasse + i)).setTreino(true);
-          cont--;
-        }
-      }
-      for (int i = inicioClasse; i <= fimClasse; i++) {
-        if (inserido[i] == 0)
-        {
-          Artigo artigo = (Artigo)this.artigos.get(i);
-          artigo.setTreino(false);
-        }
-      }
-      inicioClasse = fimClasse + 1;
-    }
+    //TODO Carlos
+//    boolean[] inserido = new boolean[this.artigos.size()];
+//    for (int i = 0; i < inserido.length; i++) {
+//      inserido[i] = false;
+//    }
+//    int cont = 0;
+//    int numClasse = -1;
+//    int inicioClasse = 0;int fimClasse = -1;
+//    while (inicioClasse < this.artigos.size() - 1)
+//    {
+//      numClasse++;
+//      
+//      boolean ultimo = false;
+//      while ((fimClasse < this.artigos.size() - 1) && (!ultimo)) {
+//        if (((Artigo)this.artigos.get(fimClasse + 1)).getNumClasse() == ((Artigo)this.artigos.get(
+//          inicioClasse)).getNumClasse()) {
+//          fimClasse++;
+//        } else {
+//          ultimo = true;
+//        }
+//      }
+//      cont = (int)Math.round((fimClasse - inicioClasse + 1) * 0.5D);
+//      Random random = new Random();
+//      while (cont > 0)
+//      {
+//        int i = random.nextInt(fimClasse - inicioClasse + 1);
+//        if (inserido[(inicioClasse + i)] == 0)
+//        {
+//          Artigo artigo = (Artigo)this.artigos.get(inicioClasse + i);
+//          
+//          inserido[(inicioClasse + i)] = true;
+//          ((Artigo)this.artigos.get(inicioClasse + i)).setTreino(true);
+//          cont--;
+//        }
+//      }
+//      for (int i = inicioClasse; i <= fimClasse; i++) {
+//        if (inserido[i] == 0)
+//        {
+//          Artigo artigo = (Artigo)this.artigos.get(i);
+//          artigo.setTreino(false);
+//        }
+//      }
+//      inicioClasse = fimClasse + 1;
+//    }
   }
   
   public void selecionaRegistros()
   {
-    boolean[] inserido = new boolean[this.artigos.size()];
-    for (int i = 0; i < inserido.length; i++) {
-      inserido[i] = false;
-    }
-    int cont = 0;
-    int numClasse = -1;
-    int inicioClasse = 0;int fimClasse = -1;
-    while (inicioClasse < this.artigos.size() - 1)
-    {
-      numClasse++;
-      
-      boolean ultimo = false;
-      while ((fimClasse < this.artigos.size() - 1) && (!ultimo)) {
-        if (((Artigo)this.artigos.get(fimClasse + 1)).getNumClasse() == ((Artigo)this.artigos.get(
-          inicioClasse)).getNumClasse()) {
-          fimClasse++;
-        } else {
-          ultimo = true;
-        }
-      }
-      cont = (int)Math.round((fimClasse - inicioClasse + 1) * 0.5D);
-      Random random = new Random();
-      while (cont > 0)
-      {
-        int i = random.nextInt(fimClasse - inicioClasse + 1);
-        if (inserido[(inicioClasse + i)] == 0)
-        {
-          Artigo artigo = (Artigo)this.artigos.get(inicioClasse + i);
-          
-          inserido[(inicioClasse + i)] = true;
-          ((Artigo)this.artigos.get(inicioClasse + i)).setTreino(true);
-          cont--;
-        }
-      }
-      for (int i = inicioClasse; i <= fimClasse; i++) {
-        if (inserido[i] == 0)
-        {
-          Artigo artigo = (Artigo)this.artigos.get(i);
-          artigo.setTreino(false);
-        }
-      }
-      inicioClasse = fimClasse + 1;
-    }
-    for (Iterator<Artigo> ia = this.artigos.iterator(); ia.hasNext();) {
-      if (((Artigo)ia.next()).isTreino()) {
-        ia.remove();
-      }
-    }
+    //TODO Carlos
+//    boolean[] inserido = new boolean[this.artigos.size()];
+//    for (int i = 0; i < inserido.length; i++) {
+//      inserido[i] = false;
+//    }
+//    int cont = 0;
+//    int numClasse = -1;
+//    int inicioClasse = 0;int fimClasse = -1;
+//    while (inicioClasse < this.artigos.size() - 1)
+//    {
+//      numClasse++;
+//      
+//      boolean ultimo = false;
+//      while ((fimClasse < this.artigos.size() - 1) && (!ultimo)) {
+//        if (((Artigo)this.artigos.get(fimClasse + 1)).getNumClasse() == ((Artigo)this.artigos.get(
+//          inicioClasse)).getNumClasse()) {
+//          fimClasse++;
+//        } else {
+//          ultimo = true;
+//        }
+//      }
+//      cont = (int)Math.round((fimClasse - inicioClasse + 1) * 0.5D);
+//      Random random = new Random();
+//      while (cont > 0)
+//      {
+//        int i = random.nextInt(fimClasse - inicioClasse + 1);
+//        if (inserido[(inicioClasse + i)] == 0)
+//        {
+//          Artigo artigo = (Artigo)this.artigos.get(inicioClasse + i);
+//          
+//          inserido[(inicioClasse + i)] = true;
+//          ((Artigo)this.artigos.get(inicioClasse + i)).setTreino(true);
+//          cont--;
+//        }
+//      }
+//      for (int i = inicioClasse; i <= fimClasse; i++) {
+//        if (inserido[i] == 0)
+//        {
+//          Artigo artigo = (Artigo)this.artigos.get(i);
+//          artigo.setTreino(false);
+//        }
+//      }
+//      inicioClasse = fimClasse + 1;
+//    }
+//    for (Iterator<Artigo> ia = this.artigos.iterator(); ia.hasNext();) {
+//      if (((Artigo)ia.next()).isTreino()) {
+//        ia.remove();
+//      }
+//    }
   }
   
   public void selecionaRegistrosTeste()

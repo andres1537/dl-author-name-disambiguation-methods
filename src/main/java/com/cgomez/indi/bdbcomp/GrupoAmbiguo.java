@@ -159,54 +159,58 @@ public class GrupoAmbiguo
   
   public static double pairwisePrecision(ArrayList<Grupo> p_gruposAutomaticos)
   {
-    double pP = 0.0D;
-    int numCombGroups = 0;int numCorrectPair = 0;
-    int size;
-    int i;
-    for (Iterator<Grupo> iGrp = p_gruposAutomaticos.iterator(); iGrp.hasNext(); i < size - 1)
-    {
-      Grupo g = (Grupo)iGrp.next();
-      size = g.getArtigos().size();
-      numCombGroups += size * (size - 1) / 2;
-      i = 0; continue;
-      for (int j = i + 1; j < size; j++) {
-        if (((Artigo)g.getArtigos().get(i)).getNumClasse() == ((Artigo)g.getArtigos().get(j)).getNumClasse()) {
-          numCorrectPair++;
-        }
-      }
-      i++;
-    }
-    if (numCombGroups > 0) {
-      pP = numCorrectPair / numCombGroups;
-    } else {
-      pP = 0.0D;
-    }
-    return pP;
+    //TODO Carlos
+//    double pP = 0.0D;
+//    int numCombGroups = 0;int numCorrectPair = 0;
+//    int size;
+//    int i;
+//    for (Iterator<Grupo> iGrp = p_gruposAutomaticos.iterator(); iGrp.hasNext(); i < size - 1)
+//    {
+//      Grupo g = (Grupo)iGrp.next();
+//      size = g.getArtigos().size();
+//      numCombGroups += size * (size - 1) / 2;
+//      i = 0; continue;
+//      for (int j = i + 1; j < size; j++) {
+//        if (((Artigo)g.getArtigos().get(i)).getNumClasse() == ((Artigo)g.getArtigos().get(j)).getNumClasse()) {
+//          numCorrectPair++;
+//        }
+//      }
+//      i++;
+//    }
+//    if (numCombGroups > 0) {
+//      pP = numCorrectPair / numCombGroups;
+//    } else {
+//      pP = 0.0D;
+//    }
+//    return pP;
+      return 0d;
   }
   
   public static double pairwiseRecall(ArrayList<Grupo> p_gruposManuais)
   {
-    double pR = 0.0D;
-    int numCombGroups = 0;int numCorrectPair = 0;
-    int size;
-    int i;
-    for (Iterator<Grupo> iGrp = p_gruposManuais.iterator(); iGrp.hasNext(); i < size - 1)
-    {
-      Grupo g = (Grupo)iGrp.next();
-      size = g.getArtigos().size();
-      numCombGroups += size * (size - 1) / 2;
-      i = 0; 
-      continue;
-      for (int j = i + 1; j < size; j++) {
-        if (((Artigo)g.getArtigos().get(i)).getNumClasseRecebida() == ((Artigo)g.getArtigos().get(j)).getNumClasseRecebida()) {
-          numCorrectPair++;
-        }
-      }
-      i++;
-    }
-    pR = numCombGroups > 0 ? numCorrectPair / numCombGroups : 0.0D;
-    
-    return pR;
+    //TODO Carlos
+//    double pR = 0.0D;
+//    int numCombGroups = 0;int numCorrectPair = 0;
+//    int size;
+//    int i;
+//    for (Iterator<Grupo> iGrp = p_gruposManuais.iterator(); iGrp.hasNext(); i < size - 1)
+//    {
+//      Grupo g = (Grupo)iGrp.next();
+//      size = g.getArtigos().size();
+//      numCombGroups += size * (size - 1) / 2;
+//      i = 0; 
+//      continue;
+//      for (int j = i + 1; j < size; j++) {
+//        if (((Artigo)g.getArtigos().get(i)).getNumClasseRecebida() == ((Artigo)g.getArtigos().get(j)).getNumClasseRecebida()) {
+//          numCorrectPair++;
+//        }
+//      }
+//      i++;
+//    }
+//    pR = numCombGroups > 0 ? numCorrectPair / numCombGroups : 0.0D;
+//    
+//    return pR;
+      return 0d;
   }
   
   public static double F1(double precision, double recall)
