@@ -84,11 +84,10 @@ public class Main {
         
         System.out.println();
         System.out.println("Size: " + base.getArtigos().size());
-//        System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
         System.out.println("K metric: " + k.compute() + "\tAverage Cluster Purity: " + k.acp() + "\tAverage Author Purity: " + k.aap());
         System.out.println("pF1: " + pF1.compute() + "\tPairwisePrecision: " + pF1.pairwisePrecision() + "\tPairwiseRecall: " + pF1.pairwiseRecall());
-//        System.out.println("ErrorRate: " + eval.getErrorRate());
-//        System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters: " + eval.getNumberOfClusters());
+        System.out.println("ErrorRate: " + getErrorRate(instances));
+        System.out.println("NumberOfAuthors: " + base.criaGruposManuais().size() + "\tNumberOfClusters: " + base.criaGruposAutomaticos().size());
 	
 	// TODO Carlos
 //        for (Artigo a : base.getArtigos()) {
@@ -123,5 +122,22 @@ public class Main {
 	}
 	
 	return instances;
+    }
+    
+    /**
+     * Error rate.
+     *
+     * @author <a href="mailto:andres1537@gmail.com">Carlos A. Gómez</a>
+     * @param set the set
+     * @return the list
+     */
+    private static double getErrorRate(List<Instance> instances) {
+	double error = 0d;
+	for (Instance instance : instances) {
+	    if (!instance.getActualClass().equalsIgnoreCase(instance.getPredictedClass())) {
+		error++;
+	    }
+	}
+	return error / instances.size();
     }
 }
