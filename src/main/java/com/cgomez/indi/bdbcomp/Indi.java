@@ -1,9 +1,12 @@
 package com.cgomez.indi.bdbcomp;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+
+import com.cgomez.util.constant.Constant;
 
 import bdbcomp.Disambiguate;
 import bdbcomp.Similarity;
@@ -48,6 +51,7 @@ public class Indi
             achou = true;
             artigoNovo.setNumClasseRecebida(clusterSimilar
               .getNumber());
+            artigoNovo.setPredictedClass(clusterSimilar.getName());
             
             Cluster c = (Cluster)clusterAutores.get(
               Integer.valueOf(clusterSimilar.getNumber()));
@@ -58,6 +62,7 @@ public class Indi
       if (!achou)
       {
         artigoNovo.setNumClasseRecebida(maiorClasse);
+        artigoNovo.setPredictedClass(buildKey(artigoNovo.getActualClass()));
         maiorClasse++;
         
         Cluster clusterTemp = new Cluster(artigoNovo
@@ -69,6 +74,16 @@ public class Indi
       base.getArtigos().add(artigoNovo);
     }
     return maiorClasse;
+  }
+  
+  public static String buildKey(String authorName) {
+      int index = authorName.indexOf("_");
+      StringBuffer key = new StringBuffer();
+      key.append(authorName.substring(0, index)
+		 .replace(Constant.WHITE_SPACE, Constant.EMPTY)
+		 .replace(Constant.PERIOD, Constant.EMPTY));
+      key.append(Constant.UNDER_LINE).append(new Date().getTime()); 
+      return key.toString();
   }
   
   static boolean fusaoGrupos(Cluster cluster, Artigo artigoNovo, double p_lim_sim_tit, double p_lim_sim_local)

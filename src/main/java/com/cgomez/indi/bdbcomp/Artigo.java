@@ -38,6 +38,7 @@ public class Artigo
   public int lac;
   FeatureVector featureVector;
   private String actualClass;
+  private String predictedClass;
   
   public String getActualClass() {
     return actualClass;
@@ -45,6 +46,14 @@ public class Artigo
 
 public void setActualClass(String actualClass) {
     this.actualClass = actualClass;
+}
+
+public String getPredictedClass() {
+    return predictedClass;
+}
+
+public void setPredictedClass(String predictedClass) {
+    this.predictedClass = predictedClass;
 }
 
 public boolean isTreino()
@@ -656,7 +665,7 @@ public boolean isTreino()
     }
     return 
     
-      getNumArtigo() + "<>" + getNumClasse() + "-" + getNumArtClasse() + "<>" + coautores + "<>" + getTitulo() + "<>" + getVeiculoPublicacao() + "<>" + getAutor() + "<>" + getActualClass() + "<>";
+      getNumArtigo() + "<>" + getNumClasse() + "-" + getNumArtClasse() + "<>" + coautores + "<>" + getTitulo() + "<>" + getVeiculoPublicacao() + "<>" + getAutor() + "<>" + getActualClass() + "<>" + getPredictedClass() + "<>";
   }
   
   public String toStringArqTitle()
