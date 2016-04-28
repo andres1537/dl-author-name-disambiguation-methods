@@ -1,8 +1,23 @@
+/*
+ * Copyright (c) 2016 cgomez. All rights reserved.
+ */
 package com.cgomez.indi.bdbcomp;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
+import java.util.Set;
+import java.util.SortedMap;
+
+import org.apache.commons.math3.linear.RealMatrix;
+
+import com.cgomez.ml.clustering.evaluation.K;
+import com.cgomez.ml.clustering.evaluation.PairwiseF1;
+import com.cgomez.util.Instance;
+import com.cgomez.util.InstanceUtils;
+import com.cgomez.util.MatrixUtils;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -58,26 +73,100 @@ public class Main {
 	    System.out.println("Collection: " + directory + "\tFile: Base_" + i + ".txt\tTime: " + (fim - inicio));
 	}
 	
+	 // Carlos
+        List<Instance> instances = convertToInstance(base.getArtigos());
+        SortedMap<String, List<String>> actual = InstanceUtils.convertToMap(instances, false);
+        SortedMap<String, List<String>> predicted = InstanceUtils.convertToMap(instances, true);
+        RealMatrix m = MatrixUtils.convertToMatrix(actual, predicted);
+        K k = new K(m);
+        PairwiseF1 pF1 = new PairwiseF1(actual, predicted);
+	
 	// TODO Carlos
-        for (Artigo a : base.getArtigos()) {
-	    System.out.println(a.getNumClasseRecebida() + "-" + a.toStringArqDen());
-	}
+//        for (Artigo a : base.getArtigos()) {
+//	    System.out.println(a.getNumClasseRecebida() + "-" + a.toStringArqDen());
+//	}
 
-	ArrayList<Grupo> gruposManuais = base.criaGruposManuais();
-	ArrayList<Grupo> gruposAutomaticos = base.criaGruposAutomaticos();
-	int N = base.getArtigos().size();
-	double pmg = GrupoAmbiguo.PMG(gruposAutomaticos, gruposManuais, N);
-	double pma = GrupoAmbiguo.PMA(gruposAutomaticos, gruposManuais, N);
-	double k = GrupoAmbiguo.K(pmg, pma);
-	double pairwisePrecision = GrupoAmbiguo.pairwisePrecision(gruposAutomaticos);
-	double pairwiseRecall = GrupoAmbiguo.pairwiseRecall(gruposManuais);
-	double pF1 = GrupoAmbiguo.F1(pairwisePrecision, pairwiseRecall);
+//	ArrayList<Grupo> gruposManuais = base.criaGruposManuais();
+//	ArrayList<Grupo> gruposAutomaticos = base.criaGruposAutomaticos();
+//	int N = base.getArtigos().size();
+//	double pmg = GrupoAmbiguo.PMG(gruposAutomaticos, gruposManuais, N);
+//	double pma = GrupoAmbiguo.PMA(gruposAutomaticos, gruposManuais, N);
+//	double k = GrupoAmbiguo.K(pmg, pma);
+//	double pairwisePrecision = GrupoAmbiguo.pairwisePrecision(gruposAutomaticos);
+//	double pairwiseRecall = GrupoAmbiguo.pairwiseRecall(gruposManuais);
+//	double pF1 = GrupoAmbiguo.F1(pairwisePrecision, pairwiseRecall);
 //	System.out.println("\tInc=" + incremento + "\tSimTitle=" + simTitle + "\tSimVenue=" + simVenue + "\t" + pmg + "\t" + pma + "\t" + k);
 	
 	System.out.println();
 	System.out.println("Size: " + base.getArtigos().size());
-	System.out.println("K metric: " + k + "\tAverage Cluster Purity: " + pmg + "\tAverage Author Purity: " + pma);
-	System.out.println("pF1: " + pF1 + "\tPairwisePrecision: " + pairwisePrecision + "\tPairwiseRecall: " + pairwiseRecall);
-	System.out.println("NumberOfAuthors: " + base.criaGruposManuais().size() + "\tNumberOfClusters: " + base.criaGruposAutomaticos().size());
+	System.out.println("K metric: " + k.compute() + "\tAverage Cluster Purity: " + k.acp() + "\tAverage Author Purity: " + k.aap());
+	System.out.println("pF1: " + pF1.compute() + "\tPairwisePrecision: " + pF1.pairwisePrecision() + "\tPairwiseRecall: " + pF1.pairwiseRecall());
+	System.out.println("ErrorRate: " + getErrorRate(instances));
+        System.out.println("NumberOfAuthors: " + getNumberOfAuthors(instances) + "\tNumberOfClusters: " + getNumberOfClusters(instances));
+    }
+    
+    /**
+     * Convert to instance.
+     *
+     * @author <a href="mailto:andres1537@gmail.com">Carlos A. Gómez</a>
+     * @param artigos the artigos
+     * @return the list
+     */
+    private static List<Instance> convertToInstance(List<Artigo> artigos) {
+	List<Instance> instances = new ArrayList<Instance>();
+	Instance instance = null;
+	for (Artigo artigo : artigos) {
+	    instance = new Instance();
+	    instance.set_id(String.valueOf(artigo.getNumArtigo()));
+	    instance.setActualClass(artigo.getActualClass());
+	    instance.setPredictedClass(artigo.getPredictedClass());
+	    instances.add(instance);
+	}
+	
+	return instances;
+    }
+    
+    /**
+     * Gets the error rate.
+     *
+     * @param instances the instances
+     * @return the error rate
+     */
+    private static double getErrorRate(List<Instance> instances) {
+	double error = 0d;
+	for (Instance instance : instances) {
+	    if (!instance.getActualClass().equals(instance.getPredictedClass())) {
+		error++;
+	    }
+	}
+	return error / instances.size();
+    }
+    
+    /**
+     * Gets the number of authors.
+     *
+     * @param instances the instances
+     * @return the number of authors
+     */
+    private static int getNumberOfAuthors(List<Instance> instances) {
+	Set<String> count = new HashSet<String>();
+	for (Instance instance : instances) {
+	    count.add(instance.getActualClass());
+	}
+	return count.size();
+    }
+    
+    /**
+     * Gets the number of clusters.
+     *
+     * @param instances the instances
+     * @return the number of clusters
+     */
+    private static int getNumberOfClusters(List<Instance> instances) {
+	Set<String> count = new HashSet<String>();
+	for (Instance instance : instances) {
+	    count.add(instance.getPredictedClass());
+	}
+	return count.size();
     }
 }
