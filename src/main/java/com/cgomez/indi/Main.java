@@ -117,7 +117,7 @@ public class Main {
 	for (Artigo artigo : artigos) {
 	    instance = new Instance();
 	    instance.set_id(String.valueOf(artigo.getNumArtigo()));
-	    instance.setActualClass(String.valueOf(artigo.getNumArtClasse()));
+	    instance.setActualClass(String.valueOf(artigo.getNumClasse()));
 	    instance.setPredictedClass(String.valueOf(artigo.getNumClasseRecebida()));
 	    instances.add(instance);
 	}
