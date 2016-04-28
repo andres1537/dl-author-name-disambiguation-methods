@@ -360,7 +360,8 @@ public HashMap<String, Integer> getNumTitles()
   {
     StringBuffer b = new StringBuffer();
     b.append("Cluster ");
-    b.append(getNumber());
+    b.append(getNumber()).append(", ");
+    b.append(getName());
     b.append("\n");
     for (Artigo a : getArticles())
     {

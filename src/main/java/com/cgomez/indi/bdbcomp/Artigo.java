@@ -656,7 +656,7 @@ public boolean isTreino()
     }
     return 
     
-      getNumArtigo() + "<>" + getNumClasse() + "_" + getNumArtClasse() + "<>" + coautores + "<>" + getTitulo() + "<>" + getVeiculoPublicacao() + "<>" + getAutor() + "<>";
+      getNumArtigo() + "<>" + getNumClasse() + "-" + getNumArtClasse() + "<>" + coautores + "<>" + getTitulo() + "<>" + getVeiculoPublicacao() + "<>" + getAutor() + "<>" + getActualClass() + "<>";
   }
   
   public String toStringArqTitle()

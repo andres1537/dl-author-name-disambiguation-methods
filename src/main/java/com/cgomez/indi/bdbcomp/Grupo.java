@@ -7,10 +7,13 @@ public class Grupo
 {
   ArrayList<Artigo> artigos;
   int numGrupo;
+  String name;
   
-  public Grupo(int numGrupo)
+
+public Grupo(int numGrupo, String name)
   {
     this.numGrupo = numGrupo;
+    this.name = name;
     this.artigos = new ArrayList();
   }
   
@@ -39,9 +42,17 @@ public class Grupo
     this.numGrupo = numGrupo;
   }
   
+  public String getName() {
+      return name;
+  }
+
+  public void setName(String name) {
+      this.name = name;
+  }
+  
   public String toString()
   {
-    String str = "Grupo:" + getNumGrupo() + "\t";
+    String str = "Grupo:" + getNumGrupo() + "\t" + getName() + "\t";
     for (int i = 0; i < this.artigos.size(); i++) {
       str = str + ((Artigo)this.artigos.get(i)).getNumArtigo() + "\t";
     }

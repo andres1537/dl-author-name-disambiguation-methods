@@ -21,11 +21,13 @@ public class GrupoAmbiguo
     ArrayList<Grupo> grupos = new ArrayList();
     Iterator<Artigo> iArt = this.artigos.iterator();
     int numGrupo = -1;
+    String name = "";
     Grupo grupo = null;
     while (iArt.hasNext())
     {
       Artigo artigo = (Artigo)iArt.next();
       numGrupo = artigo.getNumClasse();
+      name = artigo.getActualClass();
       
       boolean achou = false;
       int j = 0;
@@ -42,7 +44,7 @@ public class GrupoAmbiguo
       }
       if (!achou)
       {
-        grupo = new Grupo(numGrupo);
+        grupo = new Grupo(numGrupo, name);
         grupos.add(grupo);
       }
       grupo.add(artigo);
@@ -72,7 +74,7 @@ public class GrupoAmbiguo
       }
       if (!achou)
       {
-        grupo = new Grupo(artigo.getNumClasseRecebida());
+        grupo = new Grupo(artigo.getNumClasseRecebida(), artigo.getActualClass());
         grupo.add(artigo);
         grupos.add(grupo);
       }

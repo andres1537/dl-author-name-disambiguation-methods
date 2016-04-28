@@ -59,9 +59,9 @@ public class Main {
 	}
 	
 	// TODO Carlos
-//        for (Artigo a : base.getArtigos()) {
-//	    System.out.println(a.getNumClasseRecebida() + "_" + a.toStringArqDen());
-//	}
+        for (Artigo a : base.getArtigos()) {
+	    System.out.println(a.getNumClasseRecebida() + "-" + a.toStringArqDen());
+	}
 
 	ArrayList<Grupo> gruposManuais = base.criaGruposManuais();
 	ArrayList<Grupo> gruposAutomaticos = base.criaGruposAutomaticos();
