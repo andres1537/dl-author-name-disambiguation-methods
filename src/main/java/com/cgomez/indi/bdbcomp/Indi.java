@@ -1,11 +1,19 @@
 package com.cgomez.indi.bdbcomp;
 
-import java.io.PrintStream;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+
+import bdbcomp.Artigo;
+import bdbcomp.Base;
+import bdbcomp.Cluster;
+import bdbcomp.Disambiguate;
+import bdbcomp.Grupo;
+import bdbcomp.GrupoAmbiguo;
+import bdbcomp.Leitura;
+import bdbcomp.Similarity;
+import bdbcomp.Util;
 
 public class Indi
 {
