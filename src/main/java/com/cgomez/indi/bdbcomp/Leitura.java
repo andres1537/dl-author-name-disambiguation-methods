@@ -32,8 +32,9 @@ public class Leitura
       String titulo = Disambiguate.stem(stoplist.removeStopWord(Disambiguate.changeHTMLCodeToASC(arrayMetadados[3])));
       String veiculoPublicacao = Disambiguate.stem(stoplist.removeStopWord(Disambiguate.changeHTMLCodeToASC(arrayMetadados[4])));
       String autor = arrayMetadados[5];
+      String actualClass = arrayMetadados[6];
       
-      Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, autor, coautores, titulo, veiculoPublicacao);
+      Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, autor, coautores, titulo, veiculoPublicacao, actualClass);
       lstArtigos.add(artigo);
       
       Cluster c = (Cluster)mapAutores.get(Integer.valueOf(artigo.getNumClasse()));
@@ -43,7 +44,7 @@ public class Leitura
       }
       else
       {
-        Cluster clusterTemp = new Cluster(artigo.getNumClasseRecebida());
+        Cluster clusterTemp = new Cluster(artigo.getNumClasseRecebida(), artigo.getActualClass());
         clusterTemp.add(artigo);
         mapAutores.put(Integer.valueOf(artigo.getNumClasse()), clusterTemp);
       }
@@ -73,7 +74,8 @@ public class Leitura
       String titulo = Disambiguate.stem(stoplist.removeStopWord(Disambiguate.changeHTMLCodeToASC(arrayMetadados[3])));
       String veiculoPublicacao = Disambiguate.stem(stoplist.removeStopWord(Disambiguate.changeHTMLCodeToASC(arrayMetadados[4])));
       String autor = arrayMetadados[5];
-      Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, autor, coautores, titulo, veiculoPublicacao);
+      String actualClass = arrayMetadados[6];
+      Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, autor, coautores, titulo, veiculoPublicacao, actualClass);
       lstArtigos.add(artigo);
     }
     arqFontes.close();

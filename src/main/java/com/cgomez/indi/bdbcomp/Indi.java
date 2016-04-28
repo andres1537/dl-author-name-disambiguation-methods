@@ -61,7 +61,7 @@ public class Indi
         maiorClasse++;
         
         Cluster clusterTemp = new Cluster(artigoNovo
-          .getNumClasseRecebida());
+          .getNumClasseRecebida(), artigoNovo.getActualClass());
         clusterTemp.add(artigoNovo);
         clusterAutores.put(Integer.valueOf(artigoNovo.getNumClasseRecebida()), 
           clusterTemp);

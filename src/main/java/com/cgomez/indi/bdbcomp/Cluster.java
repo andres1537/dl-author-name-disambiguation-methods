@@ -21,7 +21,17 @@ public class Cluster
   String venue = "";
   String representativeName = "";
   
-  public HashMap<String, Integer> getNumTitles()
+  private String name;
+  
+  public String getName() {
+    return name;
+}
+
+public void setName(String name) {
+    this.name = name;
+}
+
+public HashMap<String, Integer> getNumTitles()
   {
     HashMap<String, Integer> lstTitle = new HashMap();
     for (Iterator<Artigo> i = this.articles.iterator(); i.hasNext();)
@@ -57,9 +67,10 @@ public class Cluster
     return array;
   }
   
-  public Cluster(int number)
+  public Cluster(int number, String name)
   {
     this.number = number;
+    this.name = name;
   }
   
   public void add(Artigo art)

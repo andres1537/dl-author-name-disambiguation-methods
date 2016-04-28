@@ -76,8 +76,10 @@ public class Base
       }
       String veiculoPublicacao = arrayMetadados[3];
       String autor = arrayMetadados[4];
+      String actualClass = arrayMetadados[5];
+      
       Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, 
-        autor, coautores, titulo, veiculoPublicacao);
+        autor, coautores, titulo, veiculoPublicacao, actualClass);
       
       this.artigos.add(artigo);
     }
@@ -113,8 +115,10 @@ public class Base
       }
       String veiculoPublicacao = arrayMetadados[3];
       String autor = arrayMetadados[4];
+      String actualClass = arrayMetadados[5];
+      
       Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, 
-        autor, coautores, titulo, veiculoPublicacao);
+        autor, coautores, titulo, veiculoPublicacao, actualClass);
       artigo.svm = Integer.parseInt(arrayMetadados[5]);
       artigo.nb = Integer.parseInt(arrayMetadados[5]);
       artigo.lac = Integer.parseInt(arrayMetadados[5]);
@@ -206,8 +210,10 @@ public class Base
       String titulo = arrayMetadados[3];
       String veiculoPublicacao = arrayMetadados[4];
       String autor = arrayMetadados[5];
+      String actualClass = arrayMetadados[6];
+      
       Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, 
-        autor, coautores, titulo, veiculoPublicacao);
+        autor, coautores, titulo, veiculoPublicacao, actualClass);
       this.artigos.add(artigo);
     }
     arqFontes.close();
@@ -237,9 +243,10 @@ public class Base
       String titulo = arrayMetadados[2];
       String veiculoPublicacao = arrayMetadados[3];
       String autor = autores[0];
+      String actualClass = arrayMetadados[4];
       
       Artigo artigo = new Artigo(numArtigo, Integer.parseInt(autor), 
-        numArtigo, autor, autores, titulo, veiculoPublicacao);
+        numArtigo, autor, autores, titulo, veiculoPublicacao, actualClass);
       this.artigos.add(artigo);
     }
     arqFontes.close();

@@ -37,8 +37,17 @@ public class Artigo
   public int nb;
   public int lac;
   FeatureVector featureVector;
+  private String actualClass;
   
-  public boolean isTreino()
+  public String getActualClass() {
+    return actualClass;
+}
+
+public void setActualClass(String actualClass) {
+    this.actualClass = actualClass;
+}
+
+public boolean isTreino()
   {
     return this.treino;
   }
@@ -53,8 +62,9 @@ public class Artigo
     return this.originalAutor;
   }
   
-  public Artigo(int numArtigo, int numClasse, int numArtClasse, String autor, String[] coautores, String titulo, String veiculoPublicacao)
+  public Artigo(int numArtigo, int numClasse, int numArtClasse, String autor, String[] coautores, String titulo, String veiculoPublicacao, String actualClass)
   {
+    this.actualClass = actualClass;
     this.numArtigo = numArtigo;
     this.numClasse = numClasse;
     this.numClasseRecebida = numClasse;
