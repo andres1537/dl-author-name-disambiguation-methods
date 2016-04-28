@@ -5,10 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-import bdbcomp.Base;
 import bdbcomp.Disambiguate;
-import bdbcomp.Grupo;
-import bdbcomp.GrupoAmbiguo;
 import bdbcomp.Similarity;
 import bdbcomp.Util;
 

@@ -4,13 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import bdbcomp.Artigo;
-import bdbcomp.Base;
-import bdbcomp.Cluster;
-import bdbcomp.Grupo;
-import bdbcomp.GrupoAmbiguo;
-import bdbcomp.Leitura;
-
 public class Main {
     public static void main(String[] args) throws Exception {
 	double limComp = 0.3D;
