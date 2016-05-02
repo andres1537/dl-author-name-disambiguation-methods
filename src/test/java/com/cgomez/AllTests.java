@@ -7,6 +7,6 @@ public class AllTests extends AbstractMethod {
         com.cgomez.cosine.classifier.MainTest.main(args);
         // com.cgomez.sland.classifier.MainTest.main(args);
         // com.cgomez.svm.classifier.MainTest.main(args);
-        // com.cgomez.nb.classifier.MainTest.main(args);
+        com.cgomez.nb.classifier.MainTest.main(args);
     }
 }
