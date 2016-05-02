@@ -76,7 +76,7 @@ public class Leitura
       String autor = arrayMetadados[5];
       
       String actualClass = null;
-      if (arrayMetadados.length > 7) {
+      if (arrayMetadados.length > 6) {
 	  actualClass = arrayMetadados[6];
       }
       
