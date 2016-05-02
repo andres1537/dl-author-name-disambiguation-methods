@@ -74,7 +74,12 @@ public class Leitura
       String titulo = Disambiguate.stem(stoplist.removeStopWord(Disambiguate.changeHTMLCodeToASC(arrayMetadados[3])));
       String veiculoPublicacao = Disambiguate.stem(stoplist.removeStopWord(Disambiguate.changeHTMLCodeToASC(arrayMetadados[4])));
       String autor = arrayMetadados[5];
-      String actualClass = arrayMetadados[6];
+      
+      String actualClass = null;
+      if (arrayMetadados.length > 7) {
+	  actualClass = arrayMetadados[6];
+      }
+      
       Artigo artigo = new Artigo(numArtigo, numClasse, numArtClasse, autor, coautores, titulo, veiculoPublicacao, actualClass);
       lstArtigos.add(artigo);
     }

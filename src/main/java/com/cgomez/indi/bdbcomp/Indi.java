@@ -62,7 +62,9 @@ public class Indi
       if (!achou)
       {
         artigoNovo.setNumClasseRecebida(maiorClasse);
-        artigoNovo.setPredictedClass(buildKey(artigoNovo.getActualClass()));
+        if (artigoNovo.getActualClass() != null) {
+            artigoNovo.setPredictedClass(buildKey(artigoNovo.getActualClass()));    
+	}
         maiorClasse++;
         
         Cluster clusterTemp = new Cluster(artigoNovo
