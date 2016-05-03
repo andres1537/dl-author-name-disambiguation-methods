@@ -98,7 +98,7 @@ public class Main {
 //	System.out.println("\tInc=" + incremento + "\tSimTitle=" + simTitle + "\tSimVenue=" + simVenue + "\t" + pmg + "\t" + pma + "\t" + k);
 	
 	System.out.println();
-	System.out.println("Size: " + base.getArtigos().size());
+	System.out.println("Size: " + instances.size());
 	System.out.println("K metric: " + k.compute() + "\tAverage Cluster Purity: " + k.acp() + "\tAverage Author Purity: " + k.aap());
 	System.out.println("pF1: " + pF1.compute() + "\tPairwisePrecision: " + pF1.pairwisePrecision() + "\tPairwiseRecall: " + pF1.pairwiseRecall());
 	System.out.println("ErrorRate: " + getErrorRate(instances));
@@ -149,11 +149,11 @@ public class Main {
      * @return the number of authors
      */
     private static int getNumberOfAuthors(List<Instance> instances) {
-	Set<String> count = new HashSet<String>();
+	Set<String> authors = new HashSet<String>();
 	for (Instance instance : instances) {
-	    count.add(instance.getActualClass());
+	    authors.add(instance.getActualClass());
 	}
-	return count.size();
+	return authors.size();
     }
     
     /**
@@ -163,10 +163,10 @@ public class Main {
      * @return the number of clusters
      */
     private static int getNumberOfClusters(List<Instance> instances) {
-	Set<String> count = new HashSet<String>();
+	Set<String> clusters = new HashSet<String>();
 	for (Instance instance : instances) {
-	    count.add(instance.getPredictedClass());
+	    clusters.add(instance.getPredictedClass());
 	}
-	return count.size();
+	return clusters.size();
     }
 }

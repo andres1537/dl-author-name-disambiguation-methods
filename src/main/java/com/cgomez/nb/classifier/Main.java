@@ -2,7 +2,9 @@ package com.cgomez.nb.classifier;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.SortedMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -49,12 +51,12 @@ public class Main {
             nb.train(trainFile);
             long trainTime = System.currentTimeMillis() - tic;
 
-            tic = System.currentTimeMillis();
+//            tic = System.currentTimeMillis();
             Evaluate eval = nb.test(testFile);
-            long testTime = System.currentTimeMillis() - tic;
+//            long testTime = System.currentTimeMillis() - tic;
 
-            eval.computeKMetric();
-            eval.computePairwiseF1();
+//            eval.computeKMetric();
+//            eval.computePairwiseF1();
             
 
             // Carlos
@@ -72,14 +74,14 @@ public class Main {
 //            }
 
             System.out.println();
-            System.out.println("Size: " + eval.set.size());
-            System.out.println("Training time: " + trainTime + "\tTest time: " + testTime);
+            System.out.println("Size: " + instances.size());
+            System.out.println("Training time: " + trainTime);
 //            System.out.println("K metric: " + eval.getkMetric() + "\tAverage Cluster Purity: " + eval.getACP() + "\tAverage Author Purity: " + eval.getAAP());
             System.out.println("K metric: " + k.compute() + "\tAverage Cluster Purity: " + k.acp() + "\tAverage Author Purity: " + k.aap());
 //            System.out.println("pF1: " + eval.getpF1());
             System.out.println("pF1: " + pF1.compute() + "\tPairwisePrecision: " + pF1.pairwisePrecision() + "\tPairwiseRecall: " + pF1.pairwiseRecall());
-            System.out.println("ErrorRate: " + eval.getErrorRate());
-            System.out.println("NumberOfAuthors: " + eval.getNumberOfAuthors() + "\tNumberOfClusters: " + eval.getNumberOfClusters());
+            System.out.println("ErrorRate: " + getErrorRate(instances));
+            System.out.println("NumberOfAuthors: " + getNumberOfAuthors(instances) + "\tNumberOfClusters: " + getNumberOfClusters(instances));
             
 //            System.out.println();
 //            System.out.println("Size: " + eval.set.size());
@@ -113,6 +115,50 @@ public class Main {
 	}
 	
 	return instances;
+    }
+    
+    /**
+     * Gets the error rate.
+     *
+     * @param instances the instances
+     * @return the error rate
+     */
+    private static double getErrorRate(List<Instance> instances) {
+	double error = 0d;
+	for (Instance instance : instances) {
+	    if (!instance.getActualClass().equals(instance.getPredictedClass())) {
+		error++;
+	    }
+	}
+	return error / instances.size();
+    }
+    
+    /**
+     * Gets the number of authors.
+     *
+     * @param instances the instances
+     * @return the number of authors
+     */
+    private static int getNumberOfAuthors(List<Instance> instances) {
+	Set<String> authors = new HashSet<String>();	
+	for (Instance instance : instances) {
+	    authors.add(instance.getActualClass());
+	}
+	return authors.size();
+    }
+    
+    /**
+     * Gets the number of clusters.
+     *
+     * @param instances the instances
+     * @return the number of clusters
+     */
+    private static int getNumberOfClusters(List<Instance> instances) {
+	Set<String> clusters = new HashSet<String>();	
+	for (Instance instance : instances) {
+	    clusters.add(instance.getPredictedClass());
+	}
+	return clusters.size();
     }
 
     private static void printHelp() {
