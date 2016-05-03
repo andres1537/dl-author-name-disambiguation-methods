@@ -114,7 +114,7 @@ public class Main {
             PairwiseF1 pF1 = new PairwiseF1(actual, predicted);
             
             // TODO Carlos
-//            for (Instance i: eval.set){
+//            for (com.cgomez.cosine.classifier.Instance i: eval.set){
 //        	System.out.println(i.id +"\t"+ i.classId +"\t"+ i.predictedClassId);
 //            }
 
@@ -146,7 +146,7 @@ public class Main {
 	for (com.cgomez.cosine.classifier.Instance inst : set) {
 	    instance = new Instance();
 	    instance.set_id(String.valueOf(inst.id));
-	    instance.setActualClass(String.valueOf(inst.realClassId));
+	    instance.setActualClass(String.valueOf(inst.classId));
 	    instance.setPredictedClass(String.valueOf(inst.predictedClassId));
 	    instances.add(instance);
 	}
