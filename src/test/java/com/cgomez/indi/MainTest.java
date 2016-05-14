@@ -10,7 +10,7 @@ public class MainTest extends AbstractMethod {
 //        System.out.println("K: 0.0 ± 0.00 :: pF1: 0.0 ± 0.00");
         System.out.println("----------------------------------------------");
 //        String[] arguments = { "src/test/resources/indi/collection", "1987", "2007", "0.1", "0.9" };
-        String[] arguments = { indiFile, "9999", "9999", "0.1", "0.9" };
+        String[] arguments = { indiFile, "9999", "9999", "0.2", "0.8" };
         Main.main(arguments);
     }
 }
