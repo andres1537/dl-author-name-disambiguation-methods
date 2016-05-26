@@ -8,7 +8,7 @@ public class MainTest extends AbstractMethod {
         System.out.println("2. COSINE");
         System.out.println("K: 0.884 ± 0.028 :: pF1: 0.898 ± 0.029");
         System.out.println("----------------------------------------------");
-        String[] arguments = { "-c", testFile, "-t", trainFile };
+        String[] arguments = { "-c", testFile, "-t", trainFile, "-e", "1" };
         Main.main(arguments);
     }
 }
