@@ -31,12 +31,12 @@ public class Main {
         String trainFile = null;
         String testFile = null;
 
-        double wc = 0.5;
-        double wt = 0.3;
+        double wc = 0.6;
+        double wt = 0.2;
         double wv = 0.2;
         double delta = 0.0;
         double gamma = 0.2;
-        double phi = 0.1;
+        double phi = 0.2;
 
         boolean selfTraining = true;
         boolean sp = true;
