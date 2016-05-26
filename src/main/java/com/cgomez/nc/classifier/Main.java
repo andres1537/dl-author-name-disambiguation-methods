@@ -31,6 +31,8 @@ public class Main {
         String trainFile = null;
         String testFile = null;
 
+        // Carlos
+        // these are not used when there is a traing file, insted of this, it's used searchParameters to find best parameters
         double wca = 0.7786387036429933;	
         double wt = 0.1301928938404212;
         double wv = 0.09116840251658546;	
