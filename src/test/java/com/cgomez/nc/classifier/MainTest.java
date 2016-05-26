@@ -8,7 +8,7 @@ public class MainTest extends AbstractMethod {
         System.out.println("1. NC");
         System.out.println("K: 0.919 ± 0.020 :: pF1: 0.919 ± 0.023");
         System.out.println("----------------------------------------------");
-        String[] arguments = { "-c", testFile };
+        String[] arguments = { "-c", testFile, "-t", trainFile };
         Main.main(arguments);
     }
 }
