@@ -31,13 +31,14 @@ public class Main {
         String trainFile = null;
         String testFile = null;
 
-        double wc = 0.6;
-        double wt = 0.2;
-        double wv = 0.2;
-        double delta = 0.0;
-        double gamma = 0.2;
-        double phi = 0.2;
-
+        double wca = 0.7786387036429933;	
+        double wt = 0.1301928938404212;
+        double wv = 0.09116840251658546;	
+        double alpha = 0.2;
+        double delta = 0.05386358849796298;	
+        double gamma = 0.059503892959004066;	
+        double phi = 0.9843212300526584;
+        
         boolean selfTraining = true;
         boolean sp = true;
 
@@ -53,7 +54,7 @@ public class Main {
                 break;
             case "-w":
                 i++;
-                wc = Double.parseDouble(args[i]);
+                wca = Double.parseDouble(args[i]);
                 i++;
                 wt = Double.parseDouble(args[i]);
                 i++;
@@ -93,7 +94,7 @@ public class Main {
         try {
 
             long tic = System.currentTimeMillis();
-            NC nc = new NC(wc, wt, wv, 0.2, delta, gamma, phi, selfTraining);
+            NC nc = new NC(wca, wt, wv, alpha, delta, gamma, phi, selfTraining);
             if (trainFile == null) {
                 nc.initializeModel();
             } else {
