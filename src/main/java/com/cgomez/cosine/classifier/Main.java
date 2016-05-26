@@ -28,11 +28,14 @@ public class Main {
         String trainFile = null;
         String testFile = null;
 
-        double wc = 0.5;
-        double wt = 0.3;
-        double wv = 0.2;
-        double delta = 0.0;
-        double gamma = 0.2;
+        // Carlos
+        // these are not used when there is a traing file, insted of this, it's used searchParameters to find best parameters
+        double wca = 0.6989692998694383;	
+        double wt = 0.21742225850778352;
+        double wv = 0.08360844162277825;	
+        double alpha = 0.1;
+        double delta = 0.0;	
+        double gamma = 0.2;	
         double phi = 0.1;
 
         boolean selfTraining = false;
@@ -50,7 +53,7 @@ public class Main {
                 break;
             case "-w":
                 i++;
-                wc = Double.parseDouble(args[i]);
+                wca = Double.parseDouble(args[i]);
                 i++;
                 wt = Double.parseDouble(args[i]);
                 i++;
@@ -87,7 +90,7 @@ public class Main {
             System.exit(0);
         }
 
-        CosineNC cosine = new CosineNC(wc, wt, wv, 0.2, delta, gamma, phi, selfTraining, true);
+        CosineNC cosine = new CosineNC(wca, wt, wv, alpha, delta, gamma, phi, selfTraining, true);
         try {
 
             long tic = System.currentTimeMillis();
