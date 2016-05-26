@@ -1972,7 +1972,7 @@ public class CosineNC extends Classifier {
             defineMinGSim(nc, vetCitations);
         }
         
-        //System.out.println(wca +"\t"+ wt +"\t"+ wv +"\t"+ alpha +"\t"+ minDelta +"\t"+ minGamma +"\t"+ minGSim);
+        System.out.println(wca +"\t"+ wt +"\t"+ wv +"\t"+ alpha +"\t"+ minDelta +"\t"+ minGamma +"\t"+ minGSim);
     }
 
     private void getScores(LinkedList<Citation> citations, LinkedList<CitationScores> scores) {
