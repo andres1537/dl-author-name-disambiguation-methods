@@ -9,5 +9,5 @@ public abstract class AbstractMethod {
     
     protected static String trainFile = "C:/Users/andres/Desktop/data/dl-author-name-disambiguator/resources/dataset/txt/no incremental/trainingSet.txt";
     protected static String testFile = "C:/Users/andres/Desktop/data/dl-author-name-disambiguator/resources/dataset/txt/no incremental/testSet.txt";
-    protected static String indiFile = "C:/Users/andres/Desktop/data/dl-author-name-disambiguator/resources/dataset/txt/incremental/indi";
+    protected static String indiFile = "C:/Users/andres/Desktop/data/dl-author-name-disambiguator/resources/dataset/txt/incremental/indi/testSet";
 }
