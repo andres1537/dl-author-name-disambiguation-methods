@@ -7,7 +7,7 @@ public class MainSelfTrainingTest extends AbstractMethod {
         System.out.println("----------------------------------------------");
         System.out.println("1. NC-Self-Training");
         System.out.println("----------------------------------------------");
-        String[] arguments = { "-c", testFile, "-e", "0", "-w", "0.5 0.3 0.2", "-d", "0.0", "-g", "0.2", "-p", "0.1" };
+        String[] arguments = { "-c", testFile, "-e", "0", "-w", "0.5", "0.3", "0.2", "-d", "0.0", "-g", "0.2", "-p", "0.1" };
         Main.main(arguments);
     }
 }
