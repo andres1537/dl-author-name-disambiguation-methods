@@ -28,7 +28,7 @@ public class MainSelfTrainingTest extends AbstractMethod {
     
     public static Map<Integer, String> files() {
 	Map<Integer, String> map = new HashMap<Integer, String>();
-	final File folder = new File(increasesFile);
+	final File folder = new File(ncSelfTrainingFile);
 	for (final File file : folder.listFiles()) {
 	    int i = file.getName().indexOf("_") + 1;
 	    map.put(Integer.valueOf(FilenameUtils.getBaseName(file.getName()).substring(i)), file.getAbsolutePath());         
