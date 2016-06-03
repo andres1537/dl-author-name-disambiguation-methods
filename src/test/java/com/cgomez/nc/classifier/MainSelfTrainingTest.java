@@ -20,7 +20,9 @@ public class MainSelfTrainingTest extends AbstractMethod {
         while (beginning <= end) {
 	    if (map.containsKey(beginning)) {
 		System.out.println(map.get(beginning));
-	        Main.main(new String[] { "-c", map.get(beginning), "-e", "0", "-w", "0.5", "0.3", "0.2", "-d", "0.0", "-g", "0.2", "-p", "0.1" });	
+		// using default parameters
+//	        Main.main(new String[] { "-c", map.get(beginning), "-e", "0", "-w", "0.5", "0.3", "0.2", "-d", "0.0", "-g", "0.2", "-p", "0.1" });	
+		Main.main(new String[] { "-c", map.get(beginning) });
 	    }
 	    beginning++;
 	}
