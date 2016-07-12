@@ -135,7 +135,7 @@ public class Main {
             System.out.println("K metric: " + k.compute() + "\tAverage Cluster Purity: " + k.acp() + "\tAverage Author Purity: " + k.aap());
 //            System.out.println("pF1: " + eval.getpF1());
             System.out.println("pF1: " + pF1.compute() + "\tPairwisePrecision: " + pF1.pairwisePrecision() + "\tPairwiseRecall: " + pF1.pairwiseRecall());
-            System.out.println("ErrorRate: " + getErrorRate(instances));
+            System.out.println("ErrorRate: " + getErrorRate(instances) + "\tRCS: " + (double) getNumberOfClusters(instances) / getNumberOfAuthors(instances));
             System.out.println("NumberOfAuthors: " + getNumberOfAuthors(instances) + "\tNumberOfClusters: " + getNumberOfClusters(instances));
 
         } catch (IOException ex) {
