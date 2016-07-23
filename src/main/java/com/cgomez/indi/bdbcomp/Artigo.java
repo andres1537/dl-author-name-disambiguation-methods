@@ -71,12 +71,6 @@ public boolean isTreino()
     return this.originalAutor;
   }
   
-  public Artigo(int numArtigo, String actualClass, String predictedClass) {
-	  this.numArtigo = numArtigo;
-	  this.actualClass = actualClass;
-	  this.predictedClass = predictedClass;
-  }
-  
   public Artigo(int numArtigo, int numClasse, int numArtClasse, String autor, String[] coautores, String titulo, String veiculoPublicacao, String actualClass)
   {
     this.actualClass = actualClass;
