@@ -71,6 +71,10 @@ public boolean isTreino()
     return this.originalAutor;
   }
   
+  public Artigo() {
+	
+  }
+  
   public Artigo(int numArtigo, int numClasse, int numArtClasse, String autor, String[] coautores, String titulo, String veiculoPublicacao, String actualClass)
   {
     this.actualClass = actualClass;
