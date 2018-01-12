@@ -1,10 +1,9 @@
 This folder contains the methods used in the work "On the Combination of Domain-Specific Heuristics for Author Name Disambiguation – The Nearest Cluster Method".
 
-Each folder contains a project of the NetBeans IDE (https://netbeans.org/). 
-
 The SAND method uses the LAC (Lazy Associative Classifier) implementation available in 'SLAND/lac' folder.
 
 The methods LASVMDBSCAN, SVM, SLAND and SAND need a 'config.properties' file in order to define the path to external tools and to temporary folders.
 
 More details of each method can be found in the class 'classifier.Main'.
 
+The original code can be downloaded directly from the web of the authors in the following link: http://www.lbd.dcc.ufmg.br/lbd/collections
